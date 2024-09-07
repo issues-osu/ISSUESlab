@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gia Elise Barboza-Salerno
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Gia
+last_name: Barboza-Salerno
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Asst. Professor of Social Work and Public Health
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: The Ohio State University
+    url: 'www.osu.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +27,14 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Political Methodology
+      institution: Michigan State University
+    - course: MS in Statistics
+      institution: Michigan State University
+    - course: MA in Family Studies
+      institution: Michigan State University
+    - course: JD in Law
+      institution: Michigan State University
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

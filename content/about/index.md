@@ -7,7 +7,6 @@ weight = 20  # Order that this section will appear in.
 
 title = "About the Big Data for Social Justice Research Lab"
 #subtitle = "Subtitle"
-[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
@@ -18,34 +17,9 @@ Our mission is to leverage and make sense of big geospatial data at different sc
 We are particularly interested in the interface of emerging urban datasets such as street-level imagery, dynamic/sensor data, and 3D city models with the state of the art of artificial intelligence to solve contemporary urban challenges and provide a strong foundation to advance urban informatics.
 Crowdsourcing plays an important role in our research, as we follow and contribute to the vibrant and impressive developments in Volunteered Geographic Information (VGI) and engage such data in our advancements.
 
-The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Assistant Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg), and has been a home for [dozens of enthusiastic researchers](/people) who share ambitions about making our cities smarter.
-You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
+Dr. Gia Elise Barboza-Salerno created the research group in 2023. Motivated primarily by a desire to effectuate systemic reform, particularly in child welfre, criminal justice and juvenile justice. You can read more about our research agenda [here](research). We are particularly interested in bringing urban analytics and geospatial analysis to examine the spatial distribution of violence in urban areas. Below is an example map we created in one of our most recent manuscripts that uses computational network analysis to understand firearm-related harm in Compton, California.
 
 ![](banner-gbmi.png)
 
-We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
-Within NUS, we collaborate primarily with several sister labs such as the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), the [Behavioural Cognitive Science (BeCoS) Lab](https://behaviourscience.org), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forging a constellation of research groups with complementary agendas operating at converging scales and with shared objectives.
+We are involved in several community-based and academic collaborations such as the [Ohio Policy Evaluation Network (OPEN)](https://open.osu.edu/) and the [Franklin County Public Defender](https://defender.franklincountyohio.gov/).
 
-![](ual-cny-dinner-2024-02.jpg)
-
-![](ual-dinner-2022-06.jpg)
-
-![](song-gao-visit-2023-12.jpg)
-
-Some of our activities are also featured in a recent [video](https://www.youtube.com/watch?v=rOgbqANG-6I):
-{{< youtube rOgbqANG-6I >}}
-
-If you are looking for a paper that overviews our work, this [2023 book chapter](/publication/2023-geoai-handbook-urban-sensing/), part of the [Handbook of Geospatial Artificial Intelligence](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li), describes a portion of our research agenda and recent work.
-
-You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a href="../post/">blog</a>, and <a href="../publication/">papers</a>.
-You may also be interested in our home-grown data and code that we [released openly](/data-code).
-
-![](s-osc2-x.png)
-
-The full list of our interests and key words: Geographical Information Science (GIS), geospatial machine learning, GeoAI, geographic data science, spatial data infrastructure (SDI), 3D city modelling / 3D GIS / digital twins, 3D urban analytics, street view imagery, spatial data quality and standardisation (CityJSON, CityGML), thermography, Volunteered geoinformation (VGI) and OpenStreetMap (OSM), Building Information modelling (BIM) 3D underground data modelling, and 3D cadastre.
-
-![](banner2.png)
-
-![](../opportunities/ir-2022-06.jpg)
-
-![](ual-christmas-2023-12.jpg)

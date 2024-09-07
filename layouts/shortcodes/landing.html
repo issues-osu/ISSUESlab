@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  
+  {{ with .Params.sections }}
+    {{ range . }}
+      {{ if eq .block "people" }}
+        <section>
+          <h2>{{ .content.title }}</h2>
+
+          {{ $userGroups := .content.user_groups }}
+          {{ $sortBy := .content.sort_by }}
+          {{ $sortAscending := .content.sort_ascending }}
+
+          <!-- Example user display logic -->
+          {{ range (where .Site.Data.users "groups" $userGroups) }}
+            {{ if eq .Params.sort_by $sortBy }}
+              {{ if .Params.sort_ascending }}
+                <!-- Display users sorted ascending -->
+              {{ else }}
+                <!-- Display users sorted descending -->
+              {{ end }}
+            {{ end }}
+
+            <div class="user">
+              <h3>{{ .Title }}</h3>
+              {{ if $.Params.design.show_role }}
+                <p>Role: {{ .Params.role }}</p>
+              {{ end }}
+              {{ if $.Params.design.show_social }}
+                <p>Social Links: {{ .Params.social }}</p>
+              {{ end }}
+            </div>
+          {{ end }}
+        </section>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

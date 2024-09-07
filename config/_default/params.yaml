@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Urban Analytics Lab, National University of Singapore'
-    description: 'NUS Urban Analytics Lab'
-    twitter: 'urbanalyticslab'
+    org_name: 'Big Data for Social Justice Reearch'
+    description: 'Research and Mentoring Lab'
+    twitter: 'bigdataforsocialjustice'
   analytics:
     google_analytics: 'UA-143417043-1'
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Urban Analytics Lab, National University of Singapore.'
+    notice: '© {year} Big Data for Social Justice Research.'
     license:
       enable: false
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/ualsg/ualsg.netlify.app'
+    url: 'https://github.com/bigdataforsocialjustice/lab'
     content_dir: content
     branch: main
   avatar:

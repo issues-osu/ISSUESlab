@@ -11,13 +11,13 @@ main:
     parent: 'about'
     url: '/about'
     weight: 11
-  - name: 'principal investigator'
-    parent: 'about'
-    url: '/author/filip-biljecki'
-    weight: 12
-  - name: 'people'
+  - name: 'recent news'
     parent: 'about'
     url: '/people'
+    weight: 12
+  - name: 'meet the team'
+    parent: 'about'
+    url: '/authors'
     weight: 13
   - name: 'our seminars'
     parent: 'about'

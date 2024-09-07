@@ -131,18 +131,18 @@ sections:
     content:
       title: Contact
       text: 
-      email: filip@nus.edu.sg
+      email: barboza-salerno.1@osu.edu
       phone: 
       address:
-        street: SDE4, NUS College of Design and Engineering, 8 Architecture Dr
-        city: Singapore
-        region: Singapore
+        street: 1947 College Road
+        city: Columbus
+        region: Ohio
         postcode: '117564'
-        country: Singapore
-        country_code: SG
+        country: United States of America
+        country_code: USA
       coordinates:
-        latitude: '1.29695'
-        longitude: '103.77026'
+        latitude: '40.00219381222273'
+        longitude: '-83.01107546879719'
       directions: 
       office_hours:
       appointment_url: ''
@@ -150,11 +150,11 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: X
-          link: 'https://twitter.com/urbanalyticslab'
+          link: 'https://x.com/bigdata4justice'
         - icon: linkedin
           icon_pack: fab
           name: LinkedIn
-          link: 'https://www.linkedin.com/company/urban-analytics-lab/'
+          link: 'https://www.linkedin.com/giabarboza/'
     
       # Automatically link email and phone or display as text?
       autolink: true
