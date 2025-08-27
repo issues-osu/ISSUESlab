@@ -1,7 +1,7 @@
 ---
 # Display name
 name: "Gia Barboza-Salerno"
-title: "Director"
+title: "Faculty, CSW/CPH"
 
 authors:
 - gia-barboza-salerno
