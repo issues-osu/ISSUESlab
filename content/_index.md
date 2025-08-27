@@ -15,7 +15,6 @@ sections:
         The ISSUES Lab is a research group that applies advanced statistical and spatial analysis to understand neighborhood conditions and translate data into actionable insights that inform public health policies and legal strategies aimed at building healthier communities.
 
         Our work bridges law, public health, and statistics by combining geospatial methods and participatory approaches to address structural inequities. We translate complex spatial and legal analysis into actionable insights that support communities most affected by violence, childhood adversity, and harmful environmental exposures.
-.
 
         <br /><br />
         <div>
