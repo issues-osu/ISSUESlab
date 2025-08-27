@@ -16,4 +16,4 @@ Our conference presentations, talks, workshops, and preprints can be found on th
 
 The PDFs available here are either published as [gold or green open access](https://en.wikipedia.org/wiki/Open_access#Colour_naming_system) (usually postprints).
 For the authoritative publication please visit the publisher's website linked through the DOI of the article.
-For code and data check our [GitHub page](https://github.com/issues-osu.com) or submit a request.
+For code and data check our [GitHub page](https://github.com/issues-osu)or submit a request.
