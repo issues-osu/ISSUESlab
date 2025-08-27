@@ -3,8 +3,6 @@ title: "Resources for Learning"
 type: page
 ---
 
-# Resources for Learning
-
 ## LinkedIn
 - Everyone should have a LinkedIn profile and connect with other ISSUES Lab members.  
 - LinkedIn is a way to connect with people outside of the research/academic space (policy makers, practitioners, advocates, etc.) and to **disseminate research**.  
