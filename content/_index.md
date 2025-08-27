@@ -70,9 +70,6 @@ sections:
 
         We are a multidisciplinary team of scholar/activists from diverse disciplines with a shared research goal of strengthening families by highlighting their assets while addressing barriers to health. Each individual has a bio page that can be accessed [here](/people).
         
-       Watch the video above or read more [here]({{< relref "about/_index.md" >}}).<br /><br />
-
-
         We are proudly based at the <a href="https://cde.nus.edu.sg/arch/">Colleges of Social Work and Public Health</a> at the <a href="https://www.osu.edu">The Ohio State University</a>, a leading global university in the state of Ohio, USA.
     design:
       columns: '2'
