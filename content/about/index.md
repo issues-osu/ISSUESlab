@@ -1,15 +1,8 @@
-+++
-# About widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
-
-title = "About the Big Data for Social Justice Research Lab"
-#subtitle = "Subtitle"
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
+---
+title: "About the ISSUES Lab"
+type: page
+weight: 20
+---
 
 We are a multidisciplinary research group comprised of underrepresented scholars in the academy. Our work focuses on using geographic data science in social work policy and practice at the [Colleges of Social Work (https://cde.nus.edu.sg/arch/) and Public Health](https://cde.nus.edu.sg/arch/) at The [Ohio State University (OSU)](http://www.osu.edu), a leading global university based in Columbus, Ohio.
 
