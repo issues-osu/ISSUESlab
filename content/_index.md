@@ -107,7 +107,7 @@ sections:
     content:
       title: Presentations
       subtitle: Updates from our group
-      text: Feel free to follow us on <a href="https://www.linkedin.com/barboza">LinkedIn</a>, <a href="https://bsky.app/profile/data4socialjustice.bsky.social">Blusky</a>, and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
+      text: Feel free to follow us on <a href="https://www.linkedin.com/in/gia-barboza-895bb07">LinkedIn</a>, <a href="https://bsky.app/profile/data4socialjustice.bsky.social">Blusky</a>, and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
       count: 5
       featured_image: "featured.png"
       filters:
@@ -136,7 +136,7 @@ sections:
           link: 'https://x.com/bigdata4justice'
         - icon: linkedin
           name: LinkedIn
-          link: 'https://www.linkedin.com/giabarboza/'
+          link: 'https://www.linkedin.com/in/gia-barboza-895bb07/'
     design:
       columns: '2'
 
