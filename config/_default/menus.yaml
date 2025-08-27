@@ -6,15 +6,6 @@ main:
   - name: About
     url: '/about'
     weight: 10
-  - name: Team
-    parent: About
-    url: '/author'
-    weight: 11
-  - name: Media
-    parent: About
-    url: '/news'
-    weight: 13
-
   - name: Research Areas
     url: '/research'
     weight: 20
@@ -50,7 +41,6 @@ main:
     parent: 'Law & Policy'
     url: '/policy-briefs'
     weight: 33
-
 
   - name: Blog
     url: '/post'
