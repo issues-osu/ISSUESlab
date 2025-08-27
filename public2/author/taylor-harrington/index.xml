@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Taylor Harrington | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/author/taylor-harrington/</link><atom:link href="https://issues-osu/issues/author/taylor-harrington/index.xml" rel="self" type="application/rss+xml"/><description>Taylor Harrington</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>Taylor Harrington</title><link>https://issues-osu/issues/author/taylor-harrington/</link></image><item><title>Street-View Measures of Urban Greenness, Area-Level Deprivation, and the Risk of Firearm-Related Homicide: A Matched Case-Control Study</title><link>https://issues-osu/issues/publication/greenview/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/publication/greenview/</guid><description>&lt;p>This study examined how pedestrian-level green space relates to firearm-related and natural deaths in Cook County, Illinois, using a matched case-control design. Various greenness measures—including street-view green imagery, tree canopy coverage, and green space along walkable streets—were inversely associated with firearm homicide risk. Protective effects of tree canopy and localized greenery were stronger in less deprived neighborhoods, while neighborhood racial composition influenced the relationship between park proximity and homicide risk. Overall, street-level green space is linked to lower homicide odds and may offer greater protection in vulnerable communities&lt;/p>
+&lt;h1 id="in-progress">In progress&lt;/h1>
+&lt;h2 id="greenview">greenview&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Short description:&lt;/td>
+&lt;td>This study examined how pedestrian-level green space relates to firearm-related and natural deaths in Cook County, Illinois, using a matched case-control design. Various greenness measures—including street-view green imagery, tree canopy coverage, and green space along walkable streets—were inversely associated with firearm homicide risk. Protective effects of tree canopy and localized greenery were stronger in less deprived neighborhoods, while neighborhood racial composition influenced the relationship between park proximity and homicide risk. Overall, street-level green space is linked to lower homicide odds and may offer greater protection in vulnerable communities&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lead developer:&lt;/td>
+&lt;td>gia-barboza-salerno&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Further reading:&lt;/td>
+&lt;td>Please read the [paper](in progress) published in Applied Geography&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Download:&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/street-view-greenness-firearm" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Main data source(s):&lt;/td>
+&lt;td>Green View Index&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coverage:&lt;/td>
+&lt;td>Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Citation:&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">Access our tutorial on here&lt;/a> for more details.&lt;/p></description></item></channel></rss>

@@ -1,5 +1,5 @@
 ---
-title:
+title: ISSUES Lab
 date: 2024-05-11
 type: landing
 

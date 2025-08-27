@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gia | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/author/gia/</link><atom:link href="https://issues-osu/issues/author/gia/index.xml" rel="self" type="application/rss+xml"/><description>Gia</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>Gia</title><link>https://issues-osu/issues/author/gia/</link></image><item><title>An examination of the effect of area-level characteristics on juvenile justice and child welfare referrals using multivariate Bayesian spatial modeling</title><link>https://issues-osu/issues/publication/can-jj/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/publication/can-jj/</guid><description>&lt;p>We are excited to share our project: An examination of the effect of area-level characteristics on juvenile justice and child welfare referrals using multivariate Bayesian spatial modeling, now published in {{ journal_name }}.&lt;/p>
+&lt;p>The study was led by Barboza-Salerno, in collaboration with our team at The Ohio State University.&lt;/p>
+&lt;hr>
+&lt;h2 id="-project-overview">🧾 Project Overview&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Field&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Content&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Title&lt;/strong>&lt;/td>
+&lt;td>An examination of the effect of area-level characteristics on juvenile justice and child welfare referrals using multivariate Bayesian spatial modeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Subtitle&lt;/strong>&lt;/td>
+&lt;td>{{ subtitle }}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Date&lt;/strong>&lt;/td>
+&lt;td>{{ 2025-25-02 }}&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authors&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Affiliation&lt;/strong>&lt;/td>
+&lt;td>ISSUES&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Published In&lt;/strong>&lt;/td>
+&lt;td>Child Abuse &amp;amp; Neglect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>DOI&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://doi.org/10.1016/j.chiabu.2024.107203" title="Persistent link using digital object identifier" target="_blank" rel="noopener">https://doi.org/10.1016/j.chiabu.2024.107203&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>GitHub Repository&lt;/strong>&lt;/td>
+&lt;td>-&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main Data Sources&lt;/strong>&lt;/td>
+&lt;td>Administrative Records; Census Data&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Geographic Scope&lt;/strong>&lt;/td>
+&lt;td>New Mexico Census Tracts&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Methods&lt;/strong>&lt;/td>
+&lt;td>We examined the spatial overlap of child welfare and juvenile justice involvement using multivariate Bayesian spatial modeling.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Tutorial&lt;/strong>&lt;/td>
+&lt;td>[Link to tutorial](/lab/markdown/{{ tutorial_slug }}) (if applicable)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Background: Neighborhood disadvantage is linked to a higher risk of referrals to child welfare and
+juvenile justice systems. While past research has explored these associations independently, no
+study has concurrently examined the spatial overlap of child maltreatment and juvenile justice
+involvement.&lt;/p>
+&lt;p>Objective: We examine the spatial overlap of involvement in juvenile justice and child welfare
+systems to identify areas of shared risk.&lt;/p>
+&lt;p>Participants and setting: Youth who received either a juvenile justice or child welfare referral in
+New Mexico between 2008 and 2015 aggregated to census tracts.
+Methods: We examined the spatial overlap of child welfare and juvenile justice involvement using
+multivariate Bayesian spatial modeling.&lt;/p>
+&lt;p>Results: Results show a significant positive association between juvenile justice and child
+maltreatment referrals across neighborhoods. After adjusting for residential instability, immi-
+grant concentration, and residential racial segregation, children in the least deprived 20 % of
+neighborhoods were 95.2 % and 55.5 % less likely to be referred to child welfare or justice
+systems, respectively, compared to those in the most deprived 20 %.&lt;/p>
+&lt;p>Conclusions: Our findings highlight the value of geospatial analyses to guide public health in-
+terventions by targeting the shared overlapping risk factors associated with neighborhoods with
+high risk for both child welfare and juvenile justice system involvement.&lt;/p>
+&lt;hr>
+&lt;h2 id="highlights">Highlights&lt;/h2>
+&lt;ul>
+&lt;li>{{ highlight_1 }}&lt;/li>
+&lt;li>{{ highlight_2 }}&lt;/li>
+&lt;li>{{ highlight_3 }}&lt;/li>
+&lt;li>{{ highlight_4 }}&lt;/li>
+&lt;li>{{ highlight_5 }}&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="methods-overview">Methods Overview&lt;/h2>
+&lt;p>We used multivariate Bayesian models.
+Check out our [modeling tutorial](/lab/markdown/{{ tutorial_slug }}.html) for step-by-step methods.&lt;/p>
+&lt;hr>
+&lt;h2 id="bibtex-citation">BibTeX Citation&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bibtex" data-lang="bibtex">&lt;span class="line">&lt;span class="cl">&lt;span class="nc">@article&lt;/span>&lt;span class="p">{&lt;/span>&lt;span class="nl">barboza2025examination&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">title&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{An examination of the effect of area-level characteristics on juvenile justice and child welfare referrals using multivariate Bayesian spatial modeling}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">author&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{Barboza-Salerno, Gia E and Thurston, Holly and Chang, Yujeong and Stanek, Charis}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">journal&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{Child Abuse \&amp;amp; Neglect}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">volume&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{160}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">pages&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{107203}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">year&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{2025}&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="na">publisher&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">{Elsevier}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Integrating AI, Deep Learning, and Spatial Analytics to Investigate Environmental Correlates of Child Neglect</title><link>https://issues-osu/issues/news/lightening-talk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/lightening-talk/</guid><description>&lt;h2 id="child-neglect-as-a-public-health--civil-rights-crisis">Child Neglect as a Public Health &amp;amp; Civil Rights Crisis&lt;/h2>
+&lt;p>&lt;strong>Legal context:&lt;/strong> Under California WIC § 300(b)(1), neglect is the failure to provide adequate food, clothing, shelter, or supervision, placing a child at risk of serious harm. Our lab approaches neglect as both a &lt;strong>public health&lt;/strong> and &lt;strong>civil rights&lt;/strong> issue shaped by place.&lt;/p>
+&lt;h3 id="why-place-matters">Why place matters&lt;/h3>
+&lt;ul>
+&lt;li>Neglect risk is not only individual or familial—it’s structured by neighborhoods.&lt;/li>
+&lt;li>Housing quality, access to healthy food, environmental hazards, and local safety often align with legal definitions of neglect.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-we-read-environments-with-ai--geospatial-data">How we “read” environments with AI &amp;amp; geospatial data&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Street-level imagery:&lt;/strong> Systematically collect images via &lt;strong>ZenSVI&lt;/strong> and &lt;strong>Mapillary&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>Objective features (semantic segmentation):&lt;/strong> Quantify visible elements (e.g., vegetation, sidewalks, buildings) per image.&lt;/li>
+&lt;li>&lt;strong>Subjective perceptions (PlacePulse-style models):&lt;/strong> Score images for safety, upkeep, boredom/depressiveness.&lt;/li>
+&lt;li>&lt;strong>Neighborhood data integration:&lt;/strong> Combine imagery-derived measures with the &lt;strong>Area Deprivation Index&lt;/strong>, &lt;strong>Tree Equity Score&lt;/strong>, and geocoded child neglect reports.&lt;/li>
+&lt;li>&lt;strong>Spatial statistical modeling:&lt;/strong> Relate social/physical environmental factors to neglect reports.&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-we-learn-implications-for-child-welfare-systems">What we learn (implications for child welfare systems)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Isolate risk factors:&lt;/strong> Identify objective (green space, infrastructure) and subjective (perceived safety/upkeep) features associated with neglect risk.&lt;/li>
+&lt;li>&lt;strong>Target high-risk locations:&lt;/strong> Detect where environmental exposures align most strongly with neglect.&lt;/li>
+&lt;li>&lt;strong>Assess policy relevance:&lt;/strong> Evaluate whether legal mandates reflect measurable neighborhood conditions.&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-issues-lab-methods">Related ISSUES Lab methods&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Structural Topic Models (STMs):&lt;/strong> Extract themes from narratives (e.g., fatality reports, police incidents) and map them.&lt;/li>
+&lt;li>&lt;strong>Spatial Random Forests:&lt;/strong> Predict and map violence-related harms; rank influential environmental and social factors.&lt;/li>
+&lt;li>&lt;strong>Predictive analytics:&lt;/strong> Clarify when algorithms aid prevention vs. risk reinforcing inequities.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;a href="final.pptx">View the full presentation (PPTX)&lt;/a>&lt;/p></description></item></channel></rss>

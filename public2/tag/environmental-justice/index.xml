@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Environmental-Justice | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/tag/environmental-justice/</link><atom:link href="https://issues-osu/issues/tag/environmental-justice/index.xml" rel="self" type="application/rss+xml"/><description>Environmental-Justice</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>Environmental-Justice</title><link>https://issues-osu/issues/tag/environmental-justice/</link></image><item><title>Applying Social Geography to Structural Mitigation in Capital Defense</title><link>https://issues-osu/issues/news/mitigation/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/mitigation/</guid><description>&lt;h1 id="applying-social-geography-to-structural-mitigation-in-capital-defense">Applying Social Geography to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>&lt;a href="https://issues-osu/issues/files/osba.pdf">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://issues-osu/issues/images/titlepage.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies social geography and spatial data analysis to strengthen structural mitigation arguments in capital defense. By documenting how neighborhood conditions—including poverty, segregation, environmental stressors, and disinvestment—shape an individual&amp;rsquo;s developmental context and legal outcomes, we provide place-based, legally admissible evidence aligned with Ohio law and ABA mitigation guidelines.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can spatial analysis of public data reveal community-level risk factors—such as poverty, segregation, and housing instability—that contribute to life trajectories relevant to culpability and sentencing?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> In what ways can social geography and structural disadvantage be systematically incorporated into mitigation investigations to support fair, contextualized legal outcomes in death penalty cases?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project integrates spatial data and social geography to produce legally admissible, objective evidence of how systemic community-level factors influence life outcomes relevant to culpability and sentencing, advancing structural mitigation in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/osba.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>U.S. Census, Area Deprivation Index, Urban Institute data, Cook County parcel data, historical redlining maps&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Social Geography to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a> for a deeper look at spatial methods used in this work.&lt;/p></description></item><item><title>Applying Social Geography to Structural Mitigation in Capital Defense</title><link>https://issues-osu/issues/presentations/mitigation/mitigation/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/mitigation/mitigation/</guid><description>&lt;h1 id="applying-social-geography-to-structural-mitigation-in-capital-defense">Applying Social Geography to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>&lt;a href="https://issues-osu/issues/files/osba.pdf">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://issues-osu/issues/images/titlepage.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies social geography and spatial data analysis to strengthen structural mitigation arguments in capital defense. By documenting how neighborhood conditions—including poverty, segregation, environmental stressors, and disinvestment—shape an individual&amp;rsquo;s developmental context and legal outcomes, we provide place-based, legally admissible evidence aligned with Ohio law and ABA mitigation guidelines.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can spatial analysis of public data reveal community-level risk factors—such as poverty, segregation, and housing instability—that contribute to life trajectories relevant to culpability and sentencing?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> In what ways can social geography and structural disadvantage be systematically incorporated into mitigation investigations to support fair, contextualized legal outcomes in death penalty cases?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project integrates spatial data and social geography to produce legally admissible, objective evidence of how systemic community-level factors influence life outcomes relevant to culpability and sentencing, advancing structural mitigation in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/osba.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>U.S. Census, Area Deprivation Index, Urban Institute data, Cook County parcel data, historical redlining maps&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Social Geography to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a> for a deeper look at spatial methods used in this work.&lt;/p></description></item><item><title>Evaluating Child Fatality Reports using Structural Topic Models</title><link>https://issues-osu/issues/news/topicmods/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/topicmods/</guid><description>&lt;h1 id="applying-structural-topic-modeling-to-structural-mitigation-in-capital-defense">Applying Structural Topic Modeling to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp 400w,
+/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_f1f53c032e254d8d88ca2852b7536f38.webp 760w,
+/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_1200x1200_fit_q80_h2_lanczos_3.webp 1200w"
+src="https://issues-osu/issues/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp"
+width="760"
+height="429"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies structural topic modeling (STM) and natural language processing (NLP) to strengthen structural mitigation in capital defense. By analyzing unstructured narrative records from child death reviews, STM identifies hidden thematic patterns that illustrate how exposure to poverty, violence, systemic neglect, and environmental disadvantage shapes developmental trajectories relevant to culpability and sentencing. This approach generates objective, place-based, legally admissible evidence consistent with Ohio law and ABA mitigation standards.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can STM and NLP uncover latent themes in narrative records that reflect exposure to structural and environmental disadvantage over the life course?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> How can these data-driven patterns be integrated into capital case mitigation to contextualize life outcomes, support fairness in sentencing, and meet legal standards for structural mitigation?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project uses structural topic modeling and NLP to analyze unstructured child fatality review narratives, revealing hidden patterns of systemic disadvantage, environmental stress, and developmental risk relevant to culpability and sentencing in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/topicmods.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a> &lt;em>(Note: project URL unchanged; content reflects STM approach)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania Department of Human Services child fatality and near-fatality reports (2016–2024), American Community Survey county-level data (poverty, racial composition), standardized incidence ratios, and contextual metadata from CDRT reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania, with applications for mitigation practice in Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Structural Topic Modeling to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For a deeper look at STM and spatial risk methods relevant to this work, see this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a>.&lt;/p></description></item><item><title>Evaluating Child Fatality Reports using Structural Topic Models</title><link>https://issues-osu/issues/presentations/topicmods/topicmods/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/topicmods/topicmods/</guid><description>&lt;h1 id="applying-structural-topic-modeling-to-structural-mitigation-in-capital-defense">Applying Structural Topic Modeling to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp 400w,
+/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_f1f53c032e254d8d88ca2852b7536f38.webp 760w,
+/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_1200x1200_fit_q80_h2_lanczos_3.webp 1200w"
+src="https://issues-osu/issues/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp"
+width="760"
+height="429"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies structural topic modeling (STM) and natural language processing (NLP) to strengthen structural mitigation in capital defense. By analyzing unstructured narrative records from child death reviews, STM identifies hidden thematic patterns that illustrate how exposure to poverty, violence, systemic neglect, and environmental disadvantage shapes developmental trajectories relevant to culpability and sentencing. This approach generates objective, place-based, legally admissible evidence consistent with Ohio law and ABA mitigation standards.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can STM and NLP uncover latent themes in narrative records that reflect exposure to structural and environmental disadvantage over the life course?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> How can these data-driven patterns be integrated into capital case mitigation to contextualize life outcomes, support fairness in sentencing, and meet legal standards for structural mitigation?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project uses structural topic modeling and NLP to analyze unstructured child fatality review narratives, revealing hidden patterns of systemic disadvantage, environmental stress, and developmental risk relevant to culpability and sentencing in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/topicmods.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a> &lt;em>(Note: project URL unchanged; content reflects STM approach)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania Department of Human Services child fatality and near-fatality reports (2016–2024), American Community Survey county-level data (poverty, racial composition), standardized incidence ratios, and contextual metadata from CDRT reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania, with applications for mitigation practice in Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Structural Topic Modeling to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For a deeper look at STM and spatial risk methods relevant to this work, see this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a>.&lt;/p></description></item><item><title>Evaluating Child Fatality Reports using Structural Topic Models</title><link>https://issues-osu/issues/presentations/topicmods/topicmods/topicmods/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/topicmods/topicmods/topicmods/</guid><description>&lt;h1 id="applying-structural-topic-modeling-to-structural-mitigation-in-capital-defense">Applying Structural Topic Modeling to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://issues-osu/issues/featured.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies structural topic modeling (STM) and natural language processing (NLP) to strengthen structural mitigation in capital defense. By analyzing unstructured narrative records from child death reviews, STM identifies hidden thematic patterns that illustrate how exposure to poverty, violence, systemic neglect, and environmental disadvantage shapes developmental trajectories relevant to culpability and sentencing. This approach generates objective, place-based, legally admissible evidence consistent with Ohio law and ABA mitigation standards.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can STM and NLP uncover latent themes in narrative records that reflect exposure to structural and environmental disadvantage over the life course?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> How can these data-driven patterns be integrated into capital case mitigation to contextualize life outcomes, support fairness in sentencing, and meet legal standards for structural mitigation?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project uses structural topic modeling and NLP to analyze unstructured child fatality review narratives, revealing hidden patterns of systemic disadvantage, environmental stress, and developmental risk relevant to culpability and sentencing in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/topicmods.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a> &lt;em>(Note: project URL unchanged; content reflects STM approach)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania Department of Human Services child fatality and near-fatality reports (2016–2024), American Community Survey county-level data (poverty, racial composition), standardized incidence ratios, and contextual metadata from CDRT reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania, with applications for mitigation practice in Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Structural Topic Modeling to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For a deeper look at STM and spatial risk methods relevant to this work, see this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a>.&lt;/p></description></item></channel></rss>

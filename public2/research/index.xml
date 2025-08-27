@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Violence-Related Harm | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/research/</link><atom:link href="https://issues-osu/issues/research/index.xml" rel="self" type="application/rss+xml"/><description>Violence-Related Harm</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>Violence-Related Harm</title><link>https://issues-osu/issues/research/</link></image><item><title/><link>https://issues-osu/issues/research/aces/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/research/aces/</guid><description>&lt;section class="prose lg:prose-xl">
+&lt;img src="childs.png" alt="Neighborhoods and Child Welfare" class="my-8 rounded-xl shadow-md">
+&lt;p>Our lab explores how early life adversity—including abuse, neglect, and household challenges —interacts with environmental and structural factors such as housing instability, poverty, and racial inequity. We apply spatial and statistical methods to better understand how these experiences cluster in urban space and contribute to long-term disparities in health, education, and justice involvement.&lt;/p>
+&lt;h2>Core Questions We Address&lt;/h2>
+&lt;ul>
+&lt;li>How do ACEs vary across neighborhoods and demographic groups?&lt;/li>
+&lt;li>What community-level factors (e.g., green space, school quality, social services) buffer or exacerbate their impact?&lt;/li>
+&lt;li>Can we predict future risk of ACE-related outcomes using spatial machine learning?&lt;/li>
+&lt;/ul>
+&lt;h2>Methods and Approaches&lt;/h2>
+&lt;p>We use a mix of geospatial data science, longitudinal modeling, and participatory research with community partners to develop evidence-informed policy recommendations and intervention strategies. Our work often involves:&lt;/p>
+&lt;ul>
+&lt;li>Mapping and modeling ACE risk at the neighborhood level&lt;/li>
+&lt;li>Combining survey data with built environment indicators&lt;/li>
+&lt;li>Collaborating with schools, child welfare agencies, and public health organizations&lt;/li>
+&lt;/ul>
+&lt;h2>Ongoing Projects&lt;/h2>
+&lt;p>Current studies include analysis of how exposure to ACEs relates to educational attainment and justice system involvement, with special focus on intervention points for prevention through environmental design, family supports, and systems coordination.&lt;/p>
+&lt;/section></description></item><item><title/><link>https://issues-osu/issues/research/education/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/research/education/</guid><description>&lt;section class="prose lg:prose-xl">
+&lt;img src="educ.png" alt="Neighborhoods and Child Welfare" class="my-8 rounded-xl shadow-md">
+&lt;p>Our lab explores how educational outcomes are shaped by structural inequities, neighborhood conditions, and school-level practices such as exclusionary discipline. We focus on how factors like poverty, racial segregation, housing instability, and exposure to community violence influence student success. In addition, we study the built and social environments around schools—including traffic safety, crime, and access to supportive resources—to understand how place shapes learning opportunities.&lt;/p>
+&lt;h2>Core Questions We Address&lt;/h2>
+&lt;ul>
+&lt;li>How do patterns of school discipline vary across neighborhoods, schools, and demographic groups?&lt;/li>
+&lt;li>What environmental and community-level factors (e.g., safety near schools, neighborhood resources, school climate) support or undermine educational outcomes?&lt;/li>
+&lt;li>How can spatial and statistical models help identify schools and communities most at risk for inequitable outcomes?&lt;/li>
+&lt;/ul>
+&lt;h2>Methods and Approaches&lt;/h2>
+&lt;p>We use a mix of geospatial analysis, administrative data, and participatory research with educators, students, and community partners to inform evidence-based policy and practice. Our work often involves:&lt;/p>
+&lt;ul>
+&lt;li>Mapping disparities in school discipline and educational outcomes across districts and neighborhoods&lt;/li>
+&lt;li>Linking school-level administrative data with neighborhood safety and built environment indicators&lt;/li>
+&lt;li>Collaborating with schools, community organizations, and policymakers to design prevention and equity-focused interventions&lt;/li>
+&lt;/ul>
+&lt;h2>Ongoing Projects&lt;/h2>
+&lt;p>Current studies include analysis of disparities in school suspensions and expulsions, the relationship between neighborhood safety near schools and student outcomes, and evaluation of policy reforms aimed at reducing exclusionary discipline and promoting equitable educational opportunities.&lt;/p>
+&lt;/section></description></item><item><title/><link>https://issues-osu/issues/research/violence/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/research/violence/</guid><description>&lt;section class="prose lg:prose-xl">
+&lt;img src="gvio.png" alt="Neighborhoods and Child Welfare" class="my-8 rounded-xl shadow-md">
+&lt;p>Our lab investigates how experiences of violence—including firearm injury, self-harm, and community trauma—are shaped by social, environmental, and spatial conditions. We examine how structural inequities such as housing instability, racial segregation, disinvestment, and systemic surveillance contribute to violence exposure and risk across the life course.&lt;/p>
+&lt;h2>Core Questions We Address&lt;/h2>
+&lt;ul>
+&lt;li>How are incidents of violence—including gun violence, suicide, and child fatality—distributed across neighborhoods and time?&lt;/li>
+&lt;li>What structural and ecological conditions (e.g., heat, access to green space, poverty, service availability) intensify or buffer the risk of violence?&lt;/li>
+&lt;li>How can spatial modeling and machine learning help us identify high-risk areas and intervene more effectively?&lt;/li>
+&lt;/ul>
+&lt;h2>Methods and Approaches&lt;/h2>
+&lt;p>We use a mix of geospatial data science, longitudinal modeling, and participatory research with community partners to develop evidence-informed policy recommendations and intervention strategies. Our work often involves:&lt;/p>
+&lt;ul>
+&lt;li>Mapping and forecasting patterns of violence and self-harm at the neighborhood level&lt;/li>
+&lt;li>Linking social, legal, and environmental data to understand spatial risk contexts&lt;/li>
+&lt;li>Collaborating with schools, legal advocates, health providers, and public agencies&lt;/li>
+&lt;/ul>
+&lt;h2>Ongoing Projects&lt;/h2>
+&lt;p>Current studies explore the spatial and structural roots of firearm injury, suicide, and child deaths. We aim to identify intervention points through environmental design, public policy, legal advocacy, and system coordination to reduce harm and promote safety in marginalized communities.&lt;/p>
+&lt;h2>Current Projects:&lt;/h2>
+&lt;p>
+&lt;a href="https://issues-osu/issues/lab/research/violence/webscraping/" class="text-blue-600 underline hover:text-blue-800">
+Webscraping and Automation Tools for Monitoring Child Fatality Trends
+&lt;/a>
+&lt;/p>
+&lt;/section></description></item><item><title>Drug Use, Overdose, and Recovery Housing</title><link>https://issues-osu/issues/research/overdose/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/research/overdose/</guid><description>&lt;section class="prose lg:prose-xl">
+&lt;img src="drug.png" alt="Neighborhoods and Drug Use/Overdose" class="my-8 rounded-xl shadow-md">
+&lt;p>Our lab studies how substance use, overdose risk, and recovery are influenced by neighborhood conditions, social inequities, and policy environments. We examine how factors such as poverty, racialized disinvestment, housing instability, and access to treatment services intersect with the opioid crisis and other forms of substance use. Using spatial and statistical methods, we aim to identify community-level drivers of risk and resilience, and to evaluate the role of recovery housing in supporting individuals in long-term recovery.&lt;/p>
+&lt;h2>Core Questions We Address&lt;/h2>
+&lt;ul>
+&lt;li>How do patterns of drug use, overdose, and recovery vary across neighborhoods, demographic groups, and time?&lt;/li>
+&lt;li>What environmental and social factors (e.g., housing, healthcare access, social safety nets) contribute to overdose risk or recovery success?&lt;/li>
+&lt;li>How do policies, such as Medicaid expansion, recovery housing initiatives, or harm reduction programs, shape treatment access and outcomes?&lt;/li>
+&lt;/ul>
+&lt;h2>Methods and Approaches&lt;/h2>
+&lt;p>We use a mix of geospatial data science, spatial epidemiology, and policy analysis to evaluate how environments and systems affect drug use, overdose, and recovery. Our work often involves:&lt;/p>
+&lt;ul>
+&lt;li>Mapping overdose events, treatment access, and recovery housing at the neighborhood level&lt;/li>
+&lt;li>Integrating health, administrative, and spatial data to model overdose risk and recovery pathways&lt;/li>
+&lt;li>Partnering with community organizations, recovery housing networks, healthcare providers, and policymakers to develop equitable prevention and treatment strategies&lt;/li>
+&lt;/ul>
+&lt;h2>Ongoing Projects&lt;/h2>
+&lt;p>Current studies include analysis of how Medicaid policy changes influence opioid treatment access, evaluations of recovery housing and harm reduction initiatives, and spatial modeling of overdose clusters to inform targeted public health interventions. This work directly informs community-based strategies and policy reforms aimed at reducing overdose deaths and supporting sustained recovery.&lt;/p>
+&lt;/section></description></item><item><title>Reproductive Health, Abortion, and Domestic Violence</title><link>https://issues-osu/issues/research/reproductive-justice/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/research/reproductive-justice/</guid><description>&lt;section class="prose lg:prose-xl">
+&lt;img src="pregs.png" alt="Neighborhoods and Reproductive Health" class="my-8 rounded-xl shadow-md">
+&lt;p>Our lab studies how reproductive health access—including abortion, prenatal care, and maternal health services—is shaped by structural inequities, neighborhood conditions, and policy environments. We examine how abortion restrictions, domestic violence, and social determinants of health intersect to produce disparities in maternal and child outcomes. Using spatial and statistical methods, we identify community-level drivers of risk and resilience to inform prevention and policy change.&lt;/p>
+&lt;h2>Core Questions We Address&lt;/h2>
+&lt;ul>
+&lt;li>How do abortion restrictions and reproductive health policies vary across states and neighborhoods, and how do these differences impact maternal and child health?&lt;/li>
+&lt;li>What is the relationship between domestic violence during pregnancy and adverse outcomes such as low birth weight, preterm birth, and maternal morbidity?&lt;/li>
+&lt;li>What community and policy-level factors (e.g., Medicaid coverage, availability of clinics, social safety nets) buffer or exacerbate reproductive health inequities?&lt;/li>
+&lt;/ul>
+&lt;h2>Methods and Approaches&lt;/h2>
+&lt;p>We use a mix of geospatial analysis, longitudinal cohort data, and policy evaluation to understand the connections between reproductive health access, violence, and health outcomes. Our work often involves:&lt;/p>
+&lt;ul>
+&lt;li>Mapping reproductive health service availability and abortion access across neighborhoods&lt;/li>
+&lt;li>Linking PRAMS, hospital, and administrative data with environmental and social determinants&lt;/li>
+&lt;li>Collaborating with community health centers, legal advocates, and policymakers to strengthen reproductive justice frameworks&lt;/li>
+&lt;/ul>
+&lt;h2>Ongoing Projects&lt;/h2>
+&lt;p>Current studies include spatial analysis of abortion access and maternal health disparities, investigation of the impact of domestic violence during pregnancy on birth outcomes, and evaluation of Medicaid and safety net reforms to improve reproductive health equity.&lt;/p>
+&lt;/section></description></item></channel></rss>

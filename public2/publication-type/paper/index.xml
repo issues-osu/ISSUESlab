@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paper | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/publication-type/paper/</link><atom:link href="https://issues-osu/issues/publication-type/paper/index.xml" rel="self" type="application/rss+xml"/><description>Paper</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>Paper</title><link>https://issues-osu/issues/publication-type/paper/</link></image><item><title>Street-View Measures of Urban Greenness, Area-Level Deprivation, and the Risk of Firearm-Related Homicide: A Matched Case-Control Study</title><link>https://issues-osu/issues/publication/greenview/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/publication/greenview/</guid><description>&lt;p>This study examined how pedestrian-level green space relates to firearm-related and natural deaths in Cook County, Illinois, using a matched case-control design. Various greenness measures—including street-view green imagery, tree canopy coverage, and green space along walkable streets—were inversely associated with firearm homicide risk. Protective effects of tree canopy and localized greenery were stronger in less deprived neighborhoods, while neighborhood racial composition influenced the relationship between park proximity and homicide risk. Overall, street-level green space is linked to lower homicide odds and may offer greater protection in vulnerable communities&lt;/p>
+&lt;h1 id="in-progress">In progress&lt;/h1>
+&lt;h2 id="greenview">greenview&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Short description:&lt;/td>
+&lt;td>This study examined how pedestrian-level green space relates to firearm-related and natural deaths in Cook County, Illinois, using a matched case-control design. Various greenness measures—including street-view green imagery, tree canopy coverage, and green space along walkable streets—were inversely associated with firearm homicide risk. Protective effects of tree canopy and localized greenery were stronger in less deprived neighborhoods, while neighborhood racial composition influenced the relationship between park proximity and homicide risk. Overall, street-level green space is linked to lower homicide odds and may offer greater protection in vulnerable communities&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lead developer:&lt;/td>
+&lt;td>gia-barboza-salerno&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Further reading:&lt;/td>
+&lt;td>Please read the [paper](in progress) published in Applied Geography&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Download:&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/street-view-greenness-firearm" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Main data source(s):&lt;/td>
+&lt;td>Green View Index&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coverage:&lt;/td>
+&lt;td>Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Citation:&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">Access our tutorial on here&lt;/a> for more details.&lt;/p></description></item><item><title>Spatial accessibility to gun violence exposure on walkable routes to and from school</title><link>https://issues-osu/issues/publication/gunvio/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/publication/gunvio/</guid><description>&lt;p>Our work on gun violence in and around schools was acknolwedged by Arizona State University, Criminal Justice Journalists, and the National Criminal Justice Association.
+In this paper, we found a staggering level of potential gun violence exposure on walkable street networks near school.&lt;/p>
+&lt;blockquote>
+&lt;p>Children of color are more likely to be exposed to gun violence on streets near schools.
+The School Shooting Safety and Preparedness Act establishes a federal definition of school gun violence.
+To address racial disparities in gun violence, the definition MUST be broadened to consider INDIRECT gun violence exposure that occurs in proximity to schools.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:c6z33jtmyjewv4tgpm2aihlw/app.bsky.feed.post/3ldm2nbkxgk2u" data-bluesky-cid="bafyreicrehraeyhudr5tbxctl7dm7tacsyf32k7a46h6xuz5cxx3uwzd5y">&lt;p lang="en">Children of color are more likely to witness or hear a gunshot near their school. Federal definitions of school gun violence like the School Shooting Safety and Preparedness Act must include INDIRECT gun violence on streets near schools to address the disparity.
+www.sciencedirect.com/science/arti...&lt;br>&lt;br>&lt;a href="https://bsky.app/profile/did:plc:c6z33jtmyjewv4tgpm2aihlw/post/3ldm2nbkxgk2u?ref_src=embed">[image or embed]&lt;/a>&lt;/p>&amp;mdash; Big Data for Social Justice (&lt;a href="https://bsky.app/profile/did:plc:c6z33jtmyjewv4tgpm2aihlw?ref_src=embed">@data4socialjustice.bsky.social&lt;/a>) &lt;a href="https://bsky.app/profile/did:plc:c6z33jtmyjewv4tgpm2aihlw/post/3ldm2nbkxgk2u?ref_src=embed">December 18, 2024 at 2:09 PM&lt;/a>&lt;/blockquote>&lt;script async src="https://embed.bsky.app/static/embed.js" charset="utf-8">&lt;/script>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/spatialaccess.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item><item><title>Variability and stability in child maltreatment risk across time and space and its association with neighborhood social &amp; housing vulnerability in New Mexico: A bayesian space-time model</title><link>https://issues-osu/issues/publication/jjandcan/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/publication/jjandcan/</guid><description>&lt;h2 id="variability-and-stability-in-child-maltreatment-risk-across-time-and-space">Variability and stability in child maltreatment risk across time and space&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Short description:&lt;/td>
+&lt;td>This study analyzed substantiated child maltreatment risk in New Mexico from 2007 to 2015 using Bayesian spatial-temporal models at the census tract level. It found that neighborhood factors such as eviction rates, rent burden, urban location, food deserts, low income, lack of vehicle access, and disability prevalence increased maltreatment risk, while greater racial/ethnic diversity was linked to lower risk. The findings highlight the importance of addressing structural housing and social vulnerabilities in targeted child abuse prevention efforts, especially in economically and racially segregated neighborhoods.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lead developer:&lt;/td>
+&lt;td>Barboza-Salerno&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Further reading:&lt;/td>
+&lt;td>Please read the &lt;a href="https://www-sciencedirect-com.proxy.lib.ohio-state.edu/science/article/pii/S0145213420301277" target="_blank" rel="noopener">paper&lt;/a> published in The International Journal of Child Abuse and Neglect&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Download:&lt;/td>
+&lt;td>&lt;a href="">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Main data source(s):&lt;/td>
+&lt;td>NM Data Collaborative; The Eviction Lab, USDA Department of Agriculture, Social Vulnerability Index&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coverage:&lt;/td>
+&lt;td>New Mexico&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Citation:&lt;/td>
+&lt;td>@article{barboza2020variability, title={Variability and stability in child maltreatment risk across time and space and its association with neighborhood social &amp;amp; housing vulnerability in New Mexico: A bayesian space-time model}, author={Barboza-Salerno, Gia Elise}, journal={Child Abuse &amp;amp; Neglect}, volume={104}, pages={104472}, year={2020}, publisher={Elsevier} }&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">Access our tutorial on na here&lt;/a> for more details.&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>

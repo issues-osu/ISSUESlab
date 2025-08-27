@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News and Social Media Coverage | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/presentations/</link><atom:link href="https://issues-osu/issues/presentations/index.xml" rel="self" type="application/rss+xml"/><description>News and Social Media Coverage</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>News and Social Media Coverage</title><link>https://issues-osu/issues/presentations/</link></image><item><title>Presentations</title><link>https://issues-osu/issues/presentations/_index.old/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/_index.old/</guid><description>&lt;div class="text-center max-w-3xl mx-auto" style="font-size: 2.25rem !important;">
+On this page, you’ll find details about my professional presentations, CLE offerings, invited lectures, and published scholarship—reflecting a commitment to translating rigorous research into practical tools for justice system reform and community empowerment.
+&lt;/div></description></item><item><title>Applying Social Geography to Structural Mitigation in Capital Defense</title><link>https://issues-osu/issues/presentations/mitigation/mitigation/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/mitigation/mitigation/</guid><description>&lt;h1 id="applying-social-geography-to-structural-mitigation-in-capital-defense">Applying Social Geography to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>&lt;a href="https://issues-osu/issues/files/osba.pdf">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://issues-osu/issues/images/titlepage.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies social geography and spatial data analysis to strengthen structural mitigation arguments in capital defense. By documenting how neighborhood conditions—including poverty, segregation, environmental stressors, and disinvestment—shape an individual&amp;rsquo;s developmental context and legal outcomes, we provide place-based, legally admissible evidence aligned with Ohio law and ABA mitigation guidelines.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can spatial analysis of public data reveal community-level risk factors—such as poverty, segregation, and housing instability—that contribute to life trajectories relevant to culpability and sentencing?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> In what ways can social geography and structural disadvantage be systematically incorporated into mitigation investigations to support fair, contextualized legal outcomes in death penalty cases?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project integrates spatial data and social geography to produce legally admissible, objective evidence of how systemic community-level factors influence life outcomes relevant to culpability and sentencing, advancing structural mitigation in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/osba.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>U.S. Census, Area Deprivation Index, Urban Institute data, Cook County parcel data, historical redlining maps&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Social Geography to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a> for a deeper look at spatial methods used in this work.&lt;/p></description></item><item><title>Evaluating Child Fatality Reports using Structural Topic Models</title><link>https://issues-osu/issues/presentations/topicmods/topicmods/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/topicmods/topicmods/</guid><description>&lt;h1 id="applying-structural-topic-modeling-to-structural-mitigation-in-capital-defense">Applying Structural Topic Modeling to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp 400w,
+/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_f1f53c032e254d8d88ca2852b7536f38.webp 760w,
+/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_1200x1200_fit_q80_h2_lanczos_3.webp 1200w"
+src="https://issues-osu/issues/issues/presentations/topicmods/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp"
+width="760"
+height="429"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies structural topic modeling (STM) and natural language processing (NLP) to strengthen structural mitigation in capital defense. By analyzing unstructured narrative records from child death reviews, STM identifies hidden thematic patterns that illustrate how exposure to poverty, violence, systemic neglect, and environmental disadvantage shapes developmental trajectories relevant to culpability and sentencing. This approach generates objective, place-based, legally admissible evidence consistent with Ohio law and ABA mitigation standards.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can STM and NLP uncover latent themes in narrative records that reflect exposure to structural and environmental disadvantage over the life course?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> How can these data-driven patterns be integrated into capital case mitigation to contextualize life outcomes, support fairness in sentencing, and meet legal standards for structural mitigation?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project uses structural topic modeling and NLP to analyze unstructured child fatality review narratives, revealing hidden patterns of systemic disadvantage, environmental stress, and developmental risk relevant to culpability and sentencing in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/topicmods.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a> &lt;em>(Note: project URL unchanged; content reflects STM approach)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania Department of Human Services child fatality and near-fatality reports (2016–2024), American Community Survey county-level data (poverty, racial composition), standardized incidence ratios, and contextual metadata from CDRT reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania, with applications for mitigation practice in Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Structural Topic Modeling to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For a deeper look at STM and spatial risk methods relevant to this work, see this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a>.&lt;/p></description></item><item><title>Evaluating Child Fatality Reports using Structural Topic Models</title><link>https://issues-osu/issues/presentations/topicmods/topicmods/topicmods/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/topicmods/topicmods/topicmods/</guid><description>&lt;h1 id="applying-structural-topic-modeling-to-structural-mitigation-in-capital-defense">Applying Structural Topic Modeling to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://issues-osu/issues/featured.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies structural topic modeling (STM) and natural language processing (NLP) to strengthen structural mitigation in capital defense. By analyzing unstructured narrative records from child death reviews, STM identifies hidden thematic patterns that illustrate how exposure to poverty, violence, systemic neglect, and environmental disadvantage shapes developmental trajectories relevant to culpability and sentencing. This approach generates objective, place-based, legally admissible evidence consistent with Ohio law and ABA mitigation standards.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can STM and NLP uncover latent themes in narrative records that reflect exposure to structural and environmental disadvantage over the life course?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> How can these data-driven patterns be integrated into capital case mitigation to contextualize life outcomes, support fairness in sentencing, and meet legal standards for structural mitigation?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project uses structural topic modeling and NLP to analyze unstructured child fatality review narratives, revealing hidden patterns of systemic disadvantage, environmental stress, and developmental risk relevant to culpability and sentencing in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/topicmods.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a> &lt;em>(Note: project URL unchanged; content reflects STM approach)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania Department of Human Services child fatality and near-fatality reports (2016–2024), American Community Survey county-level data (poverty, racial composition), standardized incidence ratios, and contextual metadata from CDRT reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania, with applications for mitigation practice in Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Structural Topic Modeling to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For a deeper look at STM and spatial risk methods relevant to this work, see this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a>.&lt;/p></description></item><item><title>A Community-Based Approach to the Opioid Crisis</title><link>https://issues-osu/issues/presentations/keynote/keynote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/keynote/keynote/</guid><description>&lt;h1 id="in-progress">In progress&lt;/h1>
+&lt;h2 id="real-helpreal-hope-where-do-we-go-from-here">Real Help–Real Hope: Where Do We Go From Here?&lt;/h2>
+&lt;p>A Community-Based Approach to the Opioid Crisis&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This keynote presentation, delivered at the Opioid Treatment Providers of Georgia conference, highlights the need for a comprehensive, public health–centered response to the opioid crisis. It emphasizes how social, environmental, and structural factors—such as poverty, racial inequities, and limited healthcare access—shape opioid-related harms, and critiques punitive policies in favor of community-driven, evidence-based solutions.&lt;/p>
+&lt;p>&lt;strong>Key Details:&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This presentation critiques the criminalization-focused &amp;ldquo;War on Drugs&amp;rdquo; and outlines a public health framework for addressing the opioid crisis, emphasizing prevention, harm reduction, structural analysis, and equity-focused solutions for Georgia and beyond.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>Dr. Gia Elise Barboza-Salerno&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Download the &lt;a href="https://issues-osu/issues/files/keynote.pdf">presentation slides&lt;/a> for full details.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Opioid-related mortality, overdose surveillance, Naloxone distribution, treatment access data, regulatory frameworks, and structural vulnerability indicators for Georgia and the United States.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Georgia, with comparisons to national opioid trends.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G.E. (2024). &lt;em>Real Help–Real Hope: Where Do We Go From Here? A Community-Based Approach to the Opioid Crisis&lt;/em>. Presented at the Opioid Treatment Providers of Georgia Annual Conference, November 11, 2024.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">accessibility and spatial equity tutorial&lt;/a> for more details.&lt;/p></description></item><item><title>Development and Spatial Validation of a Random Forest Prediction Model for Firearm-Related Injury Risk in Chicago Census Tracts</title><link>https://issues-osu/issues/presentations/srfm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/srfm/</guid><description>&lt;h1 id="the-land-cover-paradox">The land cover paradox&lt;/h1>
+&lt;h2 id="this-paper-explores-associations-between-blue--and-green--space-and-suicide-mortality-in-cook-county-illinois">This paper explores associations between blue- and green- space and suicide mortality in Cook County, Illinois&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Short description:&lt;/td>
+&lt;td>The land cover paradox: Characteristics of blue- and green spaces within and beyond high-risk suicide clusters - ScienceDirect&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lead developer:&lt;/td>
+&lt;td>Barboza-Salerno&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Further reading:&lt;/td>
+&lt;td>h&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Download:&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Main data source(s):&lt;/td>
+&lt;td>MLCD land cover, tree- and park- equity&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coverage:&lt;/td>
+&lt;td>Cook County, IL&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Citation:&lt;/td>
+&lt;td>@article{BARBOZA2025101820, title = {The Land Cover Paradox: {{Characteristics}} of Blue- and Green Spaces within and beyond High-Risk Suicide Clusters}, author = {Barboza, Gia E. and {Watson-Grace}, Amy and {Shockley-McCarthy}, Karla and Harrington, Taylor and Warren, Keith and Steelsmith, Danielle}, year = {2025}, journal = {SSM - Population Health}, pages = {101820}, issn = {2352-8273}, doi = {10.1016/j.ssmph.2025.101820}}&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Gun violence remains a critical public health crisis, particularly in urban centers like Chicago, where firearm-related injuries are among the highest in the nation.
+These injuries are not randomly distributed; they are spatially concentrated in neighborhoods shaped by structural inequality, including racial segregation, economic disinvestment, and environmental neglect.
+While random forest models have shown promise in predicting firearm violence and identifying neighborhood-level risk factors, conventional approaches often ignore spatial dependence, leading to biased estimates,
+inflated variable importance, and reduced geographic generalizability. This study applies spatially explicit machine learning to model non-fatal shootings across Chicago census tracts from 2020 to 2024. A curated set of predictors was compiled, including measures of social and environmental vulnerability, the built environment, and housing inequality. Three research questions guided the analysis: (1) Does incorporating spatial structure via Moran&amp;rsquo;s Eigenvector Maps (MEMs) in spatial random forests and spatially structured random effects in a Bayesian spatial model improve predictive accuracy compared to non-spatial models? (2) Which neighborhoods exhibit elevated firearm violence risk due to unmeasured spatial processes, as captured by spatial random effects? (3) Does prediction error vary across geographic space, revealing limits to model transferability? Findings suggest that the spatial random forest model outperformed the non-spatial model (pseudo R² = 0.98 vs. test R² = 0.50). Spatial cross-validation revealed geographic variation in accuracy (median nRMSE = 0.76), while spatial random effects from a Bayesian Poisson model identified unexplained latent risk. The enhanced predictive accuracy reveals hidden geographic risk patterns, suggesting that social, structural, and environmental factors can efficiently inform targeted violence prevention strategies.
+Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">Access our tutorial on na here&lt;/a> for more details.&lt;/p></description></item><item><title>Examining the Interplay Between the Natural and Socio-physical Environment Using Machine Learning Algorithms</title><link>https://issues-osu/issues/presentations/mlposter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/mlposter/</guid><description>&lt;p>Our work on the socio-physical and natural enviornment was presented at the ISPCAN 2024 international conference.&lt;/p>
+&lt;blockquote>
+&lt;p>No previous research has comprehensively examined how different aspects of the sociophysical and built environments increase child abuse and neglect (CAN) risk.
+Characteristics of the built and natural environment are underexplored in research on CAN. Five categories of environmental determinants of child well-being include: (i) urban design, (ii) contaminants, (iii) the parenting environment, (iv) socio-economic conditions, and (v) climate change1&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/mlcan.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item><item><title>Examining the Interplay Between the Natural and Socio-physical Environment Using Machine Learning Algorithms</title><link>https://issues-osu/issues/presentations/structural-mitigation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/structural-mitigation/</guid><description>&lt;p>Our work on the structural mitigation was presented at the Ohio State Bar Association conference on the death penalty at the Ohio Supreme Court in May 2025e.&lt;/p>
+&lt;blockquote>
+&lt;p>One of the most common tools used in mitigation defense is the concept of Adverse Childhood Experiences, or ACEs. These experiences are often introduced to demonstrate diminished culpability, impaired development, or increased vulnerability in the client.&lt;/p>
+&lt;/blockquote>
+&lt;p>They provide a clinical and developmental framework for understanding the long-term effects of trauma.&lt;/p>
+&lt;p>The original framework, which I refer to here as Conventional ACEs or C-ACEs, focuses on family-level adversities. This includes things like physical, emotional, or sexual abuse; neglect; and growing up in a household with substance abuse, domestic violence, or incarceration. These are experiences that happen within the home, usually before the age of 18.&lt;/p>
+&lt;p>But more recently, researchers and practitioners have pushed for an expanded view—what we call Expanded ACEs or E-ACEs. This broader framework includes adversities that occur outside the household, such as:– Racial and gender discrimination– Exposure to community violence– Chronic poverty or economic hardship– Involvement in the child welfare or juvenile justice systems&lt;/p>
+&lt;p>Expanded ACEs (E-ACEs) represent a meaningful improvement by including individual-level exposure to community violence, racial and gender discrimination, poverty, and system involvement—adversities that happen beyond the household and are deeply relevant to many of our clients.
+But even E-ACEs do not go far enough. They still locate adversity at the individual level—&lt;/p>
+&lt;p>Take, for instance, the difference between experiencing racial discrimination at school and growing up in a hypersegregated, disinvested community of color—a place shaped by decades of redlining, de jure segregation, and economic exclusion. The first is about an individual incident; the second is about a historical and spatial system of harm.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/mlcan.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item><item><title>Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles</title><link>https://issues-osu/issues/presentations/isuf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/presentations/isuf/</guid><description>&lt;p>Our work on Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles will be presented at ISUF 2025 in Torino, Italy.&lt;/p>
+&lt;blockquote>
+&lt;p>No previous research has comprehensively examined how different aspects of the sociophysical and built environments increase child abuse and neglect (CAN) risk.
+Characteristics of the built and natural environment are underexplored in research on CAN. Five categories of environmental determinants of child well-being include: (i) urban design, (ii) contaminants, (iii) the parenting environment, (iv) socio-economic conditions, and (v) climate change1&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/mlcan.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item></channel></rss>

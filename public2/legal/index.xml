@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ISSUES | The Ohio State University</title><link>https://issues-osu/issues/legal/</link><atom:link href="https://issues-osu/issues/legal/index.xml" rel="self" type="application/rss+xml"/><description>ISSUES | The Ohio State University</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>ISSUES | The Ohio State University</title><link>https://issues-osu/issues/legal/</link></image><item><title>Pregnancy Justice</title><link>https://issues-osu/issues/legal/preg-just/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/legal/preg-just/</guid><description>&lt;p>We have work here&lt;/p>
+&lt;h1 id="in-progress">In progress&lt;/h1>
+&lt;h2 id="travel-times-post-dobbs">Travel Times Post-Dobbs&lt;/h2>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="global-streetscapes.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Short description:&lt;/td>
+&lt;td>Spatial Accessibility to Abortion Facilities in Ohio, Kentucky, and West Virginia.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lead developer:&lt;/td>
+&lt;td>&lt;a href="https://issues-osu/issues/issues/author/barboza/">Barboza&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Further reading:&lt;/td>
+&lt;td>Please read the &lt;a href="https://doi.org/10.1016/j.isprsjprs.2024.06.023" target="_blank" rel="noopener">paper&lt;/a> published in the ISPRS Journal of Photogrammetry and Remote Sensing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Download:&lt;/td>
+&lt;td>&lt;a href="https://github.com/ualsg/global-streetscapes" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Main data source(s):&lt;/td>
+&lt;td>Mapillary, KartaView, OpenStreetMap, GADM, &amp;hellip; and manual labelling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coverage:&lt;/td>
+&lt;td>688 cities around the world&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Citation:&lt;/td>
+&lt;td>&lt;details class="spoiler " id="spoiler-1">
+&lt;summary>Click to view the BibTeX entry&lt;/summary>
+&lt;p>@article{2024_global_streetscapes,
+author = {Hou, Yujun and Quintana, Matias and Khomiakov, Maxim and Yap, Winston and Ouyang, Jiani and Ito, Koichi and Wang, Zeyu and Zhao, Tianhong and Biljecki, Filip},
+doi = {10.1016/j.isprsjprs.2024.06.023},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+pages = {216-238},
+title = {Global Streetscapes &amp;ndash; A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics},
+volume = {215},
+year = {2024}
+}&lt;/p>
+&lt;/details>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">Access our tutorial on spatial accessibility here&lt;/a> for more details.&lt;/p></description></item><item><title>Social Geography of Child Adversity</title><link>https://issues-osu/issues/legal/social-geography/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/legal/social-geography/</guid><description>&lt;p>We are collaborating with the public defender&amp;rsquo;s office to integrate geospatial and socio-legal research into legal defense strategies. Our work aims to contextualize clients&amp;rsquo; life histories using evidence-based indicators of childhood adversity, systemic deprivation, and community-level disinvestment.&lt;/p>
+&lt;h1 id="in-progress">In progress&lt;/h1>
+&lt;h2 id="geographies-of-risk-and-resilience">Geographies of Risk and Resilience&lt;/h2>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/issues/legal/social-geography/child-adversity-map_hu59dc34fef3ab3a2c0115c44b3ea562a3_694812_34875603771c32b09a15a96568c1404b.webp 400w,
+/issues/legal/social-geography/child-adversity-map_hu59dc34fef3ab3a2c0115c44b3ea562a3_694812_2e027633d2517c43732531fe9651112a.webp 760w,
+/issues/legal/social-geography/child-adversity-map_hu59dc34fef3ab3a2c0115c44b3ea562a3_694812_1200x1200_fit_q80_h2_lanczos_3.webp 1200w"
+src="https://issues-osu/issues/issues/legal/social-geography/child-adversity-map_hu59dc34fef3ab3a2c0115c44b3ea562a3_694812_34875603771c32b09a15a96568c1404b.webp"
+width="760"
+height="575"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Short description:&lt;/td>
+&lt;td>Mapping the spatial distribution of child adversity to inform contextual defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lead developer:&lt;/td>
+&lt;td>&lt;a href="https://issues-osu/issues/issues/author/barboza/">Barboza&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Partners:&lt;/td>
+&lt;td>Office of the Public Defender, Legal Aid, Community Organizations&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data sources:&lt;/td>
+&lt;td>ACS, Opportunity Atlas, Child Opportunity Index, CRDT fatality reviews&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Methods:&lt;/td>
+&lt;td>Bayesian spatial modeling, risk typologies, qualitative interviews&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Geographic focus:&lt;/td>
+&lt;td>Urban and rural counties across the Midwest&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Objectives:&lt;/td>
+&lt;td>Illuminate how systemic inequality shapes pathways to legal system involvement&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>We are also exploring how these data can be presented during mitigation to underscore the role of systemic harms in shaping client trajectories.&lt;/p>
+&lt;h2 id="conference-presentation">Conference Presentation&lt;/h2>
+&lt;p>I will be speaking at the upcoming &lt;strong>Death Penalty Defense seminar&lt;/strong>, hosted by the Ohio State Bar Association, taking place as part of their 2025 CLE Live Seminars.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Enhance your expertise in capital defense at our annual program, designed exclusively for criminal defense attorneys.&lt;/strong> Over two dynamic days, engage in in-depth discussions and gain valuable insights into key considerations when handling capital cases. Don’t miss this opportunity to elevate your practice with expert-led presentations and interactive sessions.&lt;/p>
+&lt;/blockquote>
+&lt;p>This seminar offers:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>12.0 hours&lt;/strong> of training on the defense of capital cases, fulfilling requirements set by the Commission on Appointment of Counsel in Capital Cases&lt;/li>
+&lt;li>&lt;strong>6.0 hours&lt;/strong> of training on the appeal of capital cases (for those who attend both days)&lt;/li>
+&lt;/ul>
+&lt;p>My presentation will focus on integrating social science into criminal legal defense—specifically, how geospatial models of child adversity can be mobilized to inform capital mitigation, challenge systemic bias, and support holistic defense strategies.&lt;/p>
+&lt;p>For related work, visit our &lt;a href="https://issues-osu/issues/lab/preg-just">Pregnancy Justice&lt;/a> page or explore our &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">Spatial Accessibility tutorial&lt;/a>.&lt;/p></description></item></channel></rss>

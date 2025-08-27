@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News and Social Media Coverage | ISSUES | The Ohio State University</title><link>https://issues-osu/issues/news/</link><atom:link href="https://issues-osu/issues/news/index.xml" rel="self" type="application/rss+xml"/><description>News and Social Media Coverage</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://issues-osu/issues/media/logo_hu2fedd529b9d9d7008e9f6968cd645fa1_199187_300x300_fit_lanczos_3.png</url><title>News and Social Media Coverage</title><link>https://issues-osu/issues/news/</link></image><item><title>Presentations</title><link>https://issues-osu/issues/news/_index.old/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/_index.old/</guid><description>&lt;div class="text-center max-w-3xl mx-auto" style="font-size: 2.25rem !important;">
+On this page, you’ll find details about my professional presentations, CLE offerings, invited lectures, and published scholarship—reflecting a commitment to translating rigorous research into practical tools for justice system reform and community empowerment.
+&lt;/div></description></item><item><title>Applying Social Geography to Structural Mitigation in Capital Defense</title><link>https://issues-osu/issues/news/mitigation/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/mitigation/</guid><description>&lt;h1 id="applying-social-geography-to-structural-mitigation-in-capital-defense">Applying Social Geography to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>&lt;a href="https://issues-osu/issues/files/osba.pdf">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://issues-osu/issues/images/titlepage.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies social geography and spatial data analysis to strengthen structural mitigation arguments in capital defense. By documenting how neighborhood conditions—including poverty, segregation, environmental stressors, and disinvestment—shape an individual&amp;rsquo;s developmental context and legal outcomes, we provide place-based, legally admissible evidence aligned with Ohio law and ABA mitigation guidelines.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can spatial analysis of public data reveal community-level risk factors—such as poverty, segregation, and housing instability—that contribute to life trajectories relevant to culpability and sentencing?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> In what ways can social geography and structural disadvantage be systematically incorporated into mitigation investigations to support fair, contextualized legal outcomes in death penalty cases?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project integrates spatial data and social geography to produce legally admissible, objective evidence of how systemic community-level factors influence life outcomes relevant to culpability and sentencing, advancing structural mitigation in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/osba.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>U.S. Census, Area Deprivation Index, Urban Institute data, Cook County parcel data, historical redlining maps&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Social Geography to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a> for a deeper look at spatial methods used in this work.&lt;/p></description></item><item><title>Evaluating Child Fatality Reports using Structural Topic Models</title><link>https://issues-osu/issues/news/topicmods/</link><pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/topicmods/</guid><description>&lt;h1 id="applying-structural-topic-modeling-to-structural-mitigation-in-capital-defense">Applying Structural Topic Modeling to Structural Mitigation in Capital Defense&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp 400w,
+/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_f1f53c032e254d8d88ca2852b7536f38.webp 760w,
+/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_1200x1200_fit_q80_h2_lanczos_3.webp 1200w"
+src="https://issues-osu/issues/issues/news/topicmods/featured_hue13644ce08e231642cd50baa63ece6f7_327256_752b298621c05de41205a32ec9b4db6a.webp"
+width="760"
+height="429"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This project applies structural topic modeling (STM) and natural language processing (NLP) to strengthen structural mitigation in capital defense. By analyzing unstructured narrative records from child death reviews, STM identifies hidden thematic patterns that illustrate how exposure to poverty, violence, systemic neglect, and environmental disadvantage shapes developmental trajectories relevant to culpability and sentencing. This approach generates objective, place-based, legally admissible evidence consistent with Ohio law and ABA mitigation standards.&lt;/p>
+&lt;p>&lt;strong>Research Questions:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RQ1:&lt;/strong> How can STM and NLP uncover latent themes in narrative records that reflect exposure to structural and environmental disadvantage over the life course?&lt;/li>
+&lt;li>&lt;strong>RQ2:&lt;/strong> How can these data-driven patterns be integrated into capital case mitigation to contextualize life outcomes, support fairness in sentencing, and meet legal standards for structural mitigation?&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This project uses structural topic modeling and NLP to analyze unstructured child fatality review narratives, revealing hidden patterns of systemic disadvantage, environmental stress, and developmental risk relevant to culpability and sentencing in capital defense.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>ProfGEBS&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Review the &lt;a href="https://issues-osu/issues/files/topicmods.pdf">presentation slides&lt;/a> from the Ohio Bar Association&amp;rsquo;s Death Penalty Defense Seminar&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Download:&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/issues-osu/social-geography-mitigation" target="_blank" rel="noopener">&lt;i class="fab fa-github">&lt;/i> Github repo&lt;/a> &lt;em>(Note: project URL unchanged; content reflects STM approach)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania Department of Human Services child fatality and near-fatality reports (2016–2024), American Community Survey county-level data (poverty, racial composition), standardized incidence ratios, and contextual metadata from CDRT reports&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Pennsylvania, with applications for mitigation practice in Ohio and Cook County, Illinois&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G. (2025). Applying Structural Topic Modeling to Structural Mitigation in Capital Defense. Presented at the Ohio Bar Association Death Penalty Defense Seminar, approved by the Supreme Court of Ohio for capital case CLE requirements.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>For a deeper look at STM and spatial risk methods relevant to this work, see this &lt;a href="https://issues-osu/issues/lab/markdown/spatialrisk.html">environmental risk mapping tutorial&lt;/a>.&lt;/p></description></item><item><title>A Community-Based Approach to the Opioid Crisis</title><link>https://issues-osu/issues/news/keynote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/keynote/</guid><description>&lt;h1 id="in-progress">In progress&lt;/h1>
+&lt;h2 id="real-helpreal-hope-where-do-we-go-from-here">Real Help–Real Hope: Where Do We Go From Here?&lt;/h2>
+&lt;p>A Community-Based Approach to the Opioid Crisis&lt;/p>
+&lt;p>&lt;strong>Summary:&lt;/strong>&lt;br>
+This keynote presentation, delivered at the Opioid Treatment Providers of Georgia conference, highlights the need for a comprehensive, public health–centered response to the opioid crisis. It emphasizes how social, environmental, and structural factors—such as poverty, racial inequities, and limited healthcare access—shape opioid-related harms, and critiques punitive policies in favor of community-driven, evidence-based solutions.&lt;/p>
+&lt;p>&lt;strong>Key Details:&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Short description:&lt;/strong>&lt;/td>
+&lt;td>This presentation critiques the criminalization-focused &amp;ldquo;War on Drugs&amp;rdquo; and outlines a public health framework for addressing the opioid crisis, emphasizing prevention, harm reduction, structural analysis, and equity-focused solutions for Georgia and beyond.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Lead developer:&lt;/strong>&lt;/td>
+&lt;td>Dr. Gia Elise Barboza-Salerno&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Further reading:&lt;/strong>&lt;/td>
+&lt;td>Download the &lt;a href="https://issues-osu/issues/files/keynote.pdf">presentation slides&lt;/a> for full details.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Main data source(s):&lt;/strong>&lt;/td>
+&lt;td>Opioid-related mortality, overdose surveillance, Naloxone distribution, treatment access data, regulatory frameworks, and structural vulnerability indicators for Georgia and the United States.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Coverage:&lt;/strong>&lt;/td>
+&lt;td>Georgia, with comparisons to national opioid trends.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Citation:&lt;/strong>&lt;/td>
+&lt;td>Barboza-Salerno, G.E. (2024). &lt;em>Real Help–Real Hope: Where Do We Go From Here? A Community-Based Approach to the Opioid Crisis&lt;/em>. Presented at the Opioid Treatment Providers of Georgia Annual Conference, November 11, 2024.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Check out this &lt;a href="https://issues-osu/issues/lab/markdown/spatialaccess.html">accessibility and spatial equity tutorial&lt;/a> for more details.&lt;/p></description></item><item><title>Examining the Interplay Between the Natural and Socio-physical Environment Using Machine Learning Algorithms</title><link>https://issues-osu/issues/news/mlposter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/mlposter/</guid><description>&lt;p>Our work on the socio-physical and natural enviornment was presented at the ISPCAN 2024 international conference.&lt;/p>
+&lt;blockquote>
+&lt;p>No previous research has comprehensively examined how different aspects of the sociophysical and built environments increase child abuse and neglect (CAN) risk.
+Characteristics of the built and natural environment are underexplored in research on CAN. Five categories of environmental determinants of child well-being include: (i) urban design, (ii) contaminants, (iii) the parenting environment, (iv) socio-economic conditions, and (v) climate change1&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/mlcan.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item><item><title>Examining the Interplay Between the Natural and Socio-physical Environment Using Machine Learning Algorithms</title><link>https://issues-osu/issues/news/structural-mitigation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/structural-mitigation/</guid><description>&lt;p>Our work on the structural mitigation was presented at the Ohio State Bar Association conference on the death penalty at the Ohio Supreme Court in May 2025e.&lt;/p>
+&lt;blockquote>
+&lt;p>One of the most common tools used in mitigation defense is the concept of Adverse Childhood Experiences, or ACEs. These experiences are often introduced to demonstrate diminished culpability, impaired development, or increased vulnerability in the client.&lt;/p>
+&lt;/blockquote>
+&lt;p>They provide a clinical and developmental framework for understanding the long-term effects of trauma.&lt;/p>
+&lt;p>The original framework, which I refer to here as Conventional ACEs or C-ACEs, focuses on family-level adversities. This includes things like physical, emotional, or sexual abuse; neglect; and growing up in a household with substance abuse, domestic violence, or incarceration. These are experiences that happen within the home, usually before the age of 18.&lt;/p>
+&lt;p>But more recently, researchers and practitioners have pushed for an expanded view—what we call Expanded ACEs or E-ACEs. This broader framework includes adversities that occur outside the household, such as:– Racial and gender discrimination– Exposure to community violence– Chronic poverty or economic hardship– Involvement in the child welfare or juvenile justice systems&lt;/p>
+&lt;p>Expanded ACEs (E-ACEs) represent a meaningful improvement by including individual-level exposure to community violence, racial and gender discrimination, poverty, and system involvement—adversities that happen beyond the household and are deeply relevant to many of our clients.
+But even E-ACEs do not go far enough. They still locate adversity at the individual level—&lt;/p>
+&lt;p>Take, for instance, the difference between experiencing racial discrimination at school and growing up in a hypersegregated, disinvested community of color—a place shaped by decades of redlining, de jure segregation, and economic exclusion. The first is about an individual incident; the second is about a historical and spatial system of harm.&lt;/p>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/mlcan.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item><item><title>Integrating AI, Deep Learning, and Spatial Analytics to Investigate Environmental Correlates of Child Neglect</title><link>https://issues-osu/issues/news/lightening-talk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/lightening-talk/</guid><description>&lt;h2 id="child-neglect-as-a-public-health--civil-rights-crisis">Child Neglect as a Public Health &amp;amp; Civil Rights Crisis&lt;/h2>
+&lt;p>&lt;strong>Legal context:&lt;/strong> Under California WIC § 300(b)(1), neglect is the failure to provide adequate food, clothing, shelter, or supervision, placing a child at risk of serious harm. Our lab approaches neglect as both a &lt;strong>public health&lt;/strong> and &lt;strong>civil rights&lt;/strong> issue shaped by place.&lt;/p>
+&lt;h3 id="why-place-matters">Why place matters&lt;/h3>
+&lt;ul>
+&lt;li>Neglect risk is not only individual or familial—it’s structured by neighborhoods.&lt;/li>
+&lt;li>Housing quality, access to healthy food, environmental hazards, and local safety often align with legal definitions of neglect.&lt;/li>
+&lt;/ul>
+&lt;h3 id="how-we-read-environments-with-ai--geospatial-data">How we “read” environments with AI &amp;amp; geospatial data&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Street-level imagery:&lt;/strong> Systematically collect images via &lt;strong>ZenSVI&lt;/strong> and &lt;strong>Mapillary&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>Objective features (semantic segmentation):&lt;/strong> Quantify visible elements (e.g., vegetation, sidewalks, buildings) per image.&lt;/li>
+&lt;li>&lt;strong>Subjective perceptions (PlacePulse-style models):&lt;/strong> Score images for safety, upkeep, boredom/depressiveness.&lt;/li>
+&lt;li>&lt;strong>Neighborhood data integration:&lt;/strong> Combine imagery-derived measures with the &lt;strong>Area Deprivation Index&lt;/strong>, &lt;strong>Tree Equity Score&lt;/strong>, and geocoded child neglect reports.&lt;/li>
+&lt;li>&lt;strong>Spatial statistical modeling:&lt;/strong> Relate social/physical environmental factors to neglect reports.&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-we-learn-implications-for-child-welfare-systems">What we learn (implications for child welfare systems)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Isolate risk factors:&lt;/strong> Identify objective (green space, infrastructure) and subjective (perceived safety/upkeep) features associated with neglect risk.&lt;/li>
+&lt;li>&lt;strong>Target high-risk locations:&lt;/strong> Detect where environmental exposures align most strongly with neglect.&lt;/li>
+&lt;li>&lt;strong>Assess policy relevance:&lt;/strong> Evaluate whether legal mandates reflect measurable neighborhood conditions.&lt;/li>
+&lt;/ul>
+&lt;h3 id="related-issues-lab-methods">Related ISSUES Lab methods&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Structural Topic Models (STMs):&lt;/strong> Extract themes from narratives (e.g., fatality reports, police incidents) and map them.&lt;/li>
+&lt;li>&lt;strong>Spatial Random Forests:&lt;/strong> Predict and map violence-related harms; rank influential environmental and social factors.&lt;/li>
+&lt;li>&lt;strong>Predictive analytics:&lt;/strong> Clarify when algorithms aid prevention vs. risk reinforcing inequities.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;a href="final.pptx">View the full presentation (PPTX)&lt;/a>&lt;/p></description></item><item><title>Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles</title><link>https://issues-osu/issues/news/isuf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issues-osu/issues/news/isuf/</guid><description>&lt;p>Our work on Utilizing AI-Driven Technology and Geospatial Analysis to Explore Landscape Morphology, Social Vulnerability, and Child Neglect in Los Angeles will be presented at ISUF 2025 in Torino, Italy.&lt;/p>
+&lt;blockquote>
+&lt;p>No previous research has comprehensively examined how different aspects of the sociophysical and built environments increase child abuse and neglect (CAN) risk.
+Characteristics of the built and natural environment are underexplored in research on CAN. Five categories of environmental determinants of child well-being include: (i) urban design, (ii) contaminants, (iii) the parenting environment, (iv) socio-economic conditions, and (v) climate change1&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;i class="fas fa-download pr-1 fa-fw">&lt;/i> Download the
+&lt;a href="https://issues-osu/issues/issues/uploads/mlcan.pdf" target="_blank">presentation here&lt;/a>
+.&lt;/p></description></item></channel></rss>
