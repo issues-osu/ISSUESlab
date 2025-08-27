@@ -1,0 +1,82 @@
+# Username (this should match the folder name)
+authors:
+- firstname-lastname #FILL THIS IN
+
+weight: 10
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: [Role goes here] #FILL THIS IN
+
+# Organizations/Affiliations #FILL THIS IN
+
+organizations:
+- name: The Ohio State University — College of Social Work & College of Public Health
+  url: https://www.osu.edu/
+
+# Short bio (displayed in user profile at end of posts) #FILL THIS IN ONE SENTENCE
+bio: ""
+
+# Research interests #FILL THIS IN
+interests:
+- Interest 1
+- Interest 2
+- Interest 3
+
+# Education #FILL THIS IN [Degree, Major] and [University]
+
+education:
+  courses:
+  - course: [Degree, Major]
+    institution: [University]
+    year: [Year]
+  - course: [Degree, Major]
+    institution: [University]
+    year: [Year]
+
+# Social/Academic Networking   #FILL THIS IN but ONLY THE LINK TO YOUR PROFESSIONAL WEBSITE
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:your.email@example.com'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/USERNAME
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=XXXX
+- icon: github
+  icon_pack: fab
+  link: https://github.com/USERNAME
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/USERNAME/
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Email for Gravatar (optional)  #FILL THIS IN
+email: ""
+
+# Organizational groups for People widget  #IGNORE THIS
+user_groups:
+- People
+---
+ #FILL THIS IN
+Firstname Lastname is a [position, e.g., PhD student/Research Assistant] in the ISSUES Lab.  
+Their work focuses on [short description of focus]. They are interested in [insert research areas, e.g., spatial epidemiology, environmental justice, violence prevention].  
+
+They bring skills in [methods/tools: e.g., R, Python, GIS, Bayesian modeling] and contribute to projects such as [project A, project B].  
+
+### Certifications
+* [Certification name], [Year]  
+* [Certification name], [Year]  
+
+### Awards and honours
+* [Award name], [Institution], [Year]  
+* [Award name], [Institution], [Year]  

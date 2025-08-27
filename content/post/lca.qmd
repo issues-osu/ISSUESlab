@@ -1,0 +1,241 @@
+---
+title: "Latent Class Analysis in R"
+author: "ISSUES"
+date: "2025-07-10"
+format: html
+editor: visual
+---
+
+## Introduction
+
+Latent Class Analysis (LCA) is a **person-centered, categorical latent variable modeling approach** used to identify unobserved subgroups within a population based on response patterns across multiple observed categorical variables. This tutorial introduces LCA using R, focusing on practical implementation, interpretation, and extensions (excluding Bayesian methods). Specifically, it covers (and its a work in progress):
+
+- Standard LCA using poLCA (categorical variables)
+
+- Continuous latent profile analysis using tidyLPA
+
+- Multigroup LCA using subgroup splits (male/female)
+
+- Multilevel (random-effects) LCA using randomLCA
+
+# Introduction
+
+Latent Class Analysis (LCA) is a statistical method used to identify unobserved (latent) subgroups within a population based on individual response patterns across a set of categorical variables. Unlike variable-centered approaches like regression or factor analysis, LCA is person-centered—it aims to classify individuals into mutually exclusive, exhaustive latent classes. This method is widely used in psychology, public health, sociology, and education to uncover typologies or behavioral subgroups.
+
+This tutorial will walk you through the theory, implementation, and interpretation of LCA in R using the `poLCA`, `tidyLPA`, and `randomLCA` packages. We will explore model selection, result interpretation, visualization, and extensions such as multigroup and multilevel LCA.
+
+You should make sure to read some key papers using LCA as well as LCA tutorials in R. This is only a starting point. [My lecture notes are here](/static/uploads/LCASTU.pptx).
+
+
+# Libraries and Installation
+
+You will need to install and load several packages:
+
+```{r}
+#install.packages(c("poLCA", "tidyLPA", "flexmix", "randomLCA", "dplyr", "ggplot2", "tibble"))
+```
+
+```{r, message=FALSE, warning=FALSE}
+library(poLCA)       # For classical latent class models with categorical indicators
+library(tidyLPA)     # For mixture models with continuous indicators (tidy syntax)
+library(flexmix)     # For latent class regression
+library(randomLCA)   # For multilevel or random-effects LCA
+library(dplyr)
+library(ggplot2)
+library(tibble)
+```
+
+# Simulated Categorical Data for `poLCA`
+
+#### Code explanation
+This sets the random number generator seed to 123. It ensures reproducibility, meaning that every time this code is run, it produces the exact same random sample. Without this line, the numbers would change every time.
+
+Then we create a `tibble` object (i.e., a dataframe) and assign it to an object called categorical data. The code then creates a simulated dataset named categorical_data with 500 rows and 4 categorical variables we are calling symptoms. Each symptom is randomly generated to have either 2 or 3 response categories. This simulated data is used for demonstration purposes in latent class analysis. *Note:* sampled values are **with replacement.** 
+
+```{r}
+set.seed(123)
+categorical_data <- tibble(
+  symptom1 = sample(1:2, 500, replace = TRUE),
+  symptom2 = sample(1:3, 500, replace = TRUE),
+  symptom3 = sample(1:2, 500, replace = TRUE),
+  symptom4 = sample(1:3, 500, replace = TRUE)
+)
+```
+
+#### Note on the dataset
+First note that `poLCA` expects the coding to start at 1, and not 0.
+
+Here, binary items (symptom1, symptom3) are explicitly coded as:
+
+- 1 = Yes (the person has the symptom)
+- 2 = No (the person does not have the symptom)
+
+Multinomial items (symptom2, symptom4) reflect three unordered or ordinal response categories (e.g., levels of severity or type of symptom presentation), though the specific meaning of 1–3 is not defined in the code and would typically depend on survey or assessment documentation.
+
+
+# LCA with `poLCA`
+
+## Specifying the Model
+
+The `poLCA` function is used to do the latent variable modeling in this example. IMHO, this package is extremely limited, however it is fine for the most basic of analyses (which are not that basic).
+
+The model takes the following form. `cbind` binds or merges the columns you want to use for the analysis, here the four symptoms. As with all models in R, the `~ 1` represents on intercept-only model (i.e., no covariates).
+
+```{r}
+f <- cbind(symptom1, symptom2, symptom3, symptom4) ~ 1
+```
+
+## Fitting Models with 2 to 4 Classes
+
+LCA is iterative. You must estimate several models and chose the best-fitting. Here I am estimating three models representing LC two through four. Why are we not estimating one latent class?
+
+We stop when we get the best-fiting model as shown below in the model fit comparison section.
+
+
+```{r}
+model_2class <- poLCA(f, data = categorical_data, nclass = 2, maxiter = 1000)
+model_3class <- poLCA(f, data = categorical_data, nclass = 3, maxiter = 1000)
+model_4class <- poLCA(f, data = categorical_data, nclass = 4, maxiter = 1000)
+```
+
+## Model Fit Comparison
+
+```{r}
+bic_values <- c(
+  BIC_2 = model_2class$bic,
+  BIC_3 = model_3class$bic,
+  BIC_4 = model_4class$bic
+)
+print(bic_values)
+```
+
+Lower BIC values indicate better fit. Select the number of classes accordingly.
+
+| Model   | LL       | AIC         | BIC         | G²    | X²    | Params | df | Preferred? |
+| ------- | -------- | ----------- | ----------- | ----- | ----- | ------ | -- | ---------- |
+| 2-class | -1783.21 | **3592.41** | **3647.20** | 22.85 | 23.15 | 13     | 22 | Yes        |
+| 3-class | -1779.10 | 3598.20     | 3682.50     | 14.65 | 14.85 | 20     | 15 | No         |
+| 4-class | -1775.60 | 3605.19     | 3718.99     | 7.64  | 7.63  | 27     | 8  | No         |
+
+
+### How to compute entropy
+
+`poLCA` does NOT compute entropy, which is technically not a fit statistic but a measure of classification certainty.
+
+To compute entropy (should always be included, and should be high):
+```{r}
+entropy<-function (p) sum(-p*log(p))
+error_prior <- entropy(model_2class$P) # Class proportions
+error_post <- mean(apply(model_2class$posterior, 1, entropy))
+LCA2_entropy <- (error_prior - error_post) / error_prior
+LCA2_entropy
+```
+
+This entropy is extremely low. Notice the fit is better, and you may well find the entropy of LC3, etc. is higher. 
+
+## Interpretation of Output
+
+```{r}
+print(model_2class$P)
+
+print(model_2class$probs)
+
+head(model_2class$posterior)
+```
+**Interpretation**: After estimating the model, poLCA assigns approximately 63% of the sample to Class 1 and 37% to Class 2. These are model-implied proportions, meaning the algorithm estimates that these are the relative sizes of the two latent classes in the population based on response patterns.
+
+| Term         | What It Means                                                                        |         |
+| ------------ | ------------------------------------------------------------------------------------ | ------- |
+| `$P`         | Proportion of total sample estimated to belong to each class                         |         |
+| `$probs`     | Probability of each item response given class membership (Pr(item  class))           |         |
+| `$posterior` | For each individual: probability of being in each class given their response pattern |         |
+
+
+
+#### Class Proportions
+
+| Class   | Estimated Proportion |
+| ------- | -------------------- |
+| Class 1 | 63.0%                |
+| Class 2 | 36.9%                |
+
+
+#### Item Response Probabilities
+
+| Symptom  | Response | Class 1 | Class 2 |
+| -------- | -------- | ------- | ------- |
+| symptom1 | 1        | 0.512   | 0.539   |
+|          | 2        | 0.488   | 0.461   |
+|**symptom2** | 1        | 0.101   | **0.634**   |
+|          | 2        |**0.518**   | 0.003   |
+|          | 3        | 0.381   | 0.363   |
+| symptom3 | 1        | **0.558**   | 0.454   |
+|          | 2        | 0.442   | **0.546**   |
+| symptom4 | 1        | 0.360   | 0.284   |
+|          | 2        | 0.262   | 0.457   |
+|          | 3        | 0.378   | 0.259   |
+
+
+Each row gives the probability that a person in Class 1 or Class 2 endorses a specific response level on a particular symptom. For instance, under symptom2, Class 1 has a 51.8% probability of responding with 2, while Class 2 has a 63.4% probability of responding with 1.
+
+This format makes it easy to see how well the classes are separated. You can spot which symptoms help tell the classes apart by looking for:
+
+- Big differences between classes for the same response option.
+
+- Clear patterns where one class is much more likely—or unlikely—to give a certain response (for example, Class 2 almost never chooses response 2 for symptom2).
+
+This helps assess both class separation (how different the classes are) and within-class consistency (how similar responses are within each class).
+
+Here is how I would describe the classes: Class 1 (63% of respondents) is the class of respondents who endorse symptom 3 with high probability, whereas class 2 (~37%) endorse sympton 2 with high probability.
+
+# Visualization of Item-Response Probabilities
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(purrr)
+
+# Extract and reshape item-response probabilities
+probs_long <- model_2class$probs %>%
+  imap_dfr(~{
+    as_tibble(.x) %>%
+      mutate(Class = row_number()) %>%
+      pivot_longer(-Class, names_to = "Response", values_to = "Probability") %>%
+      mutate(Symptom = .y)
+  })
+
+# Plot
+ggplot(probs_long, aes(x = factor(Class), y = Probability, fill = Response)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  facet_wrap(~Symptom, scales = "free_y") +
+  labs(
+    title = "Item-Response Probabilities by Class",
+    x = "Latent Class",
+    y = "Pr(Response | Class)",
+    fill = "Response"
+  ) +
+  theme_minimal(base_size = 14)
+
+```
+
+| Symptom   | Class Separation | Discriminative Value |
+| --------- | ---------------- | -------------------- |
+| Symptom 1 | Low              | Weak                 |
+| Symptom 2 | High             | Strong               |
+| Symptom 3 | Moderate         | Good                 |
+| Symptom 4 | Moderate         | Fair                 |
+
+# Extensions
+Next time we will look at extensions.
+
+# Model Assessment Recap
+
+- **Fit indices:** Lower BIC and AIC indicate better models.
+- **Entropy:** Higher entropy (closer to 1) means clearer class separation.
+- **Posterior classification probabilities:** Evaluate individual classification confidence.
+- **Class prevalence and response patterns:** Interpret substantive meaning of each class.
+
+# Conclusion
+
+LCA is a powerful technique for uncovering latent subgroups in cross-sectional data. This tutorial showed how to use `poLCA` for categorical indicators and `tidyLPA` for continuous indicators, how to evaluate and compare models, and how to extend the analysis to multigroup and multilevel settings. This foundation can support deeper exploration of typologies in developmental, health, and behavioral research.

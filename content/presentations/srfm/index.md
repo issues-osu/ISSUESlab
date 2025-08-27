@@ -1,0 +1,36 @@
++++
+
+widget = "blank"
+headless = false  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+title= "Development and Spatial Validation of a Random Forest Prediction Model for Firearm-Related Injury Risk in Chicago Census Tracts"
+
+subtitle = "Spatial Random Forest Models"
+summary = "This study applies spatially explicit machine learning to model non-fatal shootings across Chicago census tracts from 2020 to 2024. A curated set of predictors was compiled, including measures of social and environmental vulnerability, the built environment, and housing inequality."
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
++++ 
+
+# The land cover paradox
+
+## This paper explores associations between blue- and green- space and suicide mortality in Cook County, Illinois
+
+|                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Short description:   | The land cover paradox: Characteristics of blue- and green spaces within and beyond high-risk suicide clusters - ScienceDirect                                                                                                                                                                                                                                                                                                                              |     |
+| Lead developer:      | Barboza-Salerno                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| Further reading:     | h                                                                                                                                                                                                                                                                                                    |     |
+| Download:            | [<i class="fab fa-github"></i> Github repo](https://github.com/issues-osu/)                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| Main data source(s): | MLCD land cover, tree- and park- equity                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
+| Coverage:            | Cook County, IL                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| Citation:            | @article{BARBOZA2025101820,   title = {The Land Cover Paradox: {{Characteristics}} of Blue- and Green Spaces within and beyond High-Risk Suicide Clusters},   author = {Barboza, Gia E. and {Watson-Grace}, Amy and {Shockley-McCarthy}, Karla and Harrington, Taylor and Warren, Keith and Steelsmith, Danielle},   year = {2025},   journal = {SSM - Population Health},   pages = {101820},   issn = {2352-8273},   doi = {10.1016/j.ssmph.2025.101820}} |     |
+
+
+Gun violence remains a critical public health crisis, particularly in urban centers like Chicago, where firearm-related injuries are among the highest in the nation. 
+These injuries are not randomly distributed; they are spatially concentrated in neighborhoods shaped by structural inequality, including racial segregation, economic disinvestment, and environmental neglect. 
+While random forest models have shown promise in predicting firearm violence and identifying neighborhood-level risk factors, conventional approaches often ignore spatial dependence, leading to biased estimates, 
+inflated variable importance, and reduced geographic generalizability. This study applies spatially explicit machine learning to model non-fatal shootings across Chicago census tracts from 2020 to 2024. A curated set of predictors was compiled, including measures of social and environmental vulnerability, the built environment, and housing inequality. Three research questions guided the analysis: (1) Does incorporating spatial structure via Moran's Eigenvector Maps (MEMs) in spatial random forests and spatially structured random effects in a Bayesian spatial model improve predictive accuracy compared to non-spatial models? (2) Which neighborhoods exhibit elevated firearm violence risk due to unmeasured spatial processes, as captured by spatial random effects? (3) Does prediction error vary across geographic space, revealing limits to model transferability? Findings suggest that the spatial random forest model outperformed the non-spatial model (pseudo R² = 0.98 vs. test R² = 0.50). Spatial cross-validation revealed geographic variation in accuracy (median nRMSE = 0.76), while spatial random effects from a Bayesian Poisson model identified unexplained latent risk. The enhanced predictive accuracy reveals hidden geographic risk patterns, suggesting that social, structural, and environmental factors can efficiently inform targeted violence prevention strategies.
+Check out this [Access our tutorial on na here](/lab/markdown/spatialaccess.html) for more details.

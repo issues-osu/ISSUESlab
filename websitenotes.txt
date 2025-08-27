@@ -1,0 +1,3 @@
+The website is located in Downloads\lab
+from that director type: hugo servcer
+website notes

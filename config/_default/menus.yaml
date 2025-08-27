@@ -2,86 +2,97 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-
 main:
-  - name: about
+  - name: About
     url: '/about'
     weight: 10
-  - name: 'our research group'
-    parent: 'about'
-    url: '/about'
+  - name: Team
+    parent: About
+    url: '/author'
     weight: 11
-  - name: 'recent news'
-    parent: 'about'
-    url: '/people'
-    weight: 12
-  - name: 'meet the team'
-    parent: 'about'
-    url: '/authors'
+  - name: Media
+    parent: About
+    url: '/news'
     weight: 13
-  - name: 'our seminars'
-    parent: 'about'
-    url: '/seminars'
-    weight: 14
-  - name: news
-    url: '/post'
+
+  - name: Research Areas
+    url: '/research'
     weight: 20
-  - name: publications
-    url: '/publication'
+  - name: 'Maternal & Child Health'
+    parent: Research Areas
+    url: '/research/reproductive-justice'
+    weight: 21
+  - name: Education
+    parent: Research Areas
+    url: '/research/education'
+    weight: 22
+  - name: ACEs
+    parent: Research Areas
+    url: '/research/aces'
+    weight: 23
+  - name: Drug Overdose
+    parent: Research Areas
+    url: '/research/overdose'
+    weight: 24
+  - name: Interpersonal Violence
+    parent: Research Areas
+    url: '/research/violence'
+    weight: 25
+ 
+  - name: 'Law & Policy'
+    url: '/advocacy'
     weight: 30
-  - name: 'geospatial resources'
+  - name: Legal Projects
+    parent: 'Law & Policy'
+    url: '/legal'
+    weight: 31
+  - name: Policy Briefs
+    parent: 'Law & Policy'
+    url: '/policy-briefs'
+    weight: 33
+
+
+  - name: Blog
+    url: '/post'
+    weight: 40
+  - name: BD4SJ on Medium
+    parent: Blog
+    url: 'https://bigdataforsocialjustice.medium.com/'
+    weight: 41
+
+  - name: Publications
+    url: '/publication'
     weight: 50
-  - name: 'our data+code'
-    parent: 'geospatial resources'
-    url: '/data-code'
-    weight: 51
-  - name: 'global streetscapes'
-    parent: 'geospatial resources'
-    url: '/project/global-streetscapes/'
-    weight: 52
-  - name: 'global building morphology indicators'
-    parent: 'geospatial resources'
-    url: '/project/gbmi/'
-    weight: 53
-  - name: 'roofpedia'
-    parent: 'geospatial resources'
-    url: '/project/roofpedia/'
-    weight: 54
-  - name: 'open building data'
-    parent: 'geospatial resources'
-    url: '/project/ogbd/'
-    weight: 55
-  - name: '3d city index'
-    parent: 'geospatial resources'
-    url: '/project/3d-city-index/'
-    weight: 56
-  - name: 'open data SG'
-    parent: 'geospatial resources'
-    url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'
-    weight: 57
-  - name: join
-    weight: 80
-  - name: openings
-    parent: join
+
+  - name: Resources
+    url: '/resources'
+    weight: 60
+  - name: Datasets
+    parent: Resources
+    url: '/resources/datasets'
+    weight: 61
+  - name: Tutorials
+    parent: Resources
+    url: '/courses'
+    weight: 62
+
+  - name: Join Us
+    url: '/join'
+    weight: 70
+  - name: Openings
+    parent: Join Us
     url: '/opportunities/vacancies'
-    weight: 81
-  - name: 'why us'
-    parent: join
-    url: '/opportunities/why-us'
-    weight: 82
-  - name: application guide
-    parent: join
+    weight: 71
+  - name: How to Apply
+    parent: Join Us
     url: '/opportunities/application-guide'
-    weight: 84
-  - name: 'student initiated projects'
-    parent: join
+    weight: 72
+  - name: Undergraduate Students
+    parent: Join Us
     url: '/opportunities/student-projects'
-    weight: 85
-  - name: fellowships
-    parent: join
-    url: '/opportunities/fellowships'
-    weight: 86
-  - name: contact
+    weight: 73
+ 
+  - name: Contact
     url: '#contact'
-    weight: 90
-    
+    weight: 100
+

@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Big Data for Social Justice Reearch'
     description: 'Research and Mentoring Lab'
-    twitter: 'bigdataforsocialjustice'
+    twitter: 'data4socialjustice.bsky.social'
   analytics:
     google_analytics: 'UA-143417043-1'
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Big Data for Social Justice Research.'
+    notice: '© {year} ISSUES - Investigatng Spatial Structures in Urban Environments.'
     license:
       enable: false
       allow_derivatives: false
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/bigdataforsocialjustice/lab'
+    url: 'https://github.com/issues-osu/lab'
     content_dir: content
     branch: main
   avatar:

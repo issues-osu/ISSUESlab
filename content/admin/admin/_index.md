@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Urban Analytics Lab
-title: Urban Analytics Lab
+name: Investigating Spatial Structures in Urban Environments Lab
+title: ISSUES Lab
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: []
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Singapore
+- name: OSU
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,16 +31,16 @@ interests: []
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:filip@nus.edu.sg'
+  link: 'mailto:barboza-salerno.1@osu.edu'
 - icon: twitter
   icon_pack: fab
-  link: http://twitter.com/urbanalyticslab
+  link: http://twitter.com/bigdata4justice
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Filip_Biljecki
+  link: https://www.researchgate.net/profile/Gia-Barboza-Salerno
 - icon: github
   icon_pack: fab
-  link: https://github.com/ualsg
+  link: https://github.com/issues-osu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  

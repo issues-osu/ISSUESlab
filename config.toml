@@ -1,0 +1,30 @@
+baseURL = "https://issues-osu.github.io/ISSUESlab/"
+title = "My Hugo Site"
+languageCode = "en-us"
+paginate = 10
+theme = "hugo-blox-builder"
+google_analytics = ""  # leave blank or add your GA4 ID e.g. "G-XXXXXXX"
+# Enable modules if using Hugo Modules (required for Blox themes)
+[module]
+  replacements = "github.com/HugoBlox/hugo-blox-builder -> themes/hugo-blox-builder"
+
+# Params required by some partials (like SEO & analytics)
+[params]
+  description = "This is a demo site"
+  author = "Your Name"
+
+# Deployment settings (optional)
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+# Optional menus if theme expects them
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2

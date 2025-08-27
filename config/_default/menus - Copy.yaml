@@ -1,0 +1,95 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: about
+    url: '/about'
+    weight: 10
+  - name: 'our research group'
+    parent: 'about'
+    url: '/about'
+    weight: 11
+  - name: 'recent news'
+    parent: 'about'
+    url: '/post'
+    weight: 12
+  - name: 'meet the team'
+    parent: 'about'
+    url: '/author'
+    weight: 13
+  - name: 'our seminars'
+    parent: 'about'
+    url: '/seminars'
+    weight: 14
+  - name: news
+    url: '/post'
+    weight: 20
+  - name: publications
+    url: '/publication'
+    weight: 30
+  - name: 'show me data'
+    weight: 60
+  - name: 'resources'
+    weight: 50
+  - name: 'our data+code'
+    parent: 'resources'
+    url: '/data-code'
+    weight: 51
+  - name: 'global streetscapes'
+    parent: 'resources'
+    url: '/project/global-streetscapes/'
+    weight: 52
+  - name: 'global building morphology indicators'
+    parent: 'resources'
+    url: '/project/gbmi/'
+    weight: 53
+  - name: 'roofpedia'
+    parent: 'resources'
+    url: '/project/roofpedia/'
+    weight: 54
+  - name: 'open building data'
+    parent: 'resources'
+    url: '/project/ogbd/'
+    weight: 55
+  - name: '3d city index'
+    parent: 'resources'
+    url: '/project/3d-city-index/'
+    weight: 56
+  - name: 'open data SG'
+    parent: 'resources'
+    url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'
+    weight: 57
+  - name: courses
+    url: '/courses'
+    weight: 20
+  - name: 'our research group'
+    parent: 'about'
+    url: '/about'
+  - name: join
+    weight: 90
+  - name: openings
+    parent: join
+    url: '/opportunities/vacancies'
+    weight: 91
+  - name: 'why us'
+    parent: join
+    url: '/opportunities/why-us'
+    weight: 92
+  - name: application guide
+    parent: join
+    url: '/opportunities/application-guide'
+    weight: 94
+  - name: 'student initiated projects'
+    parent: join
+    url: '/opportunities/student-projects'
+    weight: 95
+  - name: fellowships
+    parent: join
+    url: '/opportunities/fellowships'
+    weight: 96
+  - name: contact
+    url: '#contact'
+    weight: 100
+    
