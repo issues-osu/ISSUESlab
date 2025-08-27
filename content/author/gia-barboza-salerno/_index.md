@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Director
 
 # Organizations/Affiliations (shown under the name)
 organizations:
