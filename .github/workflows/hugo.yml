@@ -2,26 +2,25 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive   # ✅ pulls in themes/hugo-blox-builder
           fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.125.7'   # match your local Hugo version
+          hugo-version: '0.125.7'
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -b "https://issues-osu.github.io/ISSUESlab/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
