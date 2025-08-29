@@ -8,12 +8,22 @@
   #pb-search { width: 100%; padding: .7rem .9rem; border: 1px solid #e2e8f0; border-radius: .6rem; font-size: 1rem; }
 
   .pb-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; padding: 1.25rem 0 3rem; }
-  .pb-card { background: #fff; border: 1px solid #e5e7eb; border-radius: 1rem; overflow: hidden; display: flex; flex-direction: column; box-shadow: 0 3px 14px rgba(0,0,0,.04); transition: transform .2s ease, box-shadow .2s ease; }
-  .pb-card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
+  .pb-card {
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 3px 14px rgba(0,0,0,.04);
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+  .pb-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 24px rgba(0,0,0,.08);
+  }
 
   .pb-thumb { display: block; aspect-ratio: 16/9; background: #f1f5f9; }
   .pb-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .pb-thumb--placeholder { width: 100%; height: 100%; display: grid; place-items: center; color: #475569; font-weight: 600; letter-spacing: .06em; }
 
   .pb-body { padding: 1rem; display: grid; gap: .5rem; }
   .pb-title { margin: 0; font-size: 1.1rem; line-height: 1.3; }
@@ -21,9 +31,6 @@
   .pb-title a:hover { text-decoration: underline; }
   .pb-summary { color: #475569; margin: 0; min-height: 3.2em; }
   .pb-meta { color: #64748b; font-size: .9rem; }
-
-  /* Make sure the grid sticks even if themes add global styles */
-  .pb-grid > .pb-card { width: auto; }
 </style>
 
 <section class="pb-hero">
@@ -40,19 +47,20 @@
 <section class="pb-grid pb-container">
   {{ $pages := .RegularPages.ByDate.Reverse }}
   {{ range $pages }}
-  <article class="pb-card">
+  <article class="pb-card"
+           style="background-color: {{ if .Params.box_bg }}{{ .Params.box_bg }}{{ else }}#ffffff{{ end }};">
     <a class="pb-thumb" href="{{ .RelPermalink }}">
-  {{ $page := . }}
-  {{ with $page.Params.featured }}
-    <img src="{{ . | relURL }}" alt="{{ $page.Title }}">
-  {{ else }}
-    {{ with $page.Resources.GetMatch "featured*" }}
-      <img src="{{ .RelPermalink }}" alt="{{ $page.Title }}">
-    {{ else }}
-      <img src="{{ "images/brief.jpg" | relURL }}" alt="Default brief image">
-    {{ end }}
-  {{ end }}
-</a>
+      {{ $page := . }}
+      {{ with $page.Params.featured }}
+        <img src="{{ . | relURL }}" alt="{{ $page.Title }}">
+      {{ else }}
+        {{ with $page.Resources.GetMatch "featured*" }}
+          <img src="{{ .RelPermalink }}" alt="{{ $page.Title }}">
+        {{ else }}
+          <img src="{{ "images/brief.jpg" | relURL }}" alt="Default brief image">
+        {{ end }}
+      {{ end }}
+    </a>
 
     <div class="pb-body">
       <h2 class="pb-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
