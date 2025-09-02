@@ -4,7 +4,7 @@ name: "Abdulgafar-Olorede"
 title: "Abdulgafar Olorede"
 
 authors:
-- Abdulgafar-Olorede 
+- abdulgafar-olorede 
 
 weight: 10
 
