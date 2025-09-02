@@ -1,7 +1,7 @@
 ---
 # Display name
 name: "Gia Barboza-Salerno"
-title: "Faculty, CSW/CPH"
+title: "Dr. Gia Elise Barboza-Salerno"
 
 authors:
 - gia-barboza-salerno

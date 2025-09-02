@@ -31,8 +31,10 @@ main:
     weight: 30
   - name: 'show me data'
     weight: 60
-  - name: 'resources'
+  - name: 'resources-learn'
     weight: 50
+  - name: 'resources-comp'
+    weight: 70  
   - name: 'our data+code'
     parent: 'resources'
     url: '/data-code'

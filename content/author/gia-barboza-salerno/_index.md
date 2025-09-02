@@ -1,7 +1,7 @@
 ---
 # Display name (shown on cards & top of page)
 name: Gia Barboza-Salerno
-title: Gia Barboza-Salerno
+title: Dr. Gia Barboza-Salerno
 
 # Username (folder name); for Wowchemy this file should live at:
 # content/authors/gia-barboza-salerno/_index.md

@@ -65,11 +65,15 @@ main:
     parent: Resources
     url: '/courses'
     weight: 62
-  - name: Learning
+  - name: Learning Resources
     parent: Resources  
-    url: '/resources/resources'
+    url: '/resources/resources_learn'
     weight: 63
-    
+  - name: Computing Resources
+    parent: Resources  
+    url: '/resources/resources_comp'
+    weight: 63
+
   - name: Join Us
     url: '/join'
     weight: 70

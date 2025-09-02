@@ -13,6 +13,9 @@ google_analytics = ""  # leave blank or add your GA4 ID e.g. "G-XXXXXXX"
   description = "This is a demo site"
   author = "Your Name"
 
+[params.assets]
+  favicon = "favicon.png"
+
 # Deployment settings (optional)
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]

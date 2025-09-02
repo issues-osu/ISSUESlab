@@ -12,6 +12,10 @@ appearance:
   font_size: L
 
 # SEO
+params:
+  assets:
+    favicon: "favicon.png"
+  customCSS: ["css/custom.css"]
 
 marketing:
   seo:
