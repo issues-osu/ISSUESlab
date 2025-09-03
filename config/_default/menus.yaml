@@ -73,6 +73,10 @@ main:
     parent: Resources  
     url: '/resources/resources_comp'
     weight: 63
+  - name: Bibliography
+    parent: Resources  
+    url: '/resources/references'
+    weight: 63
 
   - name: Join Us
     url: '/join'

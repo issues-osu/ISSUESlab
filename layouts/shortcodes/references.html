@@ -1,0 +1,50 @@
+{{ $refs := getJSON "static/uploads/references.json" }}
+{{ $cat  := lower (.Get 0 | default "") }}
+
+<ul>
+  {{ range $refs }}
+    {{ $tags := slice }}
+
+    {{ with .keyword }}
+      {{ $norm := replaceRE `\s*[;,|]\s*` "," . }}
+      {{ range (split (lower $norm) ",") }}
+        {{ if ne . "" }}{{ $tags = $tags | append . }}{{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ with .categories }}
+      {{ range . }}{{ $tags = $tags | append (lower .) }}{{ end }}
+    {{ end }}
+
+    {{ with .tags }}
+      {{ range . }}{{ with .tag }}{{ $tags = $tags | append (lower .) }}{{ end }}{{ end }}
+    {{ end }}
+
+    {{ with .note }}
+      {{ $tags = $tags | append (lower .) }}
+    {{ end }}
+
+    {{ $uniq := slice }}
+    {{ range $tags }}{{ if not (in $uniq .) }}{{ $uniq = $uniq | append . }}{{ end }}{{ end }}
+
+    {{ $match := cond (eq $cat "") true (in $uniq $cat) }}
+
+    {{ if $match }}
+      <li>
+        {{ with .author }}
+          {{ range $i, $a := . }}{{ if gt $i 0 }}; {{ end }}{{ $a.family }}, {{ $a.given }}{{ end }}
+        {{ end }}
+        {{ $year := "" }}
+        {{ with .issued }}
+          {{ $dp := index . "date-parts" }}
+          {{ if and $dp (ge (len $dp) 1) (ge (len (index $dp 0)) 1) }}
+            {{ $year = printf "%v" (index (index $dp 0) 0) }}
+          {{ end }}
+        {{ end }}
+        {{ if $year }} ({{ $year }}){{ end }}.
+        <i>{{ .title }}</i>{{ with (index . "container-title") }}. {{ . }}{{ end }}{{ with .volume }} {{ . }}{{ end }}{{ with .issue }}({{ . }}){{ end }}{{ with .page }}, {{ . }}{{ end }}.
+        {{ with .DOI }} <a href="https://doi.org/{{ . }}">doi:{{ . }}</a>{{ end }}
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>
