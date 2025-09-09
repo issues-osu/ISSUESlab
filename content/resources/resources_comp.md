@@ -1,8 +1,9 @@
 # Lab Software and Data Science Resources
 
-Below are links to download and install essential software for data analysis, visualization, and research management. All tools are **free and open-source** unless otherwise noted.
 
 ---
+
+Below are links to download and install essential software for data analysis, visualization, and research management. All tools are **free and open-source** unless otherwise noted.
 
 ## Core Tools
 
