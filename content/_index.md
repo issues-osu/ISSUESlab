@@ -50,8 +50,8 @@ sections:
         </div>
     design:
       background:
-        color: 'black'
-        text_color_light: true
+        color: '#ffffff'
+        text_color_light: false
 
   - block: markdown
     content:
