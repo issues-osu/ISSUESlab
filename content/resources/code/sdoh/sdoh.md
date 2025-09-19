@@ -1,11 +1,9 @@
 ---
-title: "Mapping Food & Housing Insecurity with CDC PLACES (Franklin County, OH)"
-date: 2025-09-09
-summary: "Download CDC PLACES via Socrata, join to census tracts, mean-impute missing values for visualization, map, and export GeoJSON."
-tags: ["R", "CDC PLACES", "Socrata", "SDOH", "Franklin County", "Ohio", "GIS"]
-categories: ["Code Snippets"]
-draft: false
+title: "SDOH Example"
+date: 2025-09-10
 ---
+This is the SDOH example page.
+
 
 # Mapping the SDoH
 

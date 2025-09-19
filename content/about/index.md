@@ -4,7 +4,7 @@ type: page
 weight: 20
 ---
 
-We are a multidisciplinary research group comprised of underrepresented scholars in the academy. Our work focuses on using geographic data science in social work policy and practice at the [Colleges of Social Work (https://cde.nus.edu.sg/arch/) and Public Health](https://cde.nus.edu.sg/arch/) at The [Ohio State University (OSU)](http://www.osu.edu), a leading global university based in Columbus, Ohio.
+We are a multidisciplinary research group comprised of underrepresented scholars in the academy. Our work focuses on using geographic data science in social work policy and practice at the [Colleges of Social Work (https://csw.osu.edu) and Public Health](https://cph.osu.edu) at The [Ohio State University (OSU)](http://www.osu.edu), a leading global university based in Columbus, Ohio.
 
 Our mission is to do applied work that impacts social policy by leveraging data and recent advances in spatial and statistical analysis.
 We are particularly interested in the intersection of the social and physical environment and its impact on child and adolescent well-being broadly defined. This includes adverse childhood

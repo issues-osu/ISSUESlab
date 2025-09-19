@@ -57,26 +57,37 @@ main:
   - name: Resources
     url: '/resources'
     weight: 60
+
   - name: Datasets
     parent: Resources
     url: '/resources/datasets'
     weight: 61
+
+  - name: Code
+    parent: Resources
+    url: '/resources/code'
+    weight: 62
+
   - name: Tutorials
     parent: Resources
     url: '/courses'
-    weight: 62
+    weight: 63
+
   - name: Learning Resources
     parent: Resources  
     url: '/resources/resources_learn'
-    weight: 63
+    weight: 64
+
   - name: Computing Resources
     parent: Resources  
     url: '/resources/resources_comp'
-    weight: 63
+    weight: 65
+
   - name: Bibliography
     parent: Resources  
     url: '/resources/references'
-    weight: 63
+    weight: 66
+
 
   - name: Join Us
     url: '/join'
