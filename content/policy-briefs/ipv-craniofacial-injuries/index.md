@@ -1,7 +1,7 @@
 ---
 title: "Craniofacial Injuries in IPV-Related Physical Abuse"
 date: 2025-08-27
-box_bg: "#ccffcc"
+box_bg: "#242038ff"
 summary: "National emergency department data show nearly 900,000 IPV-related visits, with three in five involving craniofacial trauma — highlighting urgent public health and legal implications."
 tags: ["Intimate Partner Violence", "Craniofacial Injury", "Emergency Medicine", "Policy"]
 ---

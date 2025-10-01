@@ -59,8 +59,6 @@ email: ""
 user_groups:
 - People
 ---
-Malcolm McCarthy is an Undergraduate Geospatial Analyst in the ISSUES Lab. 
+Malcolm McCarthy is an Undergraduate Geospatial Analyst in the ISSUES Lab. His work focuses on mental health and socioeconomic predictors of wellbeing. He is interested in spatial epidemiology of depression, environmental correlates of substance abuse, and factors of suicide risk. 
 
-Their work focuses on mental health. They are interested in spatial epidemiology of depression, environmental correlates of substance abuse, and factors of suicide risk.
-
-They bring skills in GIS and contribute to projects such as Racial Disparities in ACEs and Social Safety Nets and Opioid Mortality.  
+He brings skills in Geographic Information Systems (GIS) and contributes to projects on Adverse Childhood Experiences (ACEs) within historically marginalized populations, environmental exposures amd mortality in older adults, and the impact of social safety nets on substance use.  

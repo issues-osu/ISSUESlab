@@ -13,7 +13,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Undergraduate Statistician/Data Scientist
+role: Undergraduate Research Assistant
 
 # The Ohio State University — College of Public Health & Department of English #FILL THIS IN
 
@@ -26,9 +26,9 @@ bio: "Olivia McLucas is an undergraduate student at the Ohio State University. S
 
 # Research interests #FILL THIS IN
 interests:
-- Data Science
-- Deaf Culture
-- Social Justice
+- Law and Public Policy
+- Prison reform and the outcomes of incarceration 
+- Representation of minoritized groups in the criminal justice system   
 
 # Education #FILL THIS IN [Bachelor's Degree, Public Health] and [The Ohio State University]
 
@@ -62,9 +62,7 @@ email: ""
 user_groups:
 - People
 ---
-Olivia McLucas is an undergraduate student at the Ohio State University. She is majoring in Statistics with a minor in American Sign Language on a pre-law track. 
-
-Olivia is also serving the team as photographer and videographer, while simultaneously working as a researcher assistant for the scholars.
+Olivia McLucas is a research assistant in the ISSUES Lab.  Their work focuses on law and policy within underrepresented groups. They are interested in applying big data to violence-related harm  prevention as it pertains to minoritized groups within the criminal-legal system.
 
 
 
