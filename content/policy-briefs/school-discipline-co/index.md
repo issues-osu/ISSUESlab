@@ -4,6 +4,7 @@ date: 2025-08-27
 featured: "images/discipline-brief.jpg"
 summary: "Policy interventions that reduce poverty or provide targeted supports in high-poverty districts could meaningfully reduce suspension events statewide."
 tags: ["Schools", "Discipline", "Neighborhoods", "Policy"]
+box_bg: "#e3dff3ff"
 ---
 
 ## Overview

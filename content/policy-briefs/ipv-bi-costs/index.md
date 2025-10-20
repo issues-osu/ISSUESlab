@@ -1,7 +1,7 @@
 ---
 title: "Intimate Partner Violence & Brain Injury in U.S. Adults: Findings from the Medical Expenditure Panel Survey, 2021"
 date: 2025-08-27
-box_bg: "#ccffcc"
+box_bg: "#e3dff3ff"
 featured: "images/meps.jpg"
 summary: "National estimates show that adults who screen positive for intimate partner violence (IPV) have disproportionately higher rates of injury-linked emergency and inpatient encounters and substantially higher per-capita head/brain-injury–linked medical spending than adults who screen negative."
 tags: ["Intimate Partner Violence", "Brain Injury", "Emergency Medicine", "Policy", "Medical Expenditure Panel Survey"]
