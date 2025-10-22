@@ -72,7 +72,7 @@ sections:
 
   - block: collection
     content:
-      title: Presentations
+      title: News
       subtitle: Updates from our group
       text: Feel free to follow us on <a href="https://www.linkedin.com/in/gia-barboza-895bb07">LinkedIn</a>, <a href="https://bsky.app/profile/data4socialjustice.bsky.social">Bluesky</a>, and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
       count: 5
