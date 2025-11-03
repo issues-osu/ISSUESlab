@@ -5,7 +5,7 @@ event_url: https://library.osu.edu/events/gis-day-2025
 authors: ["malcolm-mccarthy", "olivia-mclucas", "gia-barboza-salerno", "karla-shockley-mccarthy"]
 tags: [brain injury, GIS, ACEs, mapping]  
 date: 2025-10-22
-weight: 1
+weight: 2
 ---
 
 Congratulations to our undergraduates [**Oliva McLucas**](https://issues-osu.github.io/ISSUESlab/author/olivia-mclucas/) and [**Malcolm McCarthy**](http://localhost:1313/issues/author/malcolm-mccarthy/) for their abstracts accepted to the 2025 GIS Day at **The Ohio State University** on **November 19, 2025**. 

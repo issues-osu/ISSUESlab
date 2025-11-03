@@ -9,7 +9,7 @@ authors: ["gia-barboza-salerno", "karla-shockley-mccarthy", "amy-watson-grace", 
 tags: [brain injury, large language models, topic modeling, natural language processing, public health surveillance]  
 
 date: 2025-10-19
-weight: 1
+weight: 3
 ---
 
 Our presentation, *Enhancing Brain Injury Surveillance Using Large Language Models and Topic Modeling*, was delivered by [Dr. Shockley McCarthy](https://issues-osu.github.io/ISSUESlab/author/karla-mccarthy-shockley/) at the **AI for BI Conference** at **The Ohio State University** on **October 17, 2025**. 
