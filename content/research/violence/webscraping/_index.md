@@ -1,42 +1,9 @@
 ---
-title: Text Mining Child Deaths from the LA Homicide Reports
-summary: Using Python to scrape child homicide reports
-authors: [barboza]
-profile: true  # Show author profile?
-date: 2024-07-16T12:30:16+08:00
-lastmod: 2024-07-16T12:30:16+08:00
-
-tags:
-- natural language processing
-- child death
-- mapping
-
-date: "2021-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by Me
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/BarbozaLaw
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+title: "Drug Use, Overdose, and Recovery Housing"
+description: "Our research investigates how neighborhood conditions, social policies, and recovery housing shape patterns of substance use, treatment access, and overdose risk."
+date: 2025-04-25
 ---
+
 
 <img src="https://github.com/elisegia/coroner_data/blob/master/Screen%20Shot%202020-04-13%20at%202.07.09%20PM.png?raw=true" />
 

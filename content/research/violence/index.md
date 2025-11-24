@@ -29,7 +29,7 @@ date: 2025-04-25
 
   <h2>Current Projects:</h2>
   <p>
-    <a href="/lab/research/violence/webscraping/" class="text-blue-600 underline hover:text-blue-800">
+    <a href="/research/violence/webscraping/" class="text-blue-600 underline hover:text-blue-800">
       Webscraping and Automation Tools for Monitoring Child Fatality Trends
     </a>
   </p>
