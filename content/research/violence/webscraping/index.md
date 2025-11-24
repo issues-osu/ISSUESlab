@@ -1,6 +1,6 @@
 ---
-title: "Drug Use, Overdose, and Recovery Housing"
-description: "Our research investigates how neighborhood conditions, social policies, and recovery housing shape patterns of substance use, treatment access, and overdose risk."
+title: "Webscraping Homicide Deaths from the LA Times Homicide Report"
+description: "I created a coding pipeline in Python to download and map homicide locations among children."
 date: 2025-04-25
 ---
 

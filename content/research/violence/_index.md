@@ -28,9 +28,4 @@ date: 2025-04-25
   <p>Current studies explore the spatial and structural roots of firearm injury, suicide, and child deaths. We aim to identify intervention points through environmental design, public policy, legal advocacy, and system coordination to reduce harm and promote safety in marginalized communities.</p>
 
   <h2>Current Projects:</h2>
-  <p>
-    <a href="/research/violence/webscraping/" class="text-blue-600 underline hover:text-blue-800">
-      Webscraping and Automation Tools for Monitoring Child Fatality Trends
-    </a>
-  </p>
-</section>
+
