@@ -1,0 +1,339 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+import json
+import enchant
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from collections import Counter
+import re
+import torch
+from transformers import T5Tokenizer, T5ForConditionalGeneration
+from tqdm import tqdm
+from tqdm.auto import tqdm
+import gensim
+import gensim.corpora as corpora
+from gensim.utils import simple_preprocess
+from gensim.models import CoherenceModel
+import spacy
+import pyLDAvis
+import pyLDAvis.gensim
+import optuna
+from glob import glob
+import os
+SEED = 24
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+sns.set(style="whitegrid")
+plt.style.use("seaborn-v0_8-whitegrid")
+nltk.download("punkt")
+nltk.download('stopwords')
+[nltk_data] Downloading package punkt to C:\Users\barboza-
+[nltk_data]     salerno.1\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to C:\Users\barboza-
+[nltk_data]     salerno.1\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+True
+
+with open("data/variable_mapping.json", "r") as f:
+    mapping = json.load(f)
+
+for col, colmap in mapping.items():
+    cleaned = {}
+    for k, v in colmap.items():
+        try:
+            k_int = int(k)
+        except ValueError:
+            continue
+        if isinstance(v, str):
+            v = re.sub(r"^\s*\d+\s*-\s*", "", v).strip()
+            if v.lower() == "none":
+                v = np.nan
+        cleaned[k_int] = v
+    mapping[col] = cleaned
+
+primary = pd.read_csv("data/primary_data.csv", dtype={"body_part_2": "Int64", "diagnosis_2": "Int64"}, low_memory=False)
+
+for col in mapping.keys():
+    if col in primary.columns:
+        primary[f"{col}_code"] = primary[col]
+        primary[col] = primary[col].map(mapping[col])
+
+# --- 5. Print diagnostics safely ---
+print("Dataset shape:", primary.shape)
+print()
+
+# Only print comparison if both original and mapped versions exist
+for key in ["body_part", "diagnosis", "body_part_2", "diagnosis_2"]:
+    if f"{key}_code" in primary.columns and key in primary.columns:
+        before = primary[f"{key}_code"].nunique()
+        after = primary[key].nunique()
+        print(f"{key}: {before} unique numeric codes → {after} labeled categories")
+
+print("\nPreview of recoded data:")
+print(primary.head())
+
+# --- 6. Save cleaned file ---
+primary.to_csv("data/primary_data_labeled.csv", index=False)
+print("\n💾 Saved labeled dataset as data/primary_data_labeled.csv")
+
+Dataset shape: (1007, 35)
+
+body_part: 24 unique numeric codes → 15 labeled categories
+diagnosis: 24 unique numeric codes → 18 labeled categories
+
+Preview of recoded data:
+   Unnamed: 0  cpsc_case_number treatment_date  age     sex  \
+0           1         130124400       1/8/2013   29  Female   
+1           2         130131604       1/7/2013   22    Male   
+2           3         130159299      1/26/2013   21    Male   
+3           4         130202922      1/27/2013   32  Female   
+4           5         130209744       1/5/2013   21  Female   
+
+                               race other_race hispanic  body_part  \
+0         Black or African American        NaN      NaN       Head   
+1                             White        NaN      NaN      Elbow   
+2  American Indian or Alaska Native   HISPANIC      NaN      Elbow   
+3                             White        NaN      NaN  Lower leg   
+4         Black or African American        NaN      NaN       Foot   
+
+        diagnosis  ...  year  dx  \
+0        Hematoma  ...  2013  62   
+1   Burn, thermal  ...  2013  53   
+2  Electric shock  ...  2013  59   
+3  Electric shock  ...  2013  59   
+4             NaN  ...  2013  71   
+
+                                           narrative sex_code race_code  \
+0  29 yof was arguing with boyfriend, stopped b/c...        2         2   
+1  22 yo m, in argument iwht girlfriend, pt hit w...        1         1   
+2  21 yo m, c/o cuts to rt hand s/p punching a wi...        1         3   
+3  32yof laceration to finger cut when she slamme...        2         1   
+4  21yof got into an argument with boyfriend, he ...        2         2   
+
+  hispanic_code  body_part_code  diagnosis_code  disposition_code  \
+0           NaN              75              62                 1   
+1           NaN              82              53                 1   
+2           NaN              82              59                 1   
+3           NaN              92              59                 1   
+4           NaN              94              71                 6   
+
+   location_code  
+0              1  
+1              0  
+2              0  
+3              1  
+4              0  
+
+[5 rows x 35 columns]
+
+primary["narrative"].values[:25]
+array(['29 yof was arguing with boyfriend, stopped b/c chest warmth, went to hug boyfriend, slipped falling backwards hitting head on carpet, dx: chi',
+       '22 yo m, in argument iwht girlfriend, pt hit wall and tv with fists dxl hand contusion',
+       '21 yo m, c/o cuts to rt hand s/p punching a window earlier today, was angry at wife at the time, dx hand laceration',
+       '32yof laceration to finger cut when she slammed a shot glass down on the counter at home angry with husband',
+       '21yof got into an argument with boyfriend, he shook a gas can at her,ptconcerned that gas got into ear, left w/o being seen. dx - ear ache',
+       '20yo f, after argument w/ boyfriend, was locked out of house. tried toget into home by breaking glass window. +etoh. dx: arm lacerations.',
+       '17 yom got angry at girlfriend and kicked cable box lacerating rightgreat toe',
+       '33 yo f, c/o cut to rt wrist,arguing w/ husband and punched a window inresponse,feeling depressed, wrist laceration noted,walked out',
+       '40yof, + etoh, arguing with husband , punched a window dx: muultiplert. arm lacs, etoh intox,',
+       '31ym argument with wife, later fd in the garage unresponsive next to weeeds remover bottle, ?int.>>ing. of unk drug',
+       '56 yof reports having altercation with husband, had 3 glasses ofwine. dx alcohol intox%',
+       '27 yo m pt had a argument with girlfriend went in backyard and startedbanging head on fence post, +loc. dx chi',
+       '29yom with depression and suicidal ideation after wife left him. contusion to hand after striking door. + for meth and thc.',
+       'a 61yof smoked a "joint" dipped in enbalming fluid after fight with spouse, drug use',
+       '38yof was in altercation with husband, ended up punching a windowinjuring rt 5th finger. dx - laceration',
+       '29yom sustained wrist lac after punching through a window after argument w/ girlfriend. etoh 332. dx ulnar artery injury w/ wrist lac',
+       '24 yof abdominal pain. reports fell and hit the bed while arguing withher boyfriend today.$',
+       '21 y o f contusion of hand punched a wall after arguing with her boyfriend',
+       '26 yo m, c/o cut to rt 3rd finger s/p argument with wife at 5pm today pt punched a glass table, no active bleeding, dx finger laceration',
+       '37 yo f,2 hrs was at funeral drinking etoh,arguing w/ husband,accidentally hit dirnking glass, bal 252, dx thumb laceratio,etoh intox,agitated',
+       '15yof-hand ct-angry @ boyfriend so punched a brick wall',
+       '21yom angry at his girlfriend so he punched her picture and cut hand onthe frame laceration hansd',
+       '29 yof biba from home, states she punched a glass to let out angerafter an argument w/ partner. dx forearm laceration%',
+       '31yof with lac to scalp afetr play fighting with boyfriend and hit headon couch. dx scalp lac%',
+       '53 yo f, c/o cuts to rt arm,hand after getting angry w/ husband & punching window in her kitchen, dx rt forearm,hand lacerations'],
+      dtype=object)
+
+def remove_english_words(text):
+    # basic preprocessing
+    text = text.lower()
+    words = word_tokenize(text)
+
+    english_dict = enchant.Dict("en_US")
+    words = [word for word in words if not english_dict.check(word)]
+
+    sex_words = ["yom", "yof"]
+    words = [word for word in words if (word not in sex_words) and (not any(c.isdigit() for c in word))]
+
+    return words
+
+primary["narrative_leftover"] = primary["narrative"].apply(remove_english_words)
+primary["narrative_leftover"].head(25)
+0                              [,, b/c, ,, ,, ,, dx, :]
+1                                 [,, iwht, ,, tv, dxl]
+2                               [,, c/o, s/p, ,, ,, dx]
+3                                                    []
+4                    [,, ,, ptconcerned, ,, w/o, dx, -]
+5                       [,, w/, ,, toget, +etoh, dx, :]
+6                                          [rightgreat]
+7                  [,, c/o, ,, w/, inresponse, ,, ,, ,]
+8     [,, +, etoh, ,, ,, dx, :, muultiplert, lacs, ,...
+9                 [,, fd, weeeds, ,, ?, >, >, ing, unk]
+10                            [,, ofwine, dx, intox, %]
+11                        [startedbanging, ,, +loc, dx]
+12                                             [+, thc]
+13                               [``, '', enbalming, ,]
+14                           [,, windowinjuring, dx, -]
+15                                   [w/, etoh, dx, w/]
+16                                         [withher, $]
+17                                                   []
+18                              [,, c/o, s/p, ,, ,, dx]
+19    [etoh, ,, w/, ,, dirnking, ,, ,, dx, laceratio...
+20                                                  [@]
+21                                       [onthe, hansd]
+22                     [biba, ,, angerafter, w/, dx, %]
+23                               [afetr, headon, dx, %]
+24                         [,, c/o, ,, w/, &, ,, dx, ,]
+Name: narrative_leftover, dtype: object
+leftover_words = []
+for words in primary["narrative_leftover"]:
+    leftover_words.extend(words)
+    
+leftover_counts = Counter(leftover_words)
+
+leftover_counts.most_common(25)
+[(',', 1226),
+ ('dx', 763),
+ (':', 512),
+ ('&', 205),
+ ('w/', 193),
+ ('*', 114),
+ (';', 106),
+ ('c/o', 84),
+ ('fx', 79),
+ ('>', 72),
+ ('etoh', 68),
+ ("'s", 59),
+ ('lt', 38),
+ ('bac', 32),
+ ('s/p', 29),
+ ('intox', 26),
+ ('``', 26),
+ ("''", 25),
+ ('eval', 24),
+ ('@', 23),
+ ('+', 21),
+ ('tv', 19),
+ ('-', 19),
+ ('(', 18),
+ (')', 17)]
+medical_terms = {
+    "@": "at",
+    ">>": "clinical diagnosis",
+    "&": "and",
+    "***": "",
+    "dx": "clinical diagnosis",
+    "fx": "fracture",
+    "pt": "patient",
+    "c/o": "complains of",
+    "lt": "left",
+    "rt": "right",
+    "l": "left",
+    "r": "right",
+    "loc": "loss of consciousness",
+    "s/p": "after",
+    "inj": "injury",
+    "nh": "nursing home",
+    "w/o": "without",
+    "w/": "with",
+    "eval": "evaluation",
+    "sts": "states",
+    "bal": "blood alcohol level,",
+    "ecf": "extended-care facility",
+    "bac": "blood alcohol content",
+    "etoh": "ethyl alcohol",
+    "clsd": "closed",
+    "afib": "atrial fibrillation",
+    "er": "emergency room",
+    "hx": "history of",
+    "uti": "urinary tract infection",
+    "pta": "prior to arrival",
+    "biba": "brought in by ambulance",
+    "glf": "ground level fall",
+    "inr": "international normalized ratio",
+    "h/o": "history of",
+    "mech": "mechanical",
+    "ams": "altered mental status",
+    "mult": "multiple",
+    "fxs": "fractures",
+    "n.h.": "nursing home",
+    "intox": "intoxication",
+    "sdh": "acute subdural hematoma",
+    "r/o": "rules out",
+    "p/w": "presents with",
+    "pts": "patient's",
+    "cva": "cerebral vascular accident",
+    "cpk": "creatine phosphokinase",
+    "abd": "abdomen",
+    "fd": "fall detected",
+    "htn": "hypertension",
+    "sah": "subarachnoid hemorrhage",
+    "af": "atrial fibrillation",
+    "px": "procedure",
+    "s'd&f": "slipped, tripped, and fell",
+    "chi": "closed-head injury",
+    "t'd&f": "tripped and fell",
+    "af": "accidental fall",
+    "tr": "trauma",
+    "lac": "laceration",
+    "ed": "emergency department",
+    "acc": "accidentally",
+    "hd": "head",
+    "fb": "foreign body",
+    "pn": "pain",
+    "lwr": "lower",
+    "str": "strained",
+    "spr": "sprain",
+    "sust": "sustained",
+    "bwd": "backward",
+    "aki": "acute kidney injury",
+}
+primary = primary.drop("narrative_leftover", axis=1)
+
+def translate_narrative(text):
+    # lowercase everything
+    text = text.lower()
+    
+    regex_dx = r"([ˆ\W]*(dx)[ˆ\W]*)"
+    text = re.sub(regex_dx, r". dx: ", text)
+
+    regex_age_sex = r"(\d+)\s*?(yof|yf|yo\s*female|yo\s*f|yom|ym|yo\s*male|yo\s*m)"
+    age_sex_match = re.search(regex_age_sex, text)
+
+    if age_sex_match:
+        age = age_sex_match.group(1)
+        sex = age_sex_match.group(2)
+        
+        if "f" in sex:
+            #text = text.replace(age_sex_match.group(0), f"{age} years old female")
+            text = text.replace(age_sex_match.group(0), f"patient")
+        elif "m" in sex:
+            #text = text.replace(age_sex_match.group(0), f"{age} years old male")
+            text = text.replace(age_sex_match.group(0), f"patient")
+    
+    for term, replacement in medical_terms.items():
+        if term == "@" or term == ">>" or term == "&" or term == "***":
+            pattern = fr"({re.escape(term)})"
+            text = re.sub(pattern, f" {replacement} ", text) 
+            
+        else:
+            pattern = fr"(?<!-)\b({re.escape(term)})\b(?!-)"
+            text = re.sub(pattern, replacement, text)
+
+    return text
+
+primary["narrative_processed"] = primary["narrative"].apply(translate_narrative)
+
