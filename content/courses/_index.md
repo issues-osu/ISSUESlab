@@ -15,4 +15,6 @@ This course provides an overview of research methods that are commonly used in h
 
 See the course website [here](https://bigdataforsocialjustice.github.io/stats-for-social-justice/)
 
+Spring 2026: Stats II [website](https://issues-osu.github.io/statsii-spring2026/)
+
 

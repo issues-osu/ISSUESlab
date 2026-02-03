@@ -85,6 +85,19 @@ sections:
       view: card
       columns: '2'
 
+  - block: collection
+    content:
+      title: Recent & Upcoming Talks
+      subtitle: 
+      count: 5
+      filters:
+        exclude_featured: false
+      order: desc
+      page_type: event
+    design:
+      view: card
+      columns: '2'
+
   - block: people
     content:
       title: People
