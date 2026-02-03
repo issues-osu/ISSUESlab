@@ -26,4 +26,10 @@ date: 2025-04-25
 
   <h2>Ongoing Projects</h2>
   <p>Current studies include a spatial analysis of opioid overdose clusters, an evaluation of the impact of **recovery housing** on long-term treatment outcomes, and research into the co-occurrence of substance abuse and other forms of violence. Our work aims to guide policy and practice toward more effective, equitable solutions.</p>
+
+  <h2>Key Publications & Resources</h2>
+  <ul>
+      <li><strong>Major Grant:</strong> <a href="https://healingcommunitiesstudy.org/" target="_blank">The HEALing Communities Study</a> (NIH).</li>
+      <li><strong>Recent Publication:</strong> <a href="https://doi.org/10.1007/s11524-022-00675-x" target="_blank">Variability in Opioid-Related Drug Overdoses, Social Distancing, and Area-Level Deprivation</a> (Journal of Urban Health, 2022).</li>
+  </ul>
 </section>

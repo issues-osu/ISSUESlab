@@ -7,7 +7,7 @@ title: 'Street-View Measures of Urban Greenness, Area-Level Deprivation, and the
 authors:
   - gia-barboza-salerno
   - Taylor Harrington
-  - Balaji Ramensh
+  - Balaji Ramesh
 
 # Author notes (optional)
 author_notes:
@@ -83,12 +83,11 @@ This study examined how pedestrian-level green space relates to firearm-related 
 | ------------------| ------------------------------ |
 | Short description: | This study examined how pedestrian-level green space relates to firearm-related and natural deaths in Cook County, Illinois, using a matched case-control design. Various greenness measures—including street-view green imagery, tree canopy coverage, and green space along walkable streets—were inversely associated with firearm homicide risk. Protective effects of tree canopy and localized greenery were stronger in less deprived neighborhoods, while neighborhood racial composition influenced the relationship between park proximity and homicide risk. Overall, street-level green space is linked to lower homicide odds and may offer greater protection in vulnerable communities |
 | Lead developer: | gia-barboza-salerno |
-| Further reading: | Please read the [paper](in progress) published in Applied Geography |
+| Further reading: | Please read the [paper](in progress) under revision from [Urban Forestry & Urban Greening](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/issues-osu/street-view-greenness-firearm) |
 | Main data source(s): | Green View Index |
 | Coverage: | Cook County, Illinois | 
 | Citation: |  |
 
-Check out this [Access our tutorial on  here](/lab/markdown/spatialaccess.html) for more details.
 
 

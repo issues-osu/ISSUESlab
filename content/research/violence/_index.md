@@ -26,4 +26,10 @@ date: 2025-04-25
 
   <h2>Ongoing Projects</h2>
   <p>Current studies include a longitudinal analysis of <strong>violence across the lifespan</strong>, a spatial examination of elder abuse reports in relation to community resources, and research into the impact of the COVID-19 pandemic on patterns of domestic and institutional violence. Our work aims to inform comprehensive prevention strategies that protect individuals at every age.</p>
+
+  <h2>Key Publications & Resources</h2>
+  <ul>
+      <li><strong>Featured Research:</strong> <a href="{{< ref "/publication/2012-01-01-physical-abuse-o" >}}">Physical Abuse of Older Adults in Nursing Homes: A Random Sample Survey</a> (Journal of Elder Abuse & Neglect).</li>
+      <li><strong>Framework:</strong> Utilizing the "Big Data for Social Justice" approach to uncover systemic inequities.</li>
+  </ul>
 </section>

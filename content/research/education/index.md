@@ -26,4 +26,10 @@ date: 2025-04-25
 
   <h2>Ongoing Projects</h2>
   <p>Current studies include a spatial analysis of gun violence density around K-12 schools, an evaluation of the relationship between <strong>school safety climates</strong> and student trauma responses, and research into policy reforms aimed at promoting equitable educational opportunities. Our work aims to create safer, more supportive environments where all youth can thrive.</p>
+
+  <h2>Key Publications & Resources</h2>
+  <ul>
+      <li><strong>Featured Study:</strong> <a href="{{< ref "/publication/gunvio" >}}">Spatial accessibility to gun violence exposure on walkable routes to and from school</a> (Journal of Urban Health).</li>
+      <li><strong>Methodology:</strong> Utilizing acoustic detection sensors (ShotSpotter) for precise violence mapping.</li>
+  </ul>
 </section>

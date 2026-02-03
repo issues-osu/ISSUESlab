@@ -26,4 +26,10 @@ date: 2025-04-25
 
   <h2>Ongoing Projects</h2>
   <p>Current initiatives include a spatial analysis of <strong>child maltreatment hotspots</strong> in Los Angeles, an investigation into the mediating pathways of psychosocial stressors on maternal health, and the development of predictive models to better resource community-based prevention strategies. Our goal is to provide actionable evidence for policies that protect vulnerable families and promote reproductive justice.</p>
+
+  <h2>Key Publications & Resources</h2>
+  <ul>
+    <li><strong>Data Source:</strong> <a href="{{< ref "/resources/datasets" >}}">Pregnancy Risk Assessment Monitoring System (PRAMS) Data</a>.</li>
+    <li><strong>Recent Research:</strong> Barboza-Salerno, G., et al. (2025). "Emotional and Physical Symptoms Following Intimate Partner Violence Victimization." <em>International Journal of Safety and Health Research</em>.</li>
+  </ul>
 </section>

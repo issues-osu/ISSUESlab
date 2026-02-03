@@ -26,4 +26,10 @@ date: 2025-04-25
 
   <h2>Ongoing Projects</h2>
   <p>Current studies include a detailed examination of ACE patterns and <strong>suicide risk</strong> among adolescents, research into the link between cumulative trauma and juvenile justice involvement, and the development of screening tools that account for the diverse manifestations of childhood adversity. This work is informed by our commitment to <strong>Big Data for Social Justice</strong>, ensuring that our models capture the lived experiences of marginalized populations.</p>
+
+  <h2>Key Publications & Resources</h2>
+  <ul>
+      <li><strong>Foundational Work:</strong> <a href="{{< ref "/publication/2017-01-01-trajectories-of-post" >}}">Trajectories of Post-Traumatic Stress and Externalizing Psychopathology among Maltreated Foster Care Youth</a> (Child Abuse & Neglect).</li>
+      <li><strong>Methodological Advance:</strong> <a href="{{< ref "/publication/2015-01-01-the-association-betw" >}}">Identifying Risk Profiles using Latent Class Analysis</a>.</li>
+  </ul>
 </section>
