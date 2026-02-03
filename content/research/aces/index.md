@@ -25,11 +25,12 @@ date: 2025-04-25
   </ul>
 
   <h2>Ongoing Projects</h2>
-  <p>Current studies include a detailed examination of ACE patterns and <strong>suicide risk</strong> among adolescents, research into the link between cumulative trauma and juvenile justice involvement, and the development of screening tools that account for the diverse manifestations of childhood adversity. This work is informed by our commitment to <strong>Big Data for Social Justice</strong>, ensuring that our models capture the lived experiences of marginalized populations.</p>
+  <p>Current studies include a detailed examination of <strong>context-specific item functioning</strong> in ACEs screening, research into the link between sexual risk-taking and justice system involvement, and the development of screening tools that account for the diverse manifestations of childhood adversity. This work is informed by our commitment to <strong>Big Data for Social Justice</strong>, ensuring that our models capture the lived experiences of marginalized populations.</p>
 
   <h2>Key Publications & Resources</h2>
   <ul>
-      <li><strong>Foundational Work:</strong> <a href="{{< ref "/publication/2017-01-01-trajectories-of-post" >}}">Trajectories of Post-Traumatic Stress and Externalizing Psychopathology among Maltreated Foster Care Youth</a> (Child Abuse & Neglect).</li>
+      <li><strong>In Preparation (2025):</strong> "Where Are ACEs Worse? Context-Specific Item Functioning and the Role of Neighborhood Context."</li>
+      <li><strong>Recent Research:</strong> <a href="https://doi.org/10.1186/s12982-025-00838-6" target="_blank">Differences in adolescent sexual risk-taking profiles and sexually transmitted infections in adulthood by justice systems involvement</a> (Discover Public Health, 2025).</li>
       <li><strong>Methodological Advance:</strong> <a href="{{< ref "/publication/2015-01-01-the-association-betw" >}}">Identifying Risk Profiles using Latent Class Analysis</a>.</li>
   </ul>
 </section>

@@ -7,7 +7,7 @@ date: 2025-04-25
 <section class="prose lg:prose-xl">
   <img src="drug.png" alt="Drug Use and Overdose" class="my-8 rounded-xl shadow-md">
 
-  <p>Our lab studies the intersection of substance use, <strong>overdose risk</strong>, and the built environment. We investigate how neighborhood conditions—including poverty, housing instability, and access to services—interact with social policies to shape the opioid crisis. Our work on the **"Medicaid Expansion Project"** and the **"HEALing Communities Study"** highlights the role of policy environments in mitigating risk and supporting recovery. We examine the spatial variability in opioid-related drug overdoses to pinpoint communities in greatest need of intervention.</p>
+  <p>Our lab studies the intersection of substance use, <strong>overdose risk</strong>, and the built environment. We investigate how neighborhood conditions—including poverty, housing instability, and access to services—interact with social policies to shape the opioid crisis. Our work on the <strong>"Medicaid Expansion Project"</strong> highlights the role of policy environments in mitigating risk and supporting recovery. We examine the spatial variability in opioid-related drug overdoses to pinpoint communities in greatest need of intervention.</p>
 
   <h2>Core Questions We Address</h2>
   <ul>
@@ -25,11 +25,12 @@ date: 2025-04-25
   </ul>
 
   <h2>Ongoing Projects</h2>
-  <p>Current studies include a spatial analysis of opioid overdose clusters, an evaluation of the impact of **recovery housing** on long-term treatment outcomes, and research into the co-occurrence of substance abuse and other forms of violence. Our work aims to guide policy and practice toward more effective, equitable solutions.</p>
+  <p>Our lab studies the intersection of substance use, overdose risk, and the built environment. We investigate how neighborhood conditions—including poverty, housing instability, and access to services—interact with social policies to shape the opioid crisis. Our work on the <strong>"Medicaid Expansion Project"</strong> highlights the role of policy environments in mitigating risk and supporting recovery. We examine the spatial variability in opioid-related drug overdoses to pinpoint communities in greatest need of intervention.</p>
 
   <h2>Key Publications & Resources</h2>
   <ul>
-      <li><strong>Major Grant:</strong> <a href="https://healingcommunitiesstudy.org/" target="_blank">The HEALing Communities Study</a> (NIH).</li>
-      <li><strong>Recent Publication:</strong> <a href="https://doi.org/10.1007/s11524-022-00675-x" target="_blank">Variability in Opioid-Related Drug Overdoses, Social Distancing, and Area-Level Deprivation</a> (Journal of Urban Health, 2022).</li>
+      <li><strong>Current Grant:</strong> "Medicaid Expansion Project" (Principal Investigator).</li>
+      <li><strong>Recent Research:</strong> <a href="https://doi.org/10.1016/j.sste.2024.100701" target="_blank">Employment industry and opioid overdose risk: A pre- and post-COVID-19 comparison</a> (Spatial and Spatiotemporal Epidemiology, 2024).</li>
+      <li><strong>Methodology:</strong> Small Area Estimation Models for opioid misuse prevalence.</li>
   </ul>
 </section>

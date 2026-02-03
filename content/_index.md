@@ -10,23 +10,35 @@ sections:
       title: Investigating Spatial Structures in Urban Environments (ISSUES)
       image:
         filename: urbanity3.png
-        style: "max-width: 600px; height: auto; margin: 0 auto; display: block;"
-      text: The Ohio State University        
-        <br /><br />
-        <div>
-          <ul class="network-icon" aria-hidden="true">
-            <li><a itemprop="sameAs" href="mailto:barboza-salerno.1@osu.edu"><i class="fas fa-envelope big-icon"></i></a></li>
-            <li><a itemprop="sameAs" href="https://bsky.app/profile/data4socialjustice.bsky.social" target="_blank" rel="noopener"><i class="fas fa-cloud-sun"></i></a></li>
-            <li><a itemprop="sameAs" href="https://www.linkedin.com/in/gia-barboza-895bb07/" target="_blank" rel="noopener"><i class="fab fa-linkedin big-icon"></i></a></li>
-            <li><a itemprop="sameAs" href="https://scholar.google.com/citations?user=ej_48AcAAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar big-icon"></i></a></li>
-            <li><a itemprop="sameAs" href="https://www.researchgate.net/profile/Gia-Barboza-Salerno" target="_blank" rel="noopener"><i class="ai ai-researchgate big-icon"></i></a></li>
-            <li><a itemprop="sameAs" href="https://github.com/issues-osu/" target="_blank" rel="noopener"><i class="fab fa-github big-icon"></i></a></li>
-          </ul>
-        </div>
+        style: "width: 100%; height: auto; object-fit: contain;"
+      text: |
+        The Ohio State University
     design:
       background:
         color: '#ffffff'
         text_color_light: false
+
+  - block: markdown
+    content:
+      title: ""
+      text: |
+        <div style="background-color: #f8f9fa; border-left: 5px solid #b00; padding: 20px; margin: 2rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 4px;">
+          <h3 style="margin-top: 0; color: #b00;">🌟 In the News</h3>
+          <ul style="list-style: none; padding-left: 0;">
+            <li style="margin-bottom: 1rem;">
+              <strong><a href="/authors/gia-barboza-salerno/" style="color: #2b2b2b; text-decoration: none;">Dr. Barboza-Salerno</a> Addresses Grand Challenge to Prevent Gun Violence</strong><br>
+              <a href="https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/" target="_blank" style="color: #b00;">Read more &rarr;</a>
+            </li>
+            <li style="margin-bottom: 1rem;">
+              <strong><a href="/authors/amy-watson-grace/" style="color: #2b2b2b; text-decoration: none;">Amy Watson-Grace</a> Awarded the Prestigious Presidential Fellowship</strong>
+            </li>
+            <li>
+              <strong><a href="/authors/olivia-mclucas/" style="color: #2b2b2b; text-decoration: none;">Olivia McLucas</a> Receives Scholarship for Outstanding Statistics Student</strong>
+            </li>
+          </ul>
+        </div>
+    design:
+      columns: '1'
 
   - block: markdown
     content:

@@ -29,7 +29,8 @@ date: 2025-04-25
 
   <h2>Key Publications & Resources</h2>
   <ul>
-      <li><strong>Featured Research:</strong> <a href="{{< ref "/publication/2012-01-01-physical-abuse-o" >}}">Physical Abuse of Older Adults in Nursing Homes: A Random Sample Survey</a> (Journal of Elder Abuse & Neglect).</li>
+      <li><strong>Revise & Resubmit (2025):</strong> "Development and Spatial Validation of a Random Forest Prediction Model for Firearm-Related Injury Risk."</li>
+      <li><strong>New Research:</strong> "Street-View Measures of Urban Greenness, Area-Level Deprivation, and the Risk of Firearm-Related Homicide" (2025).</li>
       <li><strong>Framework:</strong> Utilizing the "Big Data for Social Justice" approach to uncover systemic inequities.</li>
   </ul>
 </section>

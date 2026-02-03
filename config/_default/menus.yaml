@@ -58,10 +58,9 @@ main:
     url: '/resources'
     weight: 60
 
-  - name: Datasets
-    parent: Resources
-    url: '/resources/datasets'
-    weight: 61
+  - name: Dataweb
+    url: '/resources/datasets/'
+    weight: 99
 
   - name: Code
     parent: Resources

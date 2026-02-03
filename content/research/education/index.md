@@ -25,11 +25,12 @@ date: 2025-04-25
   </ul>
 
   <h2>Ongoing Projects</h2>
-  <p>Current studies include a spatial analysis of gun violence density around K-12 schools, an evaluation of the relationship between <strong>school safety climates</strong> and student trauma responses, and research into policy reforms aimed at promoting equitable educational opportunities. Our work aims to create safer, more supportive environments where all youth can thrive.</p>
+  <p>Current studies include a spatial analysis of <strong>disciplinary injustice</strong> for Native American students, an investigation into the historical patterns of discipline in Colorado school districts, and an evaluation of the relationship between <strong>school safety climates</strong> and student trauma responses. Our work aims to create safer, more supportive environments where all youth can thrive.</p>
 
   <h2>Key Publications & Resources</h2>
   <ul>
+      <li><strong>Under Review:</strong> "Harsher punishments, lesser infractions: Disciplinary injustice for Native American students in New Mexico public schools."</li>
+      <li><strong>New Report:</strong> "Historical Discipline in Colorado School Districts" (ISSUESLAB, 2025).</li>
       <li><strong>Featured Study:</strong> <a href="{{< ref "/publication/gunvio" >}}">Spatial accessibility to gun violence exposure on walkable routes to and from school</a> (Journal of Urban Health).</li>
-      <li><strong>Methodology:</strong> Utilizing acoustic detection sensors (ShotSpotter) for precise violence mapping.</li>
   </ul>
 </section>
