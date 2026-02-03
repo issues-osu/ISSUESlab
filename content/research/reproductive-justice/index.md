@@ -29,7 +29,7 @@ date: 2025-04-25
 
   <h2>Key Publications & Resources</h2>
   <ul>
-    <li><strong>Data Source:</strong> <a href="{{< ref "/resources/datasets" >}}">Pregnancy Risk Assessment Monitoring System (PRAMS) Data</a>.</li>
+    <li><strong>Data Source:</strong> <a href="/resources/datasets/">Pregnancy Risk Assessment Monitoring System (PRAMS) Data</a>.</li>
     <li><strong>Recent Research:</strong> Barboza-Salerno, G., et al. (2025). "Emotional and Physical Symptoms Following Intimate Partner Violence Victimization." <em>International Journal of Safety and Health Research</em>.</li>
   </ul>
 </section>
