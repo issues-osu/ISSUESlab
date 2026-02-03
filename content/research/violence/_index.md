@@ -1,31 +1,29 @@
 ---
-title: ""
-description: "Our research examines the spatial and structural determinants of violence, including self-harm, to inform actionable strategies for prevention and intervention across public health and legal systems."
+title: "Violence Across the Lifespan"
+description: "Our research examines the manifestation of violence from childhood to old age, investigating elder abuse, firearm injury, and the ecological determinants of harm."
 date: 2025-04-25
 ---
 
 <section class="prose lg:prose-xl">
-  <img src="gvio.png" alt="Neighborhoods and Child Welfare" class="my-8 rounded-xl shadow-md">
+  <img src="gvio.png" alt="Violence Across the Lifespan" class="my-8 rounded-xl shadow-md">
 
-  <p>Our lab investigates how experiences of violence—including firearm injury, self-harm, and community trauma—are shaped by social, environmental, and spatial conditions. We examine how structural inequities such as housing instability, racial segregation, disinvestment, and systemic surveillance contribute to violence exposure and risk across the life course.</p>
+  <p>Our lab adopts a life-course perspective to investigate the <strong>manifestation of violence across the lifespan</strong>, from early childhood maltreatment to <strong>elder abuse</strong>. We study how risk factors such as trauma, substance abuse, and structural disadvantage influence interpersonal violence at every stage of life. A distinct area of our research is the spatio-temporal examination of <strong>elder abuse</strong> and neglect, applying an ecological perspective to understand how nursing home environments and neighborhood contexts shape safety for the elderly.</p>
 
   <h2>Core Questions We Address</h2>
   <ul>
-    <li>How are incidents of violence—including gun violence, suicide, and child fatality—distributed across neighborhoods and time?</li>
-    <li>What structural and ecological conditions (e.g., heat, access to green space, poverty, service availability) intensify or buffer the risk of violence?</li>
-    <li>How can spatial modeling and machine learning help us identify high-risk areas and intervene more effectively?</li>
+    <li>How does violence manifest differently across developmental stages, from youth bullying to domestic abuse in later life?</li>
+    <li>What are the <strong>spatio-temporal patterns of elder abuse</strong>, and what markers (e.g., staffing levels, neighborhood demographics) predict high-risk facilities?</li>
+    <li>How do structural factors like housing instability and racial segregation contribute to the cycle of violence across generations?</li>
   </ul>
 
   <h2>Methods and Approaches</h2>
-  <p>We use a mix of geospatial data science, longitudinal modeling, and participatory research with community partners to develop evidence-informed policy recommendations and intervention strategies. Our work often involves:</p>
+  <p>We utilize interdisciplinary methods to capture the complexity of violence:</p>
   <ul>
-    <li>Mapping and forecasting patterns of violence and self-harm at the neighborhood level</li>
-    <li>Linking social, legal, and environmental data to understand spatial risk contexts</li>
-    <li>Collaborating with schools, legal advocates, health providers, and public agencies</li>
+    <li><strong>Spatio-Temporal Modeling:</strong> mapping the trajectory of violence within communities and across time.</li>
+    <li><strong>Ecological Perspectives:</strong> Analyzing violence not just as individual acts, but as outcomes of broader environmental and systemic conditions.</li>
+    <li><strong>Big Data Integration:</strong> Leveraging large datasets to monitor trends in firearm injury, maltreatment, and neglect.</li>
   </ul>
 
   <h2>Ongoing Projects</h2>
-  <p>Current studies explore the spatial and structural roots of firearm injury, suicide, and child deaths. We aim to identify intervention points through environmental design, public policy, legal advocacy, and system coordination to reduce harm and promote safety in marginalized communities.</p>
-
-  <h2>Current Projects:</h2>
-
+  <p>Current studies include a longitudinal analysis of <strong>violence across the lifespan</strong>, a spatial examination of elder abuse reports in relation to community resources, and research into the impact of the COVID-19 pandemic on patterns of domestic and institutional violence. Our work aims to inform comprehensive prevention strategies that protect individuals at every age.</p>
+</section>

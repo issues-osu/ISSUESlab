@@ -1,29 +1,29 @@
 ---
-title: "Drug Use, Overdose, and Recovery Housing"
-description: "Our research investigates how neighborhood conditions, social policies, and recovery housing shape patterns of substance use, treatment access, and overdose risk."
+title: "Drug Use, Overdose, and Policy"
+description: "Our research investigates how neighborhood conditions, social policies, and local environments shape patterns of substance use, overdose risk, and recovery."
 date: 2025-04-25
 ---
 
 <section class="prose lg:prose-xl">
-  <img src="drug.png" alt="Neighborhoods and Drug Use/Overdose" class="my-8 rounded-xl shadow-md">
+  <img src="drug.png" alt="Drug Use and Overdose" class="my-8 rounded-xl shadow-md">
 
-  <p>Our lab studies how substance use, overdose risk, and recovery are influenced by neighborhood conditions, social inequities, and policy environments. We examine how factors such as poverty, racialized disinvestment, housing instability, and access to treatment services intersect with the opioid crisis and other forms of substance use. Using spatial and statistical methods, we aim to identify community-level drivers of risk and resilience, and to evaluate the role of recovery housing in supporting individuals in long-term recovery.</p>
+  <p>Our lab studies the intersection of substance use, <strong>overdose risk</strong>, and the built environment. We examine how neighborhood conditions—including poverty, housing instability, and access to services—interact with social policies to shape the opioid crisis. Our research highlights the role of <strong>policy environments</strong>, such as Medicaid expansion and harm reduction laws, in mitigating risk and supporting recovery. We also investigate the spatial distribution of risk factors to understand where and why overdose clusters occur.</p>
 
   <h2>Core Questions We Address</h2>
   <ul>
-    <li>How do patterns of drug use, overdose, and recovery vary across neighborhoods, demographic groups, and time?</li>
-    <li>What environmental and social factors (e.g., housing, healthcare access, social safety nets) contribute to overdose risk or recovery success?</li>
-    <li>How do policies, such as Medicaid expansion, recovery housing initiatives, or harm reduction programs, shape treatment access and outcomes?</li>
+    <li>How do <strong>neighborhood conditions</strong> and built environment features influence local patterns of drug use and overdose?</li>
+    <li>What is the impact of state and local <strong>policy environments</strong> on treatment access and overdose mortality?</li>
+    <li>How can spatial analysis help target harm reduction resources to the communities most in need?</li>
   </ul>
 
   <h2>Methods and Approaches</h2>
-  <p>We use a mix of geospatial data science, spatial epidemiology, and policy analysis to evaluate how environments and systems affect drug use, overdose, and recovery. Our work often involves:</p>
+  <p>We apply spatial and policy analysis to address the overdose crisis:</p>
   <ul>
-    <li>Mapping overdose events, treatment access, and recovery housing at the neighborhood level</li>
-    <li>Integrating health, administrative, and spatial data to model overdose risk and recovery pathways</li>
-    <li>Partnering with community organizations, recovery housing networks, healthcare providers, and policymakers to develop equitable prevention and treatment strategies</li>
+    <li><strong>Spatial Epidemiology:</strong> Mapping overdose hotspots and relating them to social determinants of health.</li>
+    <li><strong>Policy Evaluation:</strong> Assessing the effectiveness of legislative and public health interventions on substance use outcomes.</li>
+    <li><strong>Community-Level Modeling:</strong> Understanding the dynamic relationship between neighborhood change and substance use trends.</li>
   </ul>
 
   <h2>Ongoing Projects</h2>
-  <p>Current studies include analysis of how Medicaid policy changes influence opioid treatment access, evaluations of recovery housing and harm reduction initiatives, and spatial modeling of overdose clusters to inform targeted public health interventions. This work directly informs community-based strategies and policy reforms aimed at reducing overdose deaths and supporting sustained recovery.</p>
+  <p>Current studies include a spatial analysis of opioid overdose clusters, an evaluation of the impact of <strong>recovery housing</strong> on long-term treatment outcomes, and research into the co-occurrence of substance abuse and other forms of violence. Our work aims to guide policy and practice toward more effective, equitable solutions.</p>
 </section>

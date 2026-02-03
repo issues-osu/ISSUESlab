@@ -1,29 +1,29 @@
 ---
-title: "Reproductive Health, Abortion, and Domestic Violence"
-description: "Our research investigates how reproductive health access, abortion restrictions, and exposure to domestic violence intersect with neighborhood conditions, structural inequities, and long-term health outcomes."
+title: "Maternal and Child Health"
+description: "Our research investigates the intersection of maternal and child health with structural inequities, focusing on the impact of intimate partner violence during pregnancy, child maltreatment, and reproductive access."
 date: 2025-04-25
 ---
 
 <section class="prose lg:prose-xl">
-  <img src="pregs.png" alt="Neighborhoods and Reproductive Health" class="my-8 rounded-xl shadow-md">
+  <img src="pregs.png" alt="Maternal and Child Health" class="my-8 rounded-xl shadow-md">
 
-  <p>Our lab studies how reproductive health access—including abortion, prenatal care, and maternal health services—is shaped by structural inequities, neighborhood conditions, and policy environments. We examine how abortion restrictions, domestic violence, and social determinants of health intersect to produce disparities in maternal and child outcomes. Using spatial and statistical methods, we identify community-level drivers of risk and resilience to inform prevention and policy change.</p>
+  <p>Our lab takes a comprehensive approach to Maternal and Child Health (MCH), investigating how structural inequities and neighborhood conditions shape health trajectories from pregnancy through childhood. A primary focus of our work is the impact of <strong>Indigenous Partner Violence (IPV) during pregnancy</strong> on adverse birth outcomes, including low birth weight and preterm birth. We also examine the spatial and structural determinants of <strong>child maltreatment</strong>, using advanced data science to identify patterns of neglect and homicide risk.</p>
 
   <h2>Core Questions We Address</h2>
   <ul>
-    <li>How do abortion restrictions and reproductive health policies vary across states and neighborhoods, and how do these differences impact maternal and child health?</li>
-    <li>What is the relationship between domestic violence during pregnancy and adverse outcomes such as low birth weight, preterm birth, and maternal morbidity?</li>
-    <li>What community and policy-level factors (e.g., Medicaid coverage, availability of clinics, social safety nets) buffer or exacerbate reproductive health inequities?</li>
+    <li>How does <strong>domestic violence during pregnancy</strong> influence maternal morbidity and infant health outcomes?</li>
+    <li>What are the spatial and temporal patterns of <strong>severe child maltreatment</strong> and child homicide, and how do they relate to neighborhood disadvantage?</li>
+    <li>How do reproductive health policies and abortion restrictions interact with social determinants to exacerbate health disparities?</li>
   </ul>
 
   <h2>Methods and Approaches</h2>
-  <p>We use a mix of geospatial analysis, longitudinal cohort data, and policy evaluation to understand the connections between reproductive health access, violence, and health outcomes. Our work often involves:</p>
+  <p>We utilize advanced quantitative methods to rigorously analyze these complex issues:</p>
   <ul>
-    <li>Mapping reproductive health service availability and abortion access across neighborhoods</li>
-    <li>Linking PRAMS, hospital, and administrative data with environmental and social determinants</li>
-    <li>Collaborating with community health centers, legal advocates, and policymakers to strengthen reproductive justice frameworks</li>
+    <li><strong>Bayesian Space-Time Modeling:</strong> We employ sophisticated spatiotemporal models to map risk and identify emerging clusters of maltreatment and adverse health outcomes.</li>
+    <li><strong>Longitudinal Analysis:</strong> Leveraging large-scale administrative and hospital data to track health trajectories over time.</li>
+    <li><strong>Geospatial Epidemiology:</strong> Linking PRAMS and vital statistics data with environmental exposures to understand the context of risk.</li>
   </ul>
 
   <h2>Ongoing Projects</h2>
-  <p>Current studies include spatial analysis of abortion access and maternal health disparities, investigation of the impact of domestic violence during pregnancy on birth outcomes, and evaluation of Medicaid and safety net reforms to improve reproductive health equity.</p>
+  <p>Current initiatives include a spatial analysis of <strong>child maltreatment hotspots</strong> in Los Angeles, an investigation into the causal pathways linking IPV to maternal health complications, and the development of predictive models to better resource community-based prevention strategies. Our goal is to provide actionable evidence for policies that protect vulnerable families and promote reproductive justice.</p>
 </section>
