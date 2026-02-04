@@ -20,8 +20,16 @@ sections:
 
   - block: markdown
     content:
-      title: In the News
+      title: ""
       text: |
+        <div style="text-align: center;">
+          <img src="issues_banner_new.png" alt="ISSUES Banner" style="max-width: 100%; height: auto;">
+          <br>
+          <h2>The Ohio State University</h2>
+        </div>
+
+        ## In the News
+
         - **[Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence](https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/)**
         - **Congratulations to Amy Watson-Grace for receiving the prestigious Presidential Fellowship**
         - **Congratulations to Olivia McLucas for being awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
