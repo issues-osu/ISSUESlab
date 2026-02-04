@@ -12,10 +12,9 @@ toc-title: "Contents"
 This page provides a comprehensive collection of data sources used in my research and teaching. Resources are organized by topic area and include both freely available and restricted-access datasets.
 
 <div class="alert alert-note" style="background-color: #eef4f9; border-left: 5px solid #007bff; padding: 15px; margin-bottom: 20px;">
-**Last Updated:** 2026-02-03
+<strong>Last Updated:</strong> 2026-02-03
 
-Links are checked regularly, but availability may change. Please contact me if you find broken links.
-</div>
+Links are checked regularly, but availability may change. Please contact me if you find broken links.</div>
 
 ------------------------------------------------------------------------
 
@@ -24,39 +23,42 @@ Links are checked regularly, but availability may change. Please contact me if y
 ### National Surveys
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**National Health Interview Survey (NHIS)**
+<strong>National Health Interview Survey (NHIS)</strong>
 
-- **Provider:** National Center for Health Statistics (NCHS)
-- **Description:** Annual household survey covering health status, healthcare access, and health behaviors
-- **Time Period:** 1957-present
-- **Access:** [CDC NHIS Website](https://www.cdc.gov/nchs/nhis/index.htm)
-- **Format:** SAS, SPSS, Stata, CSV
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> National Center for Health Statistics (NCHS)</li>
+<li><strong>Description:</strong> Annual household survey covering health status, healthcare access, and health behaviors</li>
+<li><strong>Time Period:</strong> 1957-present</li>
+<li><strong>Access:</strong> [CDC NHIS Website](https://www.cdc.gov/nchs/nhis/index.htm)</li>
+<li><strong>Format:</strong> SAS, SPSS, Stata, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Behavioral Risk Factor Surveillance System (BRFSS)**
+<strong>Behavioral Risk Factor Surveillance System (BRFSS)</strong>
 
-- **Provider:** Centers for Disease Control and Prevention
-- **Description:** Telephone survey tracking health conditions and risk behaviors
-- **Time Period:** 1984-present
-- **Access:** [BRFSS Website](https://www.cdc.gov/brfss/)
-- **Format:** SAS, ASCII
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> Centers for Disease Control and Prevention</li>
+<li><strong>Description:</strong> Telephone survey tracking health conditions and risk behaviors</li>
+<li><strong>Time Period:</strong> 1984-present</li>
+<li><strong>Access:</strong> [BRFSS Website](https://www.cdc.gov/brfss/)</li>
+<li><strong>Format:</strong> SAS, ASCII</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ### Medical & Clinical Data
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Medical Expenditure Panel Survey (MEPS)**
+<strong>Medical Expenditure Panel Survey (MEPS)</strong>
 
-- **Provider:** Agency for Healthcare Research and Quality (AHRQ)
-- **Description:** Healthcare costs, utilization, insurance coverage, and quality of care
-- **Time Period:** 1996-present
-- **Access:** [MEPS Website](https://www.meps.ahrq.gov/)
-- **Format:** SAS, Stata, SPSS, ASCII
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> Agency for Healthcare Research and Quality (AHRQ)</li>
+<li><strong>Description:</strong> Healthcare costs, utilization, insurance coverage, and quality of care</li>
+<li><strong>Time Period:</strong> 1996-present</li>
+<li><strong>Access:</strong> [MEPS Website](https://www.meps.ahrq.gov/)</li>
+<li><strong>Format:</strong> SAS, Stata, SPSS, ASCII</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
@@ -65,111 +67,120 @@ Links are checked regularly, but availability may change. Please contact me if y
 ### Census & Demographics
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**U.S. Census Bureau Data**
+<strong>U.S. Census Bureau Data</strong>
 
-- **Provider:** U.S. Census Bureau
-- **Description:** Population, housing, economic, and geographic data
-- **Time Period:** Varies by dataset
-- **Access:** [data.census.gov](https://data.census.gov/)
-- **API:** Available via [Census API](https://www.census.gov/data/developers.html)
-- **Format:** Multiple formats available
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Census Bureau</li>
+<li><strong>Description:</strong> Population, housing, economic, and geographic data</li>
+<li><strong>Time Period:</strong> Varies by dataset</li>
+<li><strong>Access:</strong> [data.census.gov](https://data.census.gov/)</li>
+<li><strong>API:</strong> Available via [Census API](https://www.census.gov/data/developers.html)</li>
+<li><strong>Format:</strong> Multiple formats available</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**American Community Survey (ACS)**
+<strong>American Community Survey (ACS)</strong>
 
-- **Provider:** U.S. Census Bureau
-- **Description:** Detailed demographic and socioeconomic characteristics
-- **Time Period:** 2005-present (annual); 2000-2004 (test phase)
-- **Access:** [ACS Data Portal](https://www.census.gov/programs-surveys/acs/data.html)
-- **Format:** CSV, API
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Census Bureau</li>
+<li><strong>Description:</strong> Detailed demographic and socioeconomic characteristics</li>
+<li><strong>Time Period:</strong> 2005-present (annual); 2000-2004 (test phase)</li>
+<li><strong>Access:</strong> [ACS Data Portal](https://www.census.gov/programs-surveys/acs/data.html)</li>
+<li><strong>Format:</strong> CSV, API</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ### Social Surveys
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**General Social Survey (GSS)**
+<strong>General Social Survey (GSS)</strong>
 
-- **Provider:** NORC at the University of Chicago
-- **Description:** Attitudes, behaviors, and attributes of U.S. residents
-- **Time Period:** 1972-present
-- **Access:** [GSS Data Explorer](https://gssdataexplorer.norc.org/)
-- **Format:** Stata, SPSS, SAS, R, Excel
-- **License:** Free for research/educational use
-</div>
+<ul>
+<li><strong>Provider:</strong> NORC at the University of Chicago</li>
+<li><strong>Description:</strong> Attitudes, behaviors, and attributes of U.S. residents</li>
+<li><strong>Time Period:</strong> 1972-present</li>
+<li><strong>Access:</strong> [GSS Data Explorer](https://gssdataexplorer.norc.org/)</li>
+<li><strong>Format:</strong> Stata, SPSS, SAS, R, Excel</li>
+<li><strong>License:</strong> Free for research/educational use</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
 ## Education Data
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**National Center for Education Statistics (NCES)**
+<strong>National Center for Education Statistics (NCES)</strong>
 
-- **Provider:** U.S. Department of Education
-- **Description:** Various education datasets including NAEP, CCD, IPEDS
-- **Time Period:** Varies by survey
-- **Access:** [NCES Website](https://nces.ed.gov/)
-- **Format:** Multiple formats
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Integrated Postsecondary Education Data System (IPEDS)**
-
-- **Provider:** NCES
-- **Description:** College enrollment, graduation rates, faculty, finances
-- **Time Period:** 1980-present
-- **Access:** [IPEDS Data Center](https://nces.ed.gov/ipeds/datacenter/)
-- **Format:** CSV, Access, Excel
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Department of Education</li>
+<li><strong>Description:</strong> Various education datasets including NAEP, CCD, IPEDS</li>
+<li><strong>Time Period:</strong> Varies by survey</li>
+<li><strong>Access:</strong> [NCES Website](https://nces.ed.gov/)</li>
+<li><strong>Format:</strong> Multiple formats</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Civil Rights Data Collection**
+<strong>Integrated Postsecondary Education Data System (IPEDS)</strong>
 
-- **Provider:** U.S. Department of Education Office for Civil Rights
-- **Description:** School-level data on enrollment, discipline, access to courses, and civil rights issues
-- **Time Period:** 1968-present (biennial since 2009)
-- **Access:** [Civil Rights Data Collection](https://civilrightsdata.ed.gov/data)
-- **Format:** Excel, CSV
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Urban Institute Education Data Explorer**
-
-- **Provider:** Urban Institute
-- **Description:** School and district-level data on enrollment, disability, race/ethnicity, income, discipline
-- **Time Period:** Varies
-- **Access:** [Education Data Portal](https://educationdata.urban.org/)
-- **API:** Available
-- **Format:** CSV, API
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> NCES</li>
+<li><strong>Description:</strong> College enrollment, graduation rates, faculty, finances</li>
+<li><strong>Time Period:</strong> 1980-present</li>
+<li><strong>Access:</strong> [IPEDS Data Center](https://nces.ed.gov/ipeds/datacenter/)</li>
+<li><strong>Format:</strong> CSV, Access, Excel</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**NCES Education Demographic and Geographic Estimates (EDGE)**
+<strong>Civil Rights Data Collection</strong>
 
-- **Provider:** National Center for Education Statistics
-- **Description:** School- and district-level demographic and socioeconomic characteristics
-- **Time Period:** Varies
-- **Access:** [EDGE Program](https://nces.ed.gov/programs/edge/)
-- **Format:** Shapefiles, CSV
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Department of Education Office for Civil Rights</li>
+<li><strong>Description:</strong> School-level data on enrollment, discipline, access to courses, and civil rights issues</li>
+<li><strong>Time Period:</strong> 1968-present (biennial since 2009)</li>
+<li><strong>Access:</strong> [Civil Rights Data Collection](https://civilrightsdata.ed.gov/data)</li>
+<li><strong>Format:</strong> Excel, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Monitoring the Future**
+<strong>Urban Institute Education Data Explorer</strong>
 
-- **Provider:** University of Michigan Institute for Social Research (via ICPSR)
-- **Description:** Annual survey of 8th, 10th, and 12th grade students on substance use, attitudes, and behaviors
-- **Time Period:** 1975-present
-- **Access:** [ICPSR MTF Studies](https://www.icpsr.umich.edu/web/ICPSR/series/35)
-- **Format:** SAS, SPSS, Stata, R, delimited
-- **License:** Registration required
-</div>
+<ul>
+<li><strong>Provider:</strong> Urban Institute</li>
+<li><strong>Description:</strong> School and district-level data on enrollment, disability, race/ethnicity, income, discipline</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [Education Data Portal](https://educationdata.urban.org/)</li>
+<li><strong>API:</strong> Available</li>
+<li><strong>Format:</strong> CSV, API</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>NCES Education Demographic and Geographic Estimates (EDGE)</strong>
+
+<ul>
+<li><strong>Provider:</strong> National Center for Education Statistics</li>
+<li><strong>Description:</strong> School- and district-level demographic and socioeconomic characteristics</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [EDGE Program](https://nces.ed.gov/programs/edge/)</li>
+<li><strong>Format:</strong> Shapefiles, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Monitoring the Future</strong>
+
+<ul>
+<li><strong>Provider:</strong> University of Michigan Institute for Social Research (via ICPSR)</li>
+<li><strong>Description:</strong> Annual survey of 8th, 10th, and 12th grade students on substance use, attitudes, and behaviors</li>
+<li><strong>Time Period:</strong> 1975-present</li>
+<li><strong>Access:</strong> [ICPSR MTF Studies](https://www.icpsr.umich.edu/web/ICPSR/series/35)</li>
+<li><strong>Format:</strong> SAS, SPSS, Stata, R, delimited</li>
+<li><strong>License:</strong> Registration required</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
@@ -178,258 +189,280 @@ Links are checked regularly, but availability may change. Please contact me if y
 ### Gun Violence Data
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Gun Violence Archive**
+<strong>Gun Violence Archive</strong>
 
-- **Provider:** Gun Violence Archive
-- **Description:** Comprehensive database of gun violence incidents in the United States
-- **Time Period:** 2013-present
-- **Access:** [Gun Violence Archive](https://www.gunviolencearchive.org/)
-- **Format:** Online database, CSV (by request)
-- **License:** Varies
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**National Violent Death Reporting System (NVDRS)**
-
-- **Provider:** Centers for Disease Control and Prevention
-- **Description:** State-based surveillance system providing detailed information on violent deaths including homicides, suicides, and firearm-related deaths
-- **Time Period:** 2003-present
-- **Access:** [NVDRS Website](https://www.cdc.gov/violenceprevention/datasources/nvdrs/index.html)
-- **Format:** Restricted-use data files available through application
-- **License:** Restricted access
-</div>
+<ul>
+<li><strong>Provider:</strong> Gun Violence Archive</li>
+<li><strong>Description:</strong> Comprehensive database of gun violence incidents in the United States</li>
+<li><strong>Time Period:</strong> 2013-present</li>
+<li><strong>Access:</strong> [Gun Violence Archive](https://www.gunviolencearchive.org/)</li>
+<li><strong>Format:</strong> Online database, CSV (by request)</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Firearm Injury Surveillance**
+<strong>National Violent Death Reporting System (NVDRS)</strong>
 
-- **Provider:** Centers for Disease Control and Prevention
-- **Description:** Surveillance data on fatal and nonfatal firearm injuries
-- **Time Period:** Varies
-- **Access:** [CDC WISQARS](https://www.cdc.gov/injury/wisqars/)
-- **Format:** Online query system
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Mother Jones Gun Violence Data**
-
-- **Provider:** Mother Jones
-- **Description:** Database of mass shootings in the United States
-- **Time Period:** 1982-present
-- **Access:** [Mother Jones Database](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/)
-- **Format:** Excel, Google Sheets
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> Centers for Disease Control and Prevention</li>
+<li><strong>Description:</strong> State-based surveillance system providing detailed information on violent deaths including homicides, suicides, and firearm-related deaths</li>
+<li><strong>Time Period:</strong> 2003-present</li>
+<li><strong>Access:</strong> [NVDRS Website](https://www.cdc.gov/violenceprevention/datasources/nvdrs/index.html)</li>
+<li><strong>Format:</strong> Restricted-use data files available through application</li>
+<li><strong>License:</strong> Restricted access</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Mass Shooter Database**
+<strong>Firearm Injury Surveillance</strong>
 
-- **Provider:** The Violence Project
-- **Description:** Comprehensive database of mass shooters including demographic, psychological, and incident characteristics
-- **Time Period:** 1966-present
-- **Access:** [The Violence Project](https://www.theviolenceproject.org/)
-- **Format:** Online database
-- **License:** Available for research use
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**School Shooting Data**
-
-- **Provider:** K-12 School Shooting Database
-- **Description:** Comprehensive data on school shooting incidents
-- **Time Period:** 1970-present
-- **Access:** [K-12 SSDB](https://k12ssdb.org/)
-- **Format:** Excel, CSV
-- **License:** Free for research use
-</div>
+<ul>
+<li><strong>Provider:</strong> Centers for Disease Control and Prevention</li>
+<li><strong>Description:</strong> Surveillance data on fatal and nonfatal firearm injuries</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [CDC WISQARS](https://www.cdc.gov/injury/wisqars/)</li>
+<li><strong>Format:</strong> Online query system</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Violent Deaths at School & Shootings**
+<strong>Mother Jones Gun Violence Data</strong>
 
-- **Provider:** National Center for Education Statistics
-- **Description:** Data on violent deaths and shootings at schools
-- **Time Period:** Varies
-- **Access:** [NCES Indicators](https://nces.ed.gov/)
-- **Format:** Excel, PDF
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**School Campus Database (CSCD)**
-
-- **Provider:** National Center for Education Statistics
-- **Description:** Geographic data on school campuses and facilities
-- **Time Period:** Varies
-- **Access:** [NCES School Locations](https://nces.ed.gov/programs/edge/Geographic/SchoolLocations)
-- **Format:** Shapefiles, CSV
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> Mother Jones</li>
+<li><strong>Description:</strong> Database of mass shootings in the United States</li>
+<li><strong>Time Period:</strong> 1982-present</li>
+<li><strong>Access:</strong> [Mother Jones Database](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/)</li>
+<li><strong>Format:</strong> Excel, Google Sheets</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Los Angeles Times Homicide Report**
+<strong>Mass Shooter Database</strong>
 
-- **Provider:** Los Angeles Times
-- **Description:** Database of homicides in Los Angeles County
-- **Time Period:** 2000-present
-- **Access:** [LA Times Homicide Report](https://homicide.latimes.com/)
-- **Format:** Interactive database
-- **License:** Varies
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Chicago ShotSpotter Data**
-
-- **Provider:** City of Chicago Data Portal
-- **Description:** Acoustic gunshot detection data from ShotSpotter sensors
-- **Time Period:** Varies
-- **Access:** [Chicago Data Portal](https://data.cityofchicago.org/)
-- **Format:** CSV, JSON, API
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> The Violence Project</li>
+<li><strong>Description:</strong> Comprehensive database of mass shooters including demographic, psychological, and incident characteristics</li>
+<li><strong>Time Period:</strong> 1966-present</li>
+<li><strong>Access:</strong> [The Violence Project](https://www.theviolenceproject.org/)</li>
+<li><strong>Format:</strong> Online database</li>
+<li><strong>License:</strong> Available for research use</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Medical Examiner Case Archive**
+<strong>School Shooting Data</strong>
 
-- **Provider:** Various County Medical Examiners
-- **Description:** Death investigation data including manner and cause of death
-- **Time Period:** Varies by jurisdiction
-- **Access:** Varies by jurisdiction
-- **Format:** Varies
-- **License:** Varies; often requires data use agreement
-</div>
+<ul>
+<li><strong>Provider:</strong> K-12 School Shooting Database</li>
+<li><strong>Description:</strong> Comprehensive data on school shooting incidents</li>
+<li><strong>Time Period:</strong> 1970-present</li>
+<li><strong>Access:</strong> [K-12 SSDB](https://k12ssdb.org/)</li>
+<li><strong>Format:</strong> Excel, CSV</li>
+<li><strong>License:</strong> Free for research use</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**PA Child Fatality Reports**
+<strong>Violent Deaths at School & Shootings</strong>
 
-- **Provider:** Pennsylvania Department of Human Services
-- **Description:** Reports on child fatalities including abuse and neglect-related deaths
-- **Time Period:** Annual reports
-- **Access:** [PA DHS Website](https://www.dhs.pa.gov/)
-- **Format:** PDF reports
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> National Center for Education Statistics</li>
+<li><strong>Description:</strong> Data on violent deaths and shootings at schools</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [NCES Indicators](https://nces.ed.gov/)</li>
+<li><strong>Format:</strong> Excel, PDF</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>School Campus Database (CSCD)</strong>
+
+<ul>
+<li><strong>Provider:</strong> National Center for Education Statistics</li>
+<li><strong>Description:</strong> Geographic data on school campuses and facilities</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [NCES School Locations](https://nces.ed.gov/programs/edge/Geographic/SchoolLocations)</li>
+<li><strong>Format:</strong> Shapefiles, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Los Angeles Times Homicide Report</strong>
+
+<ul>
+<li><strong>Provider:</strong> Los Angeles Times</li>
+<li><strong>Description:</strong> Database of homicides in Los Angeles County</li>
+<li><strong>Time Period:</strong> 2000-present</li>
+<li><strong>Access:</strong> [LA Times Homicide Report](https://homicide.latimes.com/)</li>
+<li><strong>Format:</strong> Interactive database</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Chicago ShotSpotter Data</strong>
+
+<ul>
+<li><strong>Provider:</strong> City of Chicago Data Portal</li>
+<li><strong>Description:</strong> Acoustic gunshot detection data from ShotSpotter sensors</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [Chicago Data Portal](https://data.cityofchicago.org/)</li>
+<li><strong>Format:</strong> CSV, JSON, API</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Medical Examiner Case Archive</strong>
+
+<ul>
+<li><strong>Provider:</strong> Various County Medical Examiners</li>
+<li><strong>Description:</strong> Death investigation data including manner and cause of death</li>
+<li><strong>Time Period:</strong> Varies by jurisdiction</li>
+<li><strong>Access:</strong> Varies by jurisdiction</li>
+<li><strong>Format:</strong> Varies</li>
+<li><strong>License:</strong> Varies; often requires data use agreement</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>PA Child Fatality Reports</strong>
+
+<ul>
+<li><strong>Provider:</strong> Pennsylvania Department of Human Services</li>
+<li><strong>Description:</strong> Reports on child fatalities including abuse and neglect-related deaths</li>
+<li><strong>Time Period:</strong> Annual reports</li>
+<li><strong>Access:</strong> [PA DHS Website](https://www.dhs.pa.gov/)</li>
+<li><strong>Format:</strong> PDF reports</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ### Crime & Justice
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Uniform Crime Reporting (UCR) Program**
+<strong>Uniform Crime Reporting (UCR) Program</strong>
 
-- **Provider:** Federal Bureau of Investigation
-- **Description:** Crime statistics from law enforcement agencies
-- **Time Period:** 1930-present
-- **Access:** [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/)
-- **Format:** CSV, Excel, API
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**National Crime Victimization Survey (NCVS)**
-
-- **Provider:** Bureau of Justice Statistics
-- **Description:** Victimization experiences, characteristics, and reporting
-- **Time Period:** 1972-present
-- **Access:** [NCVS Data](https://www.bjs.gov/index.cfm?ty=dcdetail&iid=245)
-- **Format:** SAS, SPSS, Stata, ASCII
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> Federal Bureau of Investigation</li>
+<li><strong>Description:</strong> Crime statistics from law enforcement agencies</li>
+<li><strong>Time Period:</strong> 1930-present</li>
+<li><strong>Access:</strong> [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/)</li>
+<li><strong>Format:</strong> CSV, Excel, API</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Texas Death Row Information**
+<strong>National Crime Victimization Survey (NCVS)</strong>
 
-- **Provider:** Texas Department of Criminal Justice
-- **Description:** Information on executed offenders including demographics, offense details, and execution dates
-- **Time Period:** Historical executions
-- **Access:** [TDCJ Death Row Data](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
-- **Format:** HTML tables
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Philadelphia Gun Violence Mapping**
-
-- **Provider:** Philadelphia City Controller's Office (Christy Brady, CPA)
-- **Description:** Interactive mapping of gun violence incidents across Philadelphia
-- **Time Period:** 2015-present
-- **Access:** [Gun Violence Map](https://controller.phila.gov/philadelphia-reports/mapping-gun-violence/)
-- **Format:** Interactive web map
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> Bureau of Justice Statistics</li>
+<li><strong>Description:</strong> Victimization experiences, characteristics, and reporting</li>
+<li><strong>Time Period:</strong> 1972-present</li>
+<li><strong>Access:</strong> [NCVS Data](https://www.bjs.gov/index.cfm?ty=dcdetail&iid=245)</li>
+<li><strong>Format:</strong> SAS, SPSS, Stata, ASCII</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Everytown Gun Violence Research**
+<strong>Texas Death Row Information</strong>
 
-- **Provider:** Everytown Research & Policy
-- **Description:** Gun violence data, research, and policy analysis
-- **Time Period:** Varies by dataset
-- **Access:** [Everytown Research](https://everytownresearch.org/)
-- **Format:** Reports, datasets, interactive tools
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> Texas Department of Criminal Justice</li>
+<li><strong>Description:</strong> Information on executed offenders including demographics, offense details, and execution dates</li>
+<li><strong>Time Period:</strong> Historical executions</li>
+<li><strong>Access:</strong> [TDCJ Death Row Data](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)</li>
+<li><strong>Format:</strong> HTML tables</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Philadelphia Gun Violence Mapping</strong>
+
+<ul>
+<li><strong>Provider:</strong> Philadelphia City Controller's Office (Christy Brady, CPA)</li>
+<li><strong>Description:</strong> Interactive mapping of gun violence incidents across Philadelphia</li>
+<li><strong>Time Period:</strong> 2015-present</li>
+<li><strong>Access:</strong> [Gun Violence Map](https://controller.phila.gov/philadelphia-reports/mapping-gun-violence/)</li>
+<li><strong>Format:</strong> Interactive web map</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Everytown Gun Violence Research</strong>
+
+<ul>
+<li><strong>Provider:</strong> Everytown Research & Policy</li>
+<li><strong>Description:</strong> Gun violence data, research, and policy analysis</li>
+<li><strong>Time Period:</strong> Varies by dataset</li>
+<li><strong>Access:</strong> [Everytown Research](https://everytownresearch.org/)</li>
+<li><strong>Format:</strong> Reports, datasets, interactive tools</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
 ## Economic & Labor Data
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Bureau of Labor Statistics (BLS) Data**
+<strong>Bureau of Labor Statistics (BLS) Data</strong>
 
-- **Provider:** U.S. Department of Labor
-- **Description:** Employment, wages, inflation, productivity data
-- **Time Period:** Varies by series
-- **Access:** [BLS Data Tools](https://www.bls.gov/data/)
-- **API:** [BLS API](https://www.bls.gov/developers/)
-- **Format:** Excel, CSV, JSON, PDF
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Panel Study of Income Dynamics (PSID)**
-
-- **Provider:** University of Michigan
-- **Description:** Longitudinal household survey tracking economic and social behavior
-- **Time Period:** 1968-present
-- **Access:** [PSID Website](https://psidonline.isr.umich.edu/)
-- **Format:** Stata, SAS, SPSS, ASCII
-- **License:** Free registration required
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Department of Labor</li>
+<li><strong>Description:</strong> Employment, wages, inflation, productivity data</li>
+<li><strong>Time Period:</strong> Varies by series</li>
+<li><strong>Access:</strong> [BLS Data Tools](https://www.bls.gov/data/)</li>
+<li><strong>API:</strong> [BLS API](https://www.bls.gov/developers/)</li>
+<li><strong>Format:</strong> Excel, CSV, JSON, PDF</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Longitudinal Household & Employer Dynamics Data (LODES)**
+<strong>Panel Study of Income Dynamics (PSID)</strong>
 
-- **Provider:** U.S. Census Bureau
-- **Description:** Job counts by census block, worker characteristics, and employment flows
-- **Time Period:** 2002-present
-- **Access:** [LEHD LODES](https://lehd.ces.census.gov/data/)
-- **Format:** CSV
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> University of Michigan</li>
+<li><strong>Description:</strong> Longitudinal household survey tracking economic and social behavior</li>
+<li><strong>Time Period:</strong> 1968-present</li>
+<li><strong>Access:</strong> [PSID Website](https://psidonline.isr.umich.edu/)</li>
+<li><strong>Format:</strong> Stata, SAS, SPSS, ASCII</li>
+<li><strong>License:</strong> Free registration required</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Longitudinal Household & Employer Dynamics Data (LODES)</strong>
+
+<ul>
+<li><strong>Provider:</strong> U.S. Census Bureau</li>
+<li><strong>Description:</strong> Job counts by census block, worker characteristics, and employment flows</li>
+<li><strong>Time Period:</strong> 2002-present</li>
+<li><strong>Access:</strong> [LEHD LODES](https://lehd.ces.census.gov/data/)</li>
+<li><strong>Format:</strong> CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
 ## International & Comparative Data
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**World Bank Open Data**
+<strong>World Bank Open Data</strong>
 
-- **Provider:** The World Bank
-- **Description:** International development data covering 200+ countries
-- **Time Period:** Varies by indicator
-- **Access:** [World Bank Data](https://data.worldbank.org/)
-- **API:** Available
-- **Format:** CSV, Excel, XML, JSON
-- **License:** Creative Commons Attribution 4.0
-</div>
+<ul>
+<li><strong>Provider:</strong> The World Bank</li>
+<li><strong>Description:</strong> International development data covering 200+ countries</li>
+<li><strong>Time Period:</strong> Varies by indicator</li>
+<li><strong>Access:</strong> [World Bank Data](https://data.worldbank.org/)</li>
+<li><strong>API:</strong> Available</li>
+<li><strong>Format:</strong> CSV, Excel, XML, JSON</li>
+<li><strong>License:</strong> Creative Commons Attribution 4.0</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**OECD Data**
+<strong>OECD Data</strong>
 
-- **Provider:** Organisation for Economic Co-operation and Development
-- **Description:** Economic and social statistics for member countries
-- **Time Period:** Varies
-- **Access:** [OECD.Stat](https://stats.oecd.org/)
-- **Format:** CSV, Excel, SDMX
-- **License:** Varies by dataset
-</div>
+<ul>
+<li><strong>Provider:</strong> Organisation for Economic Co-operation and Development</li>
+<li><strong>Description:</strong> Economic and social statistics for member countries</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [OECD.Stat](https://stats.oecd.org/)</li>
+<li><strong>Format:</strong> CSV, Excel, SDMX</li>
+<li><strong>License:</strong> Varies by dataset</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
@@ -438,378 +471,411 @@ Links are checked regularly, but availability may change. Please contact me if y
 ### Environmental Quality & Hazards
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**EPA Environmental Dataset Gateway**
+<strong>EPA Environmental Dataset Gateway</strong>
 
-- **Provider:** U.S. Environmental Protection Agency
-- **Description:** Air quality, water quality, emissions, toxic releases
-- **Time Period:** Varies
-- **Access:** [EPA Data](https://edg.epa.gov/)
-- **Format:** Various
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**USGS Earth Explorer**
-
-- **Provider:** U.S. Geological Survey
-- **Description:** Satellite imagery, aerial photography, cartographic products
-- **Time Period:** Historical to present
-- **Access:** [Earth Explorer](https://earthexplorer.usgs.gov/)
-- **Format:** GeoTIFF, JPEG, various GIS formats
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
+<li><strong>Description:</strong> Air quality, water quality, emissions, toxic releases</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [EPA Data](https://edg.epa.gov/)</li>
+<li><strong>Format:</strong> Various</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**OpenTopography Data**
+<strong>USGS Earth Explorer</strong>
 
-- **Provider:** OpenTopography
-- **Description:** High-resolution topographic data and digital elevation models
-- **Time Period:** Varies
-- **Access:** [OpenTopography](https://opentopography.org/)
-- **Format:** Various GIS formats
-- **License:** Varies by dataset
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Digital Elevation Model Data**
-
-- **Provider:** USGS, NASA, and other providers
-- **Description:** Terrain elevation data for geographic analysis
-- **Time Period:** Varies
-- **Access:** Various sources including USGS Earth Explorer
-- **Format:** GeoTIFF, ASCII, various GIS formats
-- **License:** Typically public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Geological Survey</li>
+<li><strong>Description:</strong> Satellite imagery, aerial photography, cartographic products</li>
+<li><strong>Time Period:</strong> Historical to present</li>
+<li><strong>Access:</strong> [Earth Explorer](https://earthexplorer.usgs.gov/)</li>
+<li><strong>Format:</strong> GeoTIFF, JPEG, various GIS formats</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**HUD Environmental Health Hazards Index**
+<strong>OpenTopography Data</strong>
 
-- **Provider:** U.S. Department of Housing and Urban Development
-- **Description:** Exposure to harmful toxins including air quality, carcinogenic, respiratory, and neurological hazards
-- **Time Period:** Varies
-- **Access:** [HUD Data](https://www.huduser.gov/)
-- **Format:** Various
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> OpenTopography</li>
+<li><strong>Description:</strong> High-resolution topographic data and digital elevation models</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [OpenTopography](https://opentopography.org/)</li>
+<li><strong>Format:</strong> Various GIS formats</li>
+<li><strong>License:</strong> Varies by dataset</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**EPA EJScreen: Environmental Justice Mapping Tool**
+<strong>Digital Elevation Model Data</strong>
 
-- **Provider:** U.S. Environmental Protection Agency
-- **Description:** Environmental and demographic indicators including particulate matter, ozone, air toxins, traffic proximity, and hazardous waste
-- **Time Period:** Updated annually
-- **Access:** [EJScreen](https://www.epa.gov/ejscreen)
-- **Format:** Online tool, downloadable data
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> USGS, NASA, and other providers</li>
+<li><strong>Description:</strong> Terrain elevation data for geographic analysis</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> Various sources including USGS Earth Explorer</li>
+<li><strong>Format:</strong> GeoTIFF, ASCII, various GIS formats</li>
+<li><strong>License:</strong> Typically public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>HUD Environmental Health Hazards Index</strong>
+
+<ul>
+<li><strong>Provider:</strong> U.S. Department of Housing and Urban Development</li>
+<li><strong>Description:</strong> Exposure to harmful toxins including air quality, carcinogenic, respiratory, and neurological hazards</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [HUD Data](https://www.huduser.gov/)</li>
+<li><strong>Format:</strong> Various</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>EPA EJScreen: Environmental Justice Mapping Tool</strong>
+
+<ul>
+<li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
+<li><strong>Description:</strong> Environmental and demographic indicators including particulate matter, ozone, air toxins, traffic proximity, and hazardous waste</li>
+<li><strong>Time Period:</strong> Updated annually</li>
+<li><strong>Access:</strong> [EJScreen](https://www.epa.gov/ejscreen)</li>
+<li><strong>Format:</strong> Online tool, downloadable data</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ### Built Environment & Accessibility
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**EPA National Walkability Index**
+<strong>EPA National Walkability Index</strong>
 
-- **Provider:** U.S. Environmental Protection Agency
-- **Description:** Street intersection density and walkability metrics for neighborhoods
-- **Time Period:** Updated periodically
-- **Access:** [National Walkability Index](https://www.epa.gov/smartgrowth/smart-location-mapping)
-- **Format:** Geodatabase, CSV
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**EPA Smart Location Database**
-
-- **Provider:** U.S. Environmental Protection Agency
-- **Description:** Nationwide data on development patterns, diversity of land use, street network design, and accessibility
-- **Time Period:** Updated periodically
-- **Access:** [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping)
-- **Format:** Geodatabase, CSV
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
+<li><strong>Description:</strong> Street intersection density and walkability metrics for neighborhoods</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [National Walkability Index](https://www.epa.gov/smartgrowth/smart-location-mapping)</li>
+<li><strong>Format:</strong> Geodatabase, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**EPA Access to Jobs and Workers Via Transit**
+<strong>EPA Smart Location Database</strong>
 
-- **Provider:** U.S. Environmental Protection Agency
-- **Description:** Transit accessibility index comparing block groups within metropolitan regions
-- **Time Period:** Updated periodically
-- **Access:** [EPA Transit Access Data](https://www.epa.gov/smartgrowth/smart-location-mapping)
-- **Format:** Geodatabase, CSV
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**OpenStreetMap Data**
-
-- **Provider:** OpenStreetMap Foundation
-- **Description:** Collaborative mapping data including streets, buildings, points of interest
-- **Time Period:** Continuously updated
-- **Access:** [OpenStreetMap](https://www.openstreetmap.org/)
-- **Format:** XML, PBF, various GIS formats
-- **License:** Open Database License (ODbL)
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
+<li><strong>Description:</strong> Nationwide data on development patterns, diversity of land use, street network design, and accessibility</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping)</li>
+<li><strong>Format:</strong> Geodatabase, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Zoning Data**
+<strong>EPA Access to Jobs and Workers Via Transit</strong>
 
-- **Provider:** Various municipal and county planning departments
-- **Description:** Land use and zoning designations
-- **Time Period:** Varies by jurisdiction
-- **Access:** Varies by jurisdiction
-- **Format:** Shapefiles, geodatabase
-- **License:** Varies
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**SafeGraph Data**
-
-- **Provider:** SafeGraph
-- **Description:** Points of interest, foot traffic patterns, and demographic data
-- **Time Period:** 2018-present
-- **Access:** [SafeGraph](https://www.safegraph.com/)
-- **Format:** CSV, Parquet
-- **License:** Requires data agreement; free for academic research
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
+<li><strong>Description:</strong> Transit accessibility index comparing block groups within metropolitan regions</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [EPA Transit Access Data](https://www.epa.gov/smartgrowth/smart-location-mapping)</li>
+<li><strong>Format:</strong> Geodatabase, CSV</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Foursquare Venues**
+<strong>OpenStreetMap Data</strong>
 
-- **Provider:** Foursquare
-- **Description:** Location data and venue information including restaurants, retail, services
-- **Time Period:** Current
-- **Access:** [Foursquare API](https://developer.foursquare.com/)
-- **Format:** JSON via API
-- **License:** Requires API key
-</div>
+<ul>
+<li><strong>Provider:</strong> OpenStreetMap Foundation</li>
+<li><strong>Description:</strong> Collaborative mapping data including streets, buildings, points of interest</li>
+<li><strong>Time Period:</strong> Continuously updated</li>
+<li><strong>Access:</strong> [OpenStreetMap](https://www.openstreetmap.org/)</li>
+<li><strong>Format:</strong> XML, PBF, various GIS formats</li>
+<li><strong>License:</strong> Open Database License (ODbL)</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Zoning Data</strong>
+
+<ul>
+<li><strong>Provider:</strong> Various municipal and county planning departments</li>
+<li><strong>Description:</strong> Land use and zoning designations</li>
+<li><strong>Time Period:</strong> Varies by jurisdiction</li>
+<li><strong>Access:</strong> Varies by jurisdiction</li>
+<li><strong>Format:</strong> Shapefiles, geodatabase</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>SafeGraph Data</strong>
+
+<ul>
+<li><strong>Provider:</strong> SafeGraph</li>
+<li><strong>Description:</strong> Points of interest, foot traffic patterns, and demographic data</li>
+<li><strong>Time Period:</strong> 2018-present</li>
+<li><strong>Access:</strong> [SafeGraph](https://www.safegraph.com/)</li>
+<li><strong>Format:</strong> CSV, Parquet</li>
+<li><strong>License:</strong> Requires data agreement; free for academic research</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Foursquare Venues</strong>
+
+<ul>
+<li><strong>Provider:</strong> Foursquare</li>
+<li><strong>Description:</strong> Location data and venue information including restaurants, retail, services</li>
+<li><strong>Time Period:</strong> Current</li>
+<li><strong>Access:</strong> [Foursquare API](https://developer.foursquare.com/)</li>
+<li><strong>Format:</strong> JSON via API</li>
+<li><strong>License:</strong> Requires API key</li>
+</ul></div>
 
 ### Social & Health Vulnerability
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**CDC Social Vulnerability Index (SVI)**
+<strong>CDC Social Vulnerability Index (SVI)</strong>
 
-- **Provider:** Centers for Disease Control and Prevention
-- **Description:** Census tract-level social vulnerability including socioeconomic status, household composition, housing, race/ethnicity, and health factors
-- **Time Period:** 2000, 2010, 2014, 2016, 2018, 2020
-- **Access:** [SVI Data Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
-- **Format:** CSV, geodatabase, shapefiles
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Neighborhood Atlas Area Deprivation Index (ADI)**
-
-- **Provider:** University of Wisconsin School of Medicine and Public Health
-- **Description:** Neighborhood-level measure of socioeconomic disadvantage including income, education, employment, and housing quality
-- **Time Period:** Updated periodically
-- **Access:** [Neighborhood Atlas](https://www.neighborhoodatlas.medicine.wisc.edu/)
-- **Format:** CSV, online mapping tool
-- **License:** Free for research use
-</div>
+<ul>
+<li><strong>Provider:</strong> Centers for Disease Control and Prevention</li>
+<li><strong>Description:</strong> Census tract-level social vulnerability including socioeconomic status, household composition, housing, race/ethnicity, and health factors</li>
+<li><strong>Time Period:</strong> 2000, 2010, 2014, 2016, 2018, 2020</li>
+<li><strong>Access:</strong> [SVI Data Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)</li>
+<li><strong>Format:</strong> CSV, geodatabase, shapefiles</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Healthy Places Index**
+<strong>Neighborhood Atlas Area Deprivation Index (ADI)</strong>
 
-- **Provider:** Public Health Alliance of Southern California
-- **Description:** Community conditions that predict life expectancy including economic, social, and environmental factors
-- **Time Period:** Updated periodically
-- **Access:** [Healthy Places Index](https://www.healthyplacesindex.org/)
-- **Format:** Interactive map, CSV
-- **License:** Free for public use
-</div>
+<ul>
+<li><strong>Provider:</strong> University of Wisconsin School of Medicine and Public Health</li>
+<li><strong>Description:</strong> Neighborhood-level measure of socioeconomic disadvantage including income, education, employment, and housing quality</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [Neighborhood Atlas](https://www.neighborhoodatlas.medicine.wisc.edu/)</li>
+<li><strong>Format:</strong> CSV, online mapping tool</li>
+<li><strong>License:</strong> Free for research use</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Urbanization Index**
+<strong>Healthy Places Index</strong>
 
-- **Provider:** Various sources including Census Bureau
-- **Description:** Measures of urban versus rural character of geographic areas
-- **Time Period:** Varies
-- **Access:** Varies by source
-- **Format:** Various
-- **License:** Typically public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> Public Health Alliance of Southern California</li>
+<li><strong>Description:</strong> Community conditions that predict life expectancy including economic, social, and environmental factors</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [Healthy Places Index](https://www.healthyplacesindex.org/)</li>
+<li><strong>Format:</strong> Interactive map, CSV</li>
+<li><strong>License:</strong> Free for public use</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Urbanization Index</strong>
+
+<ul>
+<li><strong>Provider:</strong> Various sources including Census Bureau</li>
+<li><strong>Description:</strong> Measures of urban versus rural character of geographic areas</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> Varies by source</li>
+<li><strong>Format:</strong> Various</li>
+<li><strong>License:</strong> Typically public domain</li>
+</ul></div>
 
 ### Food Access & Nutrition
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**USDA Food Desert Data**
+<strong>USDA Food Desert Data</strong>
 
-- **Provider:** U.S. Department of Agriculture Economic Research Service
-- **Description:** Low-income census tracts with limited access to supermarkets and healthy food sources
-- **Time Period:** Updated periodically
-- **Access:** [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
-- **Format:** Excel, CSV, GIS files
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Department of Agriculture Economic Research Service</li>
+<li><strong>Description:</strong> Low-income census tracts with limited access to supermarkets and healthy food sources</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)</li>
+<li><strong>Format:</strong> Excel, CSV, GIS files</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**SNAP Retailer Database**
+<strong>SNAP Retailer Database</strong>
 
-- **Provider:** U.S. Department of Agriculture Food and Nutrition Service
-- **Description:** Locations of retailers authorized to accept SNAP benefits
-- **Time Period:** Updated monthly
-- **Access:** [SNAP Retailer Locator](https://www.fns.usda.gov/snap/retailer-locator)
-- **Format:** CSV, API
-- **License:** Public domain
-</div>
+<ul>
+<li><strong>Provider:</strong> U.S. Department of Agriculture Food and Nutrition Service</li>
+<li><strong>Description:</strong> Locations of retailers authorized to accept SNAP benefits</li>
+<li><strong>Time Period:</strong> Updated monthly</li>
+<li><strong>Access:</strong> [SNAP Retailer Locator](https://www.fns.usda.gov/snap/retailer-locator)</li>
+<li><strong>Format:</strong> CSV, API</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
 
 ### Parks, Green Space & Environmental Justice
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Trust for Public Land ParkServe**
+<strong>Trust for Public Land ParkServe</strong>
 
-- **Provider:** Trust for Public Land
-- **Description:** Park access and equity data including 10-minute walk access to parks
-- **Time Period:** Updated regularly
-- **Access:** [ParkServe](https://www.tpl.org/parkserve)
-- **Format:** Interactive map, API
-- **License:** Varies
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**American Forests Tree Equity Score**
-
-- **Provider:** American Forests
-- **Description:** Tree equity scores, heat extremity, and heat disparity metrics
-- **Time Period:** Current
-- **Access:** [Tree Equity Score](https://www.treeequityscore.org/)
-- **Format:** Interactive map, downloadable data
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> Trust for Public Land</li>
+<li><strong>Description:</strong> Park access and equity data including 10-minute walk access to parks</li>
+<li><strong>Time Period:</strong> Updated regularly</li>
+<li><strong>Access:</strong> [ParkServe](https://www.tpl.org/parkserve)</li>
+<li><strong>Format:</strong> Interactive map, API</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**National Tree Equity Score**
+<strong>American Forests Tree Equity Score</strong>
 
-- **Provider:** American Forests
-- **Description:** National-level tree canopy and equity analysis
-- **Time Period:** Current
-- **Access:** [Tree Equity Score](https://www.treeequityscore.org/)
-- **Format:** Interactive map, CSV
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> American Forests</li>
+<li><strong>Description:</strong> Tree equity scores, heat extremity, and heat disparity metrics</li>
+<li><strong>Time Period:</strong> Current</li>
+<li><strong>Access:</strong> [Tree Equity Score](https://www.treeequityscore.org/)</li>
+<li><strong>Format:</strong> Interactive map, downloadable data</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>National Tree Equity Score</strong>
+
+<ul>
+<li><strong>Provider:</strong> American Forests</li>
+<li><strong>Description:</strong> National-level tree canopy and equity analysis</li>
+<li><strong>Time Period:</strong> Current</li>
+<li><strong>Access:</strong> [Tree Equity Score](https://www.treeequityscore.org/)</li>
+<li><strong>Format:</strong> Interactive map, CSV</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 ### Housing & Neighborhood Change
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**University of Richmond Mapping Inequality**
+<strong>University of Richmond Mapping Inequality</strong>
 
-- **Provider:** Digital Scholarship Lab, University of Richmond
-- **Description:** HOLC redlining maps and neighborhood grades for U.S. cities
-- **Time Period:** 1930s-1940s
-- **Access:** [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
-- **Format:** Interactive maps, downloadable shapefiles
-- **License:** CC BY-NC-SA 4.0
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Redlining Data**
-
-- **Provider:** Various sources including University of Richmond
-- **Description:** Historical HOLC maps and modern redlining analysis
-- **Time Period:** 1930s-present
-- **Access:** Various sources
-- **Format:** Shapefiles, GeoJSON
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> Digital Scholarship Lab, University of Richmond</li>
+<li><strong>Description:</strong> HOLC redlining maps and neighborhood grades for U.S. cities</li>
+<li><strong>Time Period:</strong> 1930s-1940s</li>
+<li><strong>Access:</strong> [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)</li>
+<li><strong>Format:</strong> Interactive maps, downloadable shapefiles</li>
+<li><strong>License:</strong> CC BY-NC-SA 4.0</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Gentrification & Displacement Data**
+<strong>Redlining Data</strong>
 
-- **Provider:** Urban Displacement Project, Federal Reserve Banks, academic researchers
-- **Description:** Indicators of neighborhood gentrification and displacement risk
-- **Time Period:** Varies
-- **Access:** [Urban Displacement Project](https://www.urbandisplacement.org/)
-- **Format:** Interactive maps, CSV, shapefiles
-- **License:** Varies
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Housing Affordability Index**
-
-- **Provider:** National Association of Realtors, HUD, various sources
-- **Description:** Measures of housing cost burden and affordability
-- **Time Period:** Varies
-- **Access:** Various sources
-- **Format:** Excel, CSV
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> Various sources including University of Richmond</li>
+<li><strong>Description:</strong> Historical HOLC maps and modern redlining analysis</li>
+<li><strong>Time Period:</strong> 1930s-present</li>
+<li><strong>Access:</strong> Various sources</li>
+<li><strong>Format:</strong> Shapefiles, GeoJSON</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Housing & Mortgage Act Disclosure Data (HMDA)**
+<strong>Gentrification & Displacement Data</strong>
 
-- **Provider:** Consumer Financial Protection Bureau
-- **Description:** Mortgage lending data including loan applications, originations, and denials
-- **Time Period:** 1975-present
-- **Access:** [FFIEC HMDA Data](https://ffiec.cfpb.gov/data-browser/)
-- **Format:** CSV, API
-- **License:** Public domain
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Center for Neighborhood Technology Housing + Transportation Index**
-
-- **Provider:** Center for Neighborhood Technology
-- **Description:** Comprehensive housing and transportation cost data by neighborhood
-- **Time Period:** Updated periodically
-- **Access:** [H+T Index](https://htaindex.cnt.org/)
-- **Format:** CSV, interactive maps
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> Urban Displacement Project, Federal Reserve Banks, academic researchers</li>
+<li><strong>Description:</strong> Indicators of neighborhood gentrification and displacement risk</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [Urban Displacement Project](https://www.urbandisplacement.org/)</li>
+<li><strong>Format:</strong> Interactive maps, CSV, shapefiles</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Transit Center Transit-Oriented Development Database (TED)**
+<strong>Housing Affordability Index</strong>
 
-- **Provider:** Transit Center
-- **Description:** Accessibility to neighborhood amenities including colleges, hospitals, urgent care, parks, and supermarkets
-- **Time Period:** Varies
-- **Access:** [TED Database](https://tod.transitcenter.org/)
-- **Format:** Interactive web tool
-- **License:** Varies
-</div>
+<ul>
+<li><strong>Provider:</strong> National Association of Realtors, HUD, various sources</li>
+<li><strong>Description:</strong> Measures of housing cost burden and affordability</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> Various sources</li>
+<li><strong>Format:</strong> Excel, CSV</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Google Open Buildings Dataset**
+<strong>Housing & Mortgage Act Disclosure Data (HMDA)</strong>
 
-- **Provider:** Google Research
-- **Description:** Building footprints by type (residential, commercial, etc.) from satellite imagery
-- **Time Period:** Current
-- **Access:** [Open Buildings](https://sites.research.google/open-buildings/)
-- **Format:** GeoJSON, CSV
-- **License:** CC BY 4.0
-</div>
+<ul>
+<li><strong>Provider:</strong> Consumer Financial Protection Bureau</li>
+<li><strong>Description:</strong> Mortgage lending data including loan applications, originations, and denials</li>
+<li><strong>Time Period:</strong> 1975-present</li>
+<li><strong>Access:</strong> [FFIEC HMDA Data](https://ffiec.cfpb.gov/data-browser/)</li>
+<li><strong>Format:</strong> CSV, API</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Center for Neighborhood Technology Housing + Transportation Index</strong>
+
+<ul>
+<li><strong>Provider:</strong> Center for Neighborhood Technology</li>
+<li><strong>Description:</strong> Comprehensive housing and transportation cost data by neighborhood</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> [H+T Index](https://htaindex.cnt.org/)</li>
+<li><strong>Format:</strong> CSV, interactive maps</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Transit Center Transit-Oriented Development Database (TED)</strong>
+
+<ul>
+<li><strong>Provider:</strong> Transit Center</li>
+<li><strong>Description:</strong> Accessibility to neighborhood amenities including colleges, hospitals, urgent care, parks, and supermarkets</li>
+<li><strong>Time Period:</strong> Varies</li>
+<li><strong>Access:</strong> [TED Database](https://tod.transitcenter.org/)</li>
+<li><strong>Format:</strong> Interactive web tool</li>
+<li><strong>License:</strong> Varies</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Google Open Buildings Dataset</strong>
+
+<ul>
+<li><strong>Provider:</strong> Google Research</li>
+<li><strong>Description:</strong> Building footprints by type (residential, commercial, etc.) from satellite imagery</li>
+<li><strong>Time Period:</strong> Current</li>
+<li><strong>Access:</strong> [Open Buildings](https://sites.research.google/open-buildings/)</li>
+<li><strong>Format:</strong> GeoJSON, CSV</li>
+<li><strong>License:</strong> CC BY 4.0</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
 ## Data Repositories & Archives
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Inter-university Consortium for Political and Social Research (ICPSR)**
+<strong>Inter-university Consortium for Political and Social Research (ICPSR)</strong>
 
-- **Provider:** University of Michigan
-- **Description:** Archive of social science data
-- **Access:** [ICPSR Website](https://www.icpsr.umich.edu/)
-- **Format:** Multiple formats
-- **License:** Varies; institutional membership may be required
-</div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Harvard Dataverse**
-
-- **Provider:** Harvard University
-- **Description:** Open research data repository
-- **Access:** [Dataverse](https://dataverse.harvard.edu/)
-- **Format:** Various
-- **License:** Varies by dataset
-</div>
+<ul>
+<li><strong>Provider:</strong> University of Michigan</li>
+<li><strong>Description:</strong> Archive of social science data</li>
+<li><strong>Access:</strong> [ICPSR Website](https://www.icpsr.umich.edu/)</li>
+<li><strong>Format:</strong> Multiple formats</li>
+<li><strong>License:</strong> Varies; institutional membership may be required</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-**Open Science Framework (OSF)**
+<strong>Harvard Dataverse</strong>
 
-- **Provider:** Center for Open Science
-- **Description:** Research data, materials, and preprints
-- **Access:** [OSF.io](https://osf.io/)
-- **Format:** Various
-- **License:** Varies by project
-</div>
+<ul>
+<li><strong>Provider:</strong> Harvard University</li>
+<li><strong>Description:</strong> Open research data repository</li>
+<li><strong>Access:</strong> [Dataverse](https://dataverse.harvard.edu/)</li>
+<li><strong>Format:</strong> Various</li>
+<li><strong>License:</strong> Varies by dataset</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Open Science Framework (OSF)</strong>
+
+<ul>
+<li><strong>Provider:</strong> Center for Open Science</li>
+<li><strong>Description:</strong> Research data, materials, and preprints</li>
+<li><strong>Access:</strong> [OSF.io](https://osf.io/)</li>
+<li><strong>Format:</strong> Various</li>
+<li><strong>License:</strong> Varies by project</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 

@@ -1,13 +1,12 @@
 ---
 title: "SDOH Example"
-url: /resources/tutorials/sdoh/
 date: 2025-09-10
 ---
 This is the SDOH example page.
 
 # Mapping the SDoH
 
-![Food Insecurity — Franklin County, OH](../foodinsecurity.png)
+![Food Insecurity — Franklin County, OH](foodinsecurity.png)
 
 **Goal:** Build a tract-level map of **food insecurity** and **housing insecurity** in **Franklin County, Ohio** using the CDC **PLACES** dataset, then export an **sf/GeoJSON** layer for reuse on the ISSUES Lab site.
 

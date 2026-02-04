@@ -53,7 +53,7 @@ Explore our code examples and workflows for spatial analysis and mapping:
 
 ---
 
-### [Mapping the Social Determinants of Health](/resources/tutorials/sdoh/)
+### [Mapping the Social Determinants of Health](sdoh/)
 
 **Mapping Food & Housing Insecurity with CDC PLACES**
 
@@ -67,11 +67,11 @@ Learn how to download CDC PLACES data via Socrata API, join to census tracts, an
 
 **Topics**: CDC PLACES, social determinants of health, food insecurity, housing insecurity, R, GIS
 
-[View Example →](/resources/tutorials/sdoh/)
+[View Example →](sdoh/)
 
 ---
 
-### [Mapping Spatial Accessibility to Opioid Treatment Centers](/resources/tutorials/spatial_access/)
+### [Mapping Spatial Accessibility to Opioid Treatment Centers](spatial_access/)
 
 **Analyzing Access to Substance Use Treatment**
 
@@ -85,7 +85,7 @@ Learn how to calculate spatial accessibility to opioid treatment centers using n
 
 **Topics**: Spatial accessibility, opioid treatment, network analysis, healthcare access, R, GIS
 
-[View Example →](/resources/code/spatial_access/)
+[View Example →](spatial_access/)
 
 ---
 
