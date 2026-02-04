@@ -20,6 +20,16 @@ sections:
 
   - block: markdown
     content:
+      title: In the News
+      text: |
+        - **Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence**
+        - **Amy Watson-Grace received prestigious presidential fellowship**
+        - **Olivia McLucas awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
       title: About us
       text: |
         The ISSUES Lab is a research group that applies advanced statistical and spatial analysis to understand neighborhood conditions and translate data into actionable insights that inform public health policies and legal strategies aimed at building healthier communities.
