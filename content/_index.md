@@ -5,18 +5,7 @@ type: landing
 
 sections:
 
-  - block: hero
-    content:
-      title: Investigating Spatial Structures in Urban Environments (ISSUES)
-      image:
-        filename: urbanity3.png
-        style: "width: 100%; height: auto; object-fit: contain;"
-      text: |
-        The Ohio State University
-    design:
-      background:
-        color: '#ffffff'
-        text_color_light: false
+
 
   - block: markdown
     content:
@@ -25,8 +14,8 @@ sections:
         <div style="text-align: center;">
           <img src="media/issues_banner_new.png" alt="ISSUES Banner" style="max-width: 100%; height: auto;">
           <br>
-          <h2 style="margin-top: 10px;">Investigating Spatial Structures in Urban Environments (ISSUES)</h2>
-          <h2>The Ohio State University</h2>
+          <h1 style="margin-top: 20px; font-size: 2.5rem; line-height: 1.2;">Investigating Spatial Structures in Urban Environments (ISSUES)</h1>
+          <h1 style="font-size: 2.5rem; line-height: 1.2;">The Ohio State University</h1>
         </div>
 
         ## In the News
