@@ -7,7 +7,7 @@ title: "Amy Watson-Grace"
 authors:
 - amy-watson-grace #FILL THIS IN
 
-weight: 10
+weight: 22
 
 # Is this the primary user of the site?
 superuser: false

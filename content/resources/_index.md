@@ -5,9 +5,6 @@ date: 2025-09-10
 _build:
   render: always
   list: always
-cascade:
-  _build:
-    list: never
 # If your theme shows dates/metadata, these often hide them:
 showDate: false
 showtoc: false

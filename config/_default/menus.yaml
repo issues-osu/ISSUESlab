@@ -63,10 +63,6 @@ main:
     url: '/resources/datasets/'
     weight: 99
 
-  - name: Code
-    parent: Resources
-    url: '/resources/code'
-    weight: 62
 
   - name: Tutorials
     parent: Resources

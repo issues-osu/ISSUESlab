@@ -15,11 +15,10 @@ Language is important. We no longer use terms that dehumanize individuals, famil
 Our group follows the 4Cs philosophy that emphasizes culture, community, collaboration, and communication. Briefly, this means that we engage in thoughtful communication and collaboration that emphasizes
 community as a critical source for social change. Click here to read more about our philosophy and practice.
 
-Dr. Gia Elise Barboza-Salerno created the research group in 2023. Motivated primarily by a desire to effectuate systemic reform, particularly in child welfare, criminal justice and juvenile justice. You can read more about our research agenda [here](research). We are particularly interested in bringing urban analytics and geospatial analysis to examine the spatial distribution of victimization in urban areas. 
+Dr. Gia Elise Barboza-Salerno created the research group in 2023. Motivated primarily by a desire to effectuate systemic reform, particularly in child welfare, criminal justice and juvenile justice. You can read more about our research agenda [here](/) . We are particularly interested in bringing urban analytics and geospatial analysis to examine the spatial distribution of victimization in urban areas.
 
 Below is a map we created for one of our most recent manuscripts that uses computational network analysis to understand firearm-related harm in Compton, California. View our github site to see how this map was made using the [`prettymaps`](https://github.com/marceloprates/prettymaps) package in python.
 
 ![](banner-gbmi.png)
 
 We are involved in several community-based and academic collaborations such as the [Ohio Policy Evaluation Network (OPEN)](https://open.osu.edu/) and the [Franklin County Public Defender](https://defender.franklincountyohio.gov/).
-

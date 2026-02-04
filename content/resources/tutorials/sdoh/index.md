@@ -1,11 +1,9 @@
 ---
-title: "Mapping Food & Housing Insecurity with CDC PLACES (Franklin County, OH)"
-date: 2025-09-09
-summary: "Download CDC PLACES via Socrata, join to census tracts, mean-impute missing values for visualization, map, and export GeoJSON."
-tags: ["R", "CDC PLACES", "Socrata", "SDOH", "Franklin County", "Ohio", "GIS"]
-categories: ["Code Snippets"]
-draft: false
+title: "SDOH Example"
+url: /resources/tutorials/sdoh/
+date: 2025-09-10
 ---
+This is the SDOH example page.
 
 # Mapping the SDoH
 
@@ -14,6 +12,7 @@ draft: false
 **Goal:** Build a tract-level map of **food insecurity** and **housing insecurity** in **Franklin County, Ohio** using the CDC **PLACES** dataset, then export an **sf/GeoJSON** layer for reuse on the ISSUES Lab site.
 
 **Pipeline overview**
+
 1. **Query** PLACES (Socrata API) for two indicators filtered to Franklin County via **FIPS**.  
 2. **Coerce** indicators to numeric.  
 3. **Download** census tract polygons (TIGER/Line via **tigris**) and **left_join** on tract GEOID.  
@@ -126,5 +125,5 @@ st_write(
 
 ## Downloads
 
-- **R script is here**: [Download the R script](/issues/resources/code/sdoh/sdoh_example.R)
-- **Mapping file is here**: [Download the geojson file for mapping](/issues/resources/datasets/ohio-franklin-sdoh.geojson)
+- **R script is here**: [Download the R script](/resources/tutorials/sdoh/sdoh_example.R)
+- **Mapping file is here**: [Download the geojson file for mapping](/resources/datasets/ohio-franklin-sdoh.geojson)

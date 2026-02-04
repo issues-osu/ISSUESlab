@@ -2,6 +2,7 @@
 # Display name
 name: "Gia Barboza-Salerno"
 title: "Dr. Gia Elise Barboza-Salerno"
+weight: 1
 
 authors:
 - gia-barboza-salerno

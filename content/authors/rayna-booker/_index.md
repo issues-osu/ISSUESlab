@@ -1,6 +1,7 @@
 ---
 name: "Rayna Booker"
 title: "Rayna Booker"
+weight: 98
 authors:
 - rayna-booker
 superuser: false

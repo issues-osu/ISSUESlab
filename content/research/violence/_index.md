@@ -62,8 +62,6 @@ date: 2025-04-25
   
 - **Barboza-Salerno, G.** (2025). Craniofacial Injuries in IPV-Related Physical Abuse. *ISSUESLAB*.
   
-- **Barboza-Salerno, G.** (2023). [APSAC Research-to-Practice Brief on Connecting Child Maltreatment Risk with Crime and Neighborhood](https://apsac.org/wp-content/uploads/2023/05/Bayesian-spatio-temporal-FINAL-.pdf).
-
   <h2>Related Resources</h2>
   
 - [View all publications](/publication/)

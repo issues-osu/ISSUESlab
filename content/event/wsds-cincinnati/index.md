@@ -21,7 +21,7 @@ image:
 
 ## Presentation at Women in Statistics and Data Science Conference
 
-Dr. Gia Barboza-Salerno, Hexin Yang, and Taylor Harrington presented their research on spatial random forest modeling for firearm violence prediction at the **Women in Statistics and Data Science Conference** in Cincinnati, Ohio (October 1-3, 2025).
+Our presentation, *Modeling Firearm Injury Risk Using Spatial Random Forests*, was delivered by Dr. Gia Barboza-Salerno at the Women in Statistics and Data Science on November 12, 2025 in Cincinnati, OH.
 
 ## Abstract
 

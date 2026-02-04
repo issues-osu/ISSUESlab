@@ -3,7 +3,6 @@ title: "How to Analyze Caselaw Using CourtListener's API in R"
 subtitle: "A Tutorial for Legal Data Analysis"
 summary: "Learn how to use the Free Law Project's CourtListener API to search, download, and analyze legal opinions in R, with a focus on Indian Child Welfare Act (ICWA) cases."
 date: 2025-08-01
-type: page
 weight: 31
 ---
 

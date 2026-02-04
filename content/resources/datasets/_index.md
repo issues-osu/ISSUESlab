@@ -11,11 +11,11 @@ toc-title: "Contents"
 
 This page provides a comprehensive collection of data sources used in my research and teaching. Resources are organized by topic area and include both freely available and restricted-access datasets.
 
-::: callout-note
+<div class="alert alert-note" style="background-color: #eef4f9; border-left: 5px solid #007bff; padding: 15px; margin-bottom: 20px;">
 **Last Updated:** 2026-02-03
 
 Links are checked regularly, but availability may change. Please contact me if you find broken links.
-:::
+</div>
 
 ------------------------------------------------------------------------
 

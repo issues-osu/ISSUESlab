@@ -2,7 +2,6 @@
 title: "Tutorials"
 subtitle: "Step-by-step guides for data analysis and research methods"
 summary: "Learn how to work with large datasets, legal databases, and advanced analytical techniques through our comprehensive tutorials."
-type: page
 weight: 20
 ---
 
@@ -12,7 +11,7 @@ Our lab has developed comprehensive tutorials to help researchers work with comp
 
 ---
 
-### [PostgreSQL Tutorial for Analyzing HMDA Data](/resources/postgresql-hmda-tutorial/)
+### [PostgreSQL Tutorial for Analyzing HMDA Data](postgresql-hmda-tutorial/)
 
 **From Big Data to Borrowing Bias**
 
@@ -26,11 +25,11 @@ Learn how to download, import, and analyze Home Mortgage Disclosure Act (HMDA) d
 
 **Topics**: Mortgage lending discrimination, redlining, spatial analysis, PostgreSQL, big data
 
-[View Tutorial →](/resources/postgresql-hmda-tutorial/)
+[View Tutorial →](postgresql-hmda-tutorial/)
 
 ---
 
-### [CourtListener API Tutorial for Caselaw Analysis](/resources/courtlistener-tutorial/)
+### [CourtListener API Tutorial for Caselaw Analysis](courtlistener-tutorial/)
 
 **Analyzing Legal Opinions in R**
 
@@ -44,7 +43,7 @@ Learn how to use the Free Law Project's CourtListener API to search, download, a
 
 **Topics**: Legal data analysis, API integration, R programming, text analysis, ICWA cases
 
-[View Tutorial →](/resources/courtlistener-tutorial/)
+[View Tutorial →](courtlistener-tutorial/)
 
 ---
 
@@ -54,7 +53,7 @@ Explore our code examples and workflows for spatial analysis and mapping:
 
 ---
 
-### [Example 1: Mapping the Social Determinants of Health](/resources/code/sdoh/)
+### [Mapping the Social Determinants of Health](/resources/tutorials/sdoh/)
 
 **Mapping Food & Housing Insecurity with CDC PLACES**
 
@@ -68,11 +67,11 @@ Learn how to download CDC PLACES data via Socrata API, join to census tracts, an
 
 **Topics**: CDC PLACES, social determinants of health, food insecurity, housing insecurity, R, GIS
 
-[View Example →](/resources/code/sdoh/)
+[View Example →](/resources/tutorials/sdoh/)
 
 ---
 
-### [Example 2: Mapping Spatial Accessibility to Opioid Treatment Centers](/resources/code/spatial_access/)
+### [Mapping Spatial Accessibility to Opioid Treatment Centers](/resources/tutorials/spatial_access/)
 
 **Analyzing Access to Substance Use Treatment**
 

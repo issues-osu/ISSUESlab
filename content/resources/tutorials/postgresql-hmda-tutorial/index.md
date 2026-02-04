@@ -3,7 +3,6 @@ title: "A PostgreSQL Tutorial for Analyzing Racial and Geographic Disparities in
 subtitle: "From Big Data to Borrowing Bias"
 summary: "Learn how to download, import, and analyze HMDA mortgage lending data using PostgreSQL to examine patterns of lending discrimination and neighborhood-level disinvestment."
 date: 2025-07-16
-type: page
 weight: 30
 ---
 

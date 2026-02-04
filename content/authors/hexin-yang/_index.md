@@ -7,7 +7,7 @@ title: "Hexin Yang"
 authors:
 - hexin-yang
 
-weight: 10
+weight: 21
 
 # Is this the primary user of the site?
 superuser: false

@@ -7,7 +7,7 @@ title: "Olivia McLucas"
 authors:
 - olivia-mclucas 
 
-weight: 10
+weight: 40
 
 # Is this the primary user of the site?
 superuser: false

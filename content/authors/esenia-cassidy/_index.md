@@ -1,6 +1,7 @@
 ---
 name: "Esenia Cassidy"
 title: "Esenia Cassidy"
+weight: 30
 authors:
 - esenia-cassidy
 superuser: false
