@@ -23,8 +23,9 @@ sections:
       title: ""
       text: |
         <div style="text-align: center;">
-          <img src="issues_banner_new.png" alt="ISSUES Banner" style="max-width: 100%; height: auto;">
+          <img src="media/issues_banner_new.png" alt="ISSUES Banner" style="max-width: 100%; height: auto;">
           <br>
+          <h2 style="margin-top: 10px;">Investigating Spatial Structures in Urban Environments (ISSUES)</h2>
           <h2>The Ohio State University</h2>
         </div>
 
