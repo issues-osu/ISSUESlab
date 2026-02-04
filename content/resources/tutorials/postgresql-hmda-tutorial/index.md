@@ -49,6 +49,8 @@ The dataset is freely available to the public. To download it follow these steps
 3. Download the file: `2024_combined_mlar_header.txt`
 4. Save or extract the file to: `C:\Users\YOUR_USER_NAME\Downloads\2024_combined_mlar_header\`
 
+![How to Download HMDA Data](hmda_download_2024.png)
+
 > [!TIP]
 > Multiple years are available on the FFIEC website. You can download historical data to examine lending trends over time.
 
@@ -268,8 +270,7 @@ This query selects conventional, owner-occupied, site-built single-family loans 
 
 However, we first need to prepare the file for further analysis. I will leave that to you since you can now do this easily in Excel, etc. Below, I divided the number of Black applicants in each census tract by the total number of applicants in that tract to get the share of Black applicants. I also downloaded Median Income data using the `tidycensus` package in R. This allows us to compare the average median household income 5-year estimates with the share of Black applicants receiving a loan in each neighborhood.
 
-> [!NOTE]
-> **Placeholder for visualization**: Comparison of Median Household Income (ACS 5-year estimates 2018–2023) and share of Black Applicants aggregated to census tracts (2024)
+![Comparison of Median Household Income and Share of Black Applicants](hmda_income_race_comparison.png)
 
 Do you observe any patterns? I do.
 

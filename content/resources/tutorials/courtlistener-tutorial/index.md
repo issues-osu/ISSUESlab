@@ -1,6 +1,6 @@
 ---
 title: "How to Analyze Caselaw Using CourtListener's API in R"
-subtitle: "A Tutorial for Legal Data Analysis"
+subtitle: "A Tutorial for the Analysis of Legal Text"
 summary: "Learn how to use the Free Law Project's CourtListener API to search, download, and analyze legal opinions in R, with a focus on Indian Child Welfare Act (ICWA) cases."
 date: 2025-08-01
 weight: 31
@@ -10,11 +10,19 @@ I previously showed how to pull 'Indian' Child Welfare Act (ICWA) cases using th
 
 ## Finding the Cases
 
-Start at the [CourtListener website](https://www.courtlistener.com/) and search for "Indian Child Welfare Act" (or "icwa"). You'll see a page of opinion results.
+Start at the [CourtListener website](https://www.courtlistener.com/) and search for "Indian Child Welfare Act" (or "icwa").
+
+![CourtListener Query - ICWA](courtlistener_query_icwa.png)
+
+You'll see a page of opinion results.
+
+![CourtListener Results Example](courtlistener_results_lb.png)
 
 ### Filtering by Jurisdiction
 
 Click **Select Jurisdiction → State**. Clear all, then select:
+
+![Select Jurisdiction - Ohio Courts](courtlistener_jurisdictions_ohio.png)
 
 - Ohio Supreme Court
 - Ohio Court of Appeals  
@@ -130,6 +138,8 @@ results <- pages |> map("results") |> flatten()
 ## Creating a Dataframe
 
 For Ohio, this produced ~35 unique case names versus 36 displayed on the site. In comparing the `case_name` variable to the search results, you can reconcile the discrepancy.
+
+![Dataframe View in R](courtlistener_dataframe_view.png)
 
 > [!TIP]
 > Minor discrepancies happen because search hits can include multiple opinions or siblings per matter, and because the index is updated over time.
