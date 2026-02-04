@@ -8,7 +8,7 @@ date: "2026-01-04T09:00:00Z"
 date_end: "2026-01-07T17:00:00Z"
 all_day: true
 publishDate: "2026-01-01T00:00:00Z"
-authors: ["Gia Barboza-Salerno", "Hexin Yang", "Abdulgafar Abidemi Olorede"]
+authors: ["gia-barboza-salerno", "hexin-yang", "abdulgafar-olorede"]
 tags: ["Geospatial Analysis", "School Safety", "Education"]
 featured: false
 ---

@@ -21,7 +21,7 @@ all_day: false
 
 publishDate: "2026-02-04T00:00:00Z"
 
-authors: ["Gia Barboza-Salerno"]
+authors: ["gia-barboza-salerno", "taylor-harrington", "rayna-booker"]
 tags: ["Reproductive Justice", "Maternal Health", "GIS", "Abortion Access"]
 
 featured: true
