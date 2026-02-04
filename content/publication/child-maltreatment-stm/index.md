@@ -2,7 +2,7 @@
 title: "Structured Topic Modeling of Child Fatal Injury Narratives Using Machine Learning with County-Level Demographic Indicators to Strengthen Prevention Strategies"
 date: 2025-01-01
 publishDate: 2025-01-01
-authors: ["Gia E. Barboza-Salerno", "Karla J. Shockley McCarthy", "Taylor R. Harrington", "Charis Stanek", "Sharefa A. Duhaney", "Scottye J. Cash", "Vincent J. Palusci"]
+authors: ["Gia E. Barboza-Salerno", "Karla Shockley", "Taylor R. Harrington", "Charis Stanek", "Sharefa A. Duhaney", "Scottye J. Cash", "Vincent J. Palusci"]
 publication_types: ["2"]
 publication: "In *Child Maltreatment*"
 publication_short: "In *Child Maltreatment*"

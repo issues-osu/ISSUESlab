@@ -2,7 +2,7 @@
 title: "Emotional and Physical Symptoms Following Intimate Partner Violence Victimization in the United States: Implications for Law and Public Health Policy"
 date: 2025-12-01
 publishDate: 2025-12-01
-authors: ["Gia Elise Barboza-Salerno", "Karla Shockley McCarthy", "Taylor Harrington", "Amy Watson-Grace"]
+authors: ["Gia Elise Barboza-Salerno", "Karla Shockley", "Taylor Harrington", "Amy Watson-Grace"]
 publication_types: ["2"]
 publication: "In *International Journal of Environmental Research and Public Health*"
 publication_short: "In *IJERPH*"

@@ -13,7 +13,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Graduate Research Associate, Methodologist
+role: PhD Candidate
 
 organizations:
 - name: The Ohio State University — College of Social Work
