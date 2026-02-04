@@ -11,4 +11,5 @@ featured: true
 doi: "10.1177/10775595251407301"
 url_pdf: "https://journals.sagepub.com/doi/pdf/10.1177/10775595251407301"
 tags: ["Child Fatality", "Topic Modeling", "Machine Learning", "Prevention Strategies", "Social Determinants of Health"]
+research_areas: ["violence-related-harm"]
 ---

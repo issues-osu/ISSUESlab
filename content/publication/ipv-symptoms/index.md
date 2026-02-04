@@ -11,4 +11,5 @@ featured: true
 doi: "10.3390/ijerph22121829"
 url_pdf: "https://www.mdpi.com/1660-4601/22/12/1829/pdf"
 tags: ["Intimate Partner Violence", "Public Health", "Traumatic Brain Injury", "Victimization", "Emotional Symptoms"]
+research_areas: ["violence-related-harm"]
 ---

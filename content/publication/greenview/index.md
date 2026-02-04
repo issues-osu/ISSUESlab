@@ -32,7 +32,8 @@ abstract: We examined 899 firearm-related and 2,256 natural deaths in Cook Count
 # Summary. An optional shortened abstract.
 summary: The relationship between pedestrian-level exposure to green space in different social contexts remains unexplored. We examined 899 firearm-related and 2,256 natural deaths in Cook County, Illinois, using a retrospective matched case-control design. Greenness was assessed using the Normalized Difference Vegetation Index near death locations, tree canopy coverage, green space along walkable streets, and proximity of death to parks. Two additional greenness measures were derived from Google Street View images, analyzed using machine learning techniques. Associations were evaluated using Wilcoxon rank-sum tests and conditional logistic regression, adjusting for area-level deprivation and racial composition. The green view index derived from street-view imagery (OR = 0.693, p = 0.004), the greenness of walkable streets (OR = 0.787, p = 0.017), and tree canopy coverage (OR = 0.792, p = 0.029) were inversely associated with firearm-related homicide risk. Higher tree canopy coverage (OR = 0.963, p = 0.040) and more localized greenery (OR = 0.552, p = 0.033) provided greater protective effects in less deprived neighborhoods. However, neighborhood racial composition moderated the impact of park proximity on homicide risk (OR = 1.00, p = 0.020). Street-level greenspace is associated with lower odds of homicide and may provide stronger protective effects in more vulnerable neighborhoods 
 
-tags: []
+tags: ["Firearm Violence", "Urban Greenness", "Environmental Health", "Spatial Analysis"]
+research_areas: ["violence-related-harm"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -86,8 +87,5 @@ This study examined how pedestrian-level green space relates to firearm-related 
 | Further reading: | Please read the [paper](in progress) under revision from [Urban Forestry & Urban Greening](https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening)  |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/issues-osu/street-view-greenness-firearm) |
 | Main data source(s): | Green View Index |
-| Coverage: | Cook County, Illinois | 
+| Coverage: | Cook County, Illinois |
 | Citation: |  |
-
-
-
