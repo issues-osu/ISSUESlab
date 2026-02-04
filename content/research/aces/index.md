@@ -24,13 +24,41 @@ date: 2025-04-25
     <li><strong>Parallel Process Latent Growth Curve Models:</strong> analyzing the co-development of post-traumatic stress and externalizing behaviors over time.</li>
   </ul>
 
-  <h2>Ongoing Projects</h2>
-  <p>Current studies include a detailed examination of <strong>context-specific item functioning</strong> in ACEs screening, research into the link between sexual risk-taking and justice system involvement, and the development of screening tools that account for the diverse manifestations of childhood adversity. This work is informed by our commitment to <strong>Big Data for Social Justice</strong>, ensuring that our models capture the lived experiences of marginalized populations.</p>
+  <h2>Select Publications</h2>
+  
+### ACEs & Justice System Involvement
+  
+- **Duhaney, S.**, **Barboza-Salerno, G.**, & Sasser, G. (2025). Differences in adolescent sexual risk-taking profiles and sexually transmitted infections in adulthood by justice systems involvement: A multigroup latent class analysis. *Discover Public Health*, 22, 416. [https://doi.org/10.1186/s12982-025-00838-6](https://doi.org/10.1186/s12982-025-00838-6)
+  
+- **Barboza-Salerno, G.**, Chang, Y., Stanek, C. & Thurston, H. (2024). An examination of the effect of area-level characteristics on juvenile justice and child welfare referrals using multivariate Bayesian spatial modeling. *International Journal of Child Abuse and Neglect*, Vol. 160. [https://doi.org/10.1016/j.chiabu.2024.107203](https://doi.org/10.1016/j.chiabu.2024.107203)
 
-  <h2>Key Publications & Resources</h2>
-  <ul>
-      <li><strong>In Preparation (2025):</strong> "Where Are ACEs Worse? Context-Specific Item Functioning and the Role of Neighborhood Context."</li>
-      <li><strong>Recent Research:</strong> <a href="https://doi.org/10.1186/s12982-025-00838-6" target="_blank">Differences in adolescent sexual risk-taking profiles and sexually transmitted infections in adulthood by justice systems involvement</a> (Discover Public Health, 2025).</li>
-      <li><strong>Methodological Advance:</strong> <a href="{{< ref "/publication/2015-01-01-the-association-betw" >}}">Identifying Risk Profiles using Latent Class Analysis</a>.</li>
-  </ul>
+### ACEs & Mental Health
+  
+- **Barboza-Salerno, G.**, Meshelemiah, J.C.A. (2023). Associations between Early Child Adversity and Lifetime Suicide Attempts among Gender Diverse Individuals: A Moderated Mediation. *International Journal of Child Abuse & Neglect*, Vol. 149. [https://doi.org/10.1016/j.chiabu.2024.106705](https://doi.org/10.1016/j.chiabu.2024.106705)
+  
+- **Barboza, G. E.**, & Valentine, R. (2022). A Network Analysis of Post-Traumatic Stress Among Youth Aging Out of the Foster Care System. *Children and Youth Services Review*, Vol. 140. [https://doi.org/10.1016/j.childyouth.2022.106589](https://doi.org/10.1016/j.childyouth.2022.106589)
+
+### Foundational ACEs Research
+  
+- **Barboza, G.** (2017). Latent Classes and Cumulative Impacts of Adverse Childhood Experiences. *Child Maltreatment*, Vol. 23, Issue 2. [https://doi.org/10.1177/1077559517736628](https://doi.org/10.1177/1077559517736628)
+
+  <h2>Manuscripts Under Review</h2>
+  
+- **Zhang, Y.**, Johnson-Motoyama, M., Yoon, S., **Barboza-Salerno, G.** Patterns of family harsh parenting and the effects of cumulative risks. *Submitted to Child & Family Social Work*.
+
+  <h2>Current Projects</h2>
+  
+### Manuscripts in Preparation
+  
+- **Where Are ACEs Worse? Context-Specific Item Functioning and the Role of Neighborhood Context in Child Wellbeing** (100% completed)
+  
+- **How a Revised Adverse Childhood Experiences Framework Better Captures the Lived Experiences of Vulnerable Groups** (70% completed)
+  
+- **Linking Neighborhood Contexts to the Social Determinants of Child Health Using Latent Class Analysis and Geographical Information Systems** (65% completed)
+
+  <h2>Related Resources</h2>
+  
+- [View all publications](/publication/)
+- [GitHub Repository](https://github.com/issues-osu)
+
 </section>
