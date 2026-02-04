@@ -23,8 +23,8 @@ sections:
       title: In the News
       text: |
         - **[Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence](https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/)**
-        - **Amy Watson-Grace received prestigious presidential fellowship**
-        - **Olivia McLucas awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
+        - **Congratulations to Amy Watson-Grace for receiving the prestigious Presidential Fellowship**
+        - **Congratulations to Olivia McLucas for being awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
     design:
       columns: '1'
 
