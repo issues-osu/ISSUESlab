@@ -8,6 +8,7 @@ authors: ["Gia E. Barboza-Salerno", "Sharefa A. Duhaney"]
 tags: ["computational spatial networks", "segmentation", "built environment", "child abuse and neglect"]
 
 date: "2024-08-01T00:00:00Z"
+publishDate: "2024-08-01T00:00:00Z"
 doi: ""
 
 publication_types: ["1"]
