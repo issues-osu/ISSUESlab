@@ -170,6 +170,8 @@ download_case_text <- function(case_url, output_dir) {
 }
 ```
 
+![Downloaded Case Files](courtlistener_console_output.png)
+
 > [!IMPORTANT]
 > Remember to be considerate of rate limits and to include a User Agent string with your contact information.
 
@@ -198,6 +200,8 @@ cases_df %>%
   theme_minimal()
 ```
 
+![Cases Filed by Year](courtlistener_cases_by_year.png)
+
 ### Volume by Court
 
 ```r
@@ -215,6 +219,8 @@ cases_df %>%
   ) +
   theme_minimal()
 ```
+
+![Cases per Court](courtlistener_cases_per_court.png)
 
 ---
 
