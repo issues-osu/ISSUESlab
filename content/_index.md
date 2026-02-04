@@ -11,7 +11,7 @@ sections:
     content:
       title: ""
       text: |
-        <div style="text-align: center;">
+        <div style="text-align: left;">
           <img src="media/issues_banner_new.png" alt="ISSUES Banner" style="max-width: 100%; height: auto;">
           <br>
           <h1 style="margin-top: 20px; font-size: 2.5rem; line-height: 1.2;">Investigating Spatial Structures in Urban Environments (ISSUES)</h1>
