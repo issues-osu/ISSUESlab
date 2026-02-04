@@ -30,6 +30,18 @@ sections:
               <a href="https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/" target="_blank" style="color: #b00;">Read more &rarr;</a>
             </li>
             <li style="margin-bottom: 1rem;">
+              <strong>📅 Upcoming: IPR Seminar on Abortion Accessibility & Maternal Health</strong><br>
+              <span style="color: #666;">March 10, 2026 | 12:30-1:30 PM | Townshend Hall & Zoom</span><br>
+              Dr. Barboza-Salerno presents on spatial accessibility to abortion care and maternal vulnerability.<br>
+              <a href="/event/ipr-seminar-2026/" style="color: #b00;">Event details &rarr;</a>
+            </li>
+            <li style="margin-bottom: 1rem;">
+              <strong>📅 Upcoming: Ohio Recovery Housing Conference</strong><br>
+              <span style="color: #666;">April 15, 2026 | 1:00-2:15 PM | Breakout Session D</span><br>
+              Dr. Barboza-Salerno and Taylor Harrington present research on recovery housing.<br>
+              <a href="/event/ohio-recovery-housing-2026/" style="color: #b00;">Event details &rarr;</a>
+            </li>
+            <li style="margin-bottom: 1rem;">
               <strong><a href="/authors/amy-watson-grace/" style="color: #2b2b2b; text-decoration: none;">Amy Watson-Grace</a> Awarded the Prestigious Presidential Fellowship</strong>
             </li>
             <li>
