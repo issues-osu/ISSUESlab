@@ -42,6 +42,12 @@ sections:
               <a href="/event/ohio-recovery-housing-2026/" style="color: #b00;">Event details &rarr;</a>
             </li>
             <li style="margin-bottom: 1rem;">
+              <strong>📅 Upcoming: SDSS 2026 - AI & LLM Applications</strong><br>
+              <span style="color: #666;">April 29, 2026 | 3:45-5:15 PM CT | Milwaukee, WI</span><br>
+              Dr. Barboza-Salerno, Olivia McLucas, and Dr. Karla Shockley present on detecting IPV using LLMs.<br>
+              <a href="/event/sdss-2026/" style="color: #b00;">Event details &rarr;</a>
+            </li>
+            <li style="margin-bottom: 1rem;">
               <strong><a href="/authors/amy-watson-grace/" style="color: #2b2b2b; text-decoration: none;">Amy Watson-Grace</a> Awarded the Prestigious Presidential Fellowship</strong>
             </li>
             <li>
