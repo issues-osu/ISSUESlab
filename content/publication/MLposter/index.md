@@ -18,7 +18,7 @@ publication_short: "In *ISPCAN*"
 
 featured: true
 
-url_pdf: "/ISSUESlab/uploads/mlcan.pdf"
+url_pdf: "/ISSUESlab/uploads/ISUF2025.pdf"
 
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
