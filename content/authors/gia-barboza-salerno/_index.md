@@ -95,7 +95,7 @@ social:
   link: "https://www.linkedin.com/in/gia-barboza-salerno/"
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: uploads/cv.pdf
 
 email: "barboza-salerno.1@osu.edu"
 
@@ -112,16 +112,19 @@ Their research utilizes nationally representative datasets and administrative re
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ### Additional appointments
+
 * [Center for Regional and Urban Analysis (CURA)](https://cura.osu.edu/), Affiliated Faculty, The Ohio State University
 * [Translational Data Analytics Institute (TDAI)](https://tdai.osu.edu/), Affiliated Faculty, The Ohio State University
 
 ### Certifications
+
 * Licensed Attorney, 2018 — State of Maine
 * Licensed Attorney, 2020 — State of Colorado
 * Licensed Attorney, 2023 — State of Ohio
 * Licensed Attorney, 2023 — Southern District of Ohio (Federal)
 
 ### Awards and honours
+
 * Tony Tripodi Prize for Research Excellence, OSU College of Social Work (2025)
 * 6th Annual Article of the Year, International Society for the Prevention of Child Abuse & Neglect (2023)
 * PhD Faculty Excellence in Teaching Award, OSU College of Social Work (2023)
@@ -130,5 +133,3 @@ Their research utilizes nationally representative datasets and administrative re
 * GlaxoSmithKline Scholar Award for Applied Statistics, Biomedical Data Sciences (2006)
 * Woman’s Law Caucus Scholarship, Michigan State University
 * Jurisprudence Awards (Constitutional Law I; Contracts II; Legal Theory; Conflict of Laws; Property)
-
-

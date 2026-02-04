@@ -69,7 +69,7 @@ main:
 
   - name: Tutorials
     parent: Resources
-    url: '/courses'
+    url: '/resources/tutorials'
     weight: 63
 
   - name: Learning Resources
