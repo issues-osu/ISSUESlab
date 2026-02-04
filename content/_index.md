@@ -20,46 +20,6 @@ sections:
 
   - block: markdown
     content:
-      title: ""
-      text: |
-        <div style="background-color: #f8f9fa; border-left: 5px solid #b00; padding: 20px; margin: 2rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 4px;">
-          <h3 style="margin-top: 0; color: #b00;">🌟 In the News</h3>
-          <ul style="list-style: none; padding-left: 0;">
-            <li style="margin-bottom: 1rem;">
-              <strong><a href="/authors/gia-barboza-salerno/" style="color: #2b2b2b; text-decoration: none;">Dr. Barboza-Salerno</a> Addresses Grand Challenge to Prevent Gun Violence</strong><br>
-              <a href="https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/" target="_blank" style="color: #b00;">Read more &rarr;</a>
-            </li>
-            <li style="margin-bottom: 1rem;">
-              <strong>📅 Upcoming: IPR Seminar on Abortion Accessibility & Maternal Health</strong><br>
-              <span style="color: #666;">March 10, 2026 | 12:30-1:30 PM | Townshend Hall & Zoom</span><br>
-              Dr. Barboza-Salerno presents on spatial accessibility to abortion care and maternal vulnerability.<br>
-              <a href="/event/ipr-seminar-2026/" style="color: #b00;">Event details &rarr;</a>
-            </li>
-            <li style="margin-bottom: 1rem;">
-              <strong>📅 Upcoming: Ohio Recovery Housing Conference</strong><br>
-              <span style="color: #666;">April 15, 2026 | 1:00-2:15 PM | Breakout Session D</span><br>
-              Dr. Barboza-Salerno and Taylor Harrington present research on recovery housing.<br>
-              <a href="/event/ohio-recovery-housing-2026/" style="color: #b00;">Event details &rarr;</a>
-            </li>
-            <li style="margin-bottom: 1rem;">
-              <strong>📅 Upcoming: SDSS 2026 - AI & LLM Applications</strong><br>
-              <span style="color: #666;">April 29, 2026 | 3:45-5:15 PM CT | Milwaukee, WI</span><br>
-              Dr. Barboza-Salerno, Olivia McLucas, and Dr. Karla Shockley present on detecting IPV using LLMs.<br>
-              <a href="/event/sdss-2026/" style="color: #b00;">Event details &rarr;</a>
-            </li>
-            <li style="margin-bottom: 1rem;">
-              <strong><a href="/authors/amy-watson-grace/" style="color: #2b2b2b; text-decoration: none;">Amy Watson-Grace</a> Awarded the Prestigious Presidential Fellowship</strong>
-            </li>
-            <li>
-              <strong><a href="/authors/olivia-mclucas/" style="color: #2b2b2b; text-decoration: none;">Olivia McLucas</a> Receives Scholarship for Outstanding Statistics Student</strong>
-            </li>
-          </ul>
-        </div>
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
       title: About us
       text: |
         The ISSUES Lab is a research group that applies advanced statistical and spatial analysis to understand neighborhood conditions and translate data into actionable insights that inform public health policies and legal strategies aimed at building healthier communities.
