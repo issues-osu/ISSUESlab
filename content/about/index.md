@@ -4,6 +4,10 @@ type: page
 weight: 20
 ---
 
+### What's in a Name?
+
+The name **ISSUES** (**I**nvestigating **S**patial **S**tructures in **U**rban **E**nvironments) is a deliberate play on words. In the legal field, an "issue" is the specific point of law or fact that is being disputed in a case—the central question that determines the outcome. In our work, we focus on the critical *social issues*—structural inequities, environmental exposures, and systemic barriers—that determine the life outcomes of individuals and communities. Just as a legal issue requires rigorous examination to reach a just verdict, these social issues require rigorous spatial and statistical analysis to drive effective policy reform.
+
 We are a multidisciplinary research group comprised of underrepresented scholars in the academy. Our work focuses on using geographic data science in social work policy and practice at the [Colleges of Social Work](https://csw.osu.edu) and [Public Health](https://cph.osu.edu) at The [Ohio State University (OSU)](http://www.osu.edu), a leading global university based in Columbus, Ohio.
 
 Our mission is to do applied work that impacts social policy by leveraging data and recent advances in spatial and statistical analysis.
