@@ -23,7 +23,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 
 ### National Surveys
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **National Health Interview Survey (NHIS)**
 
 - **Provider:** National Center for Health Statistics (NCHS)
@@ -32,9 +32,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [CDC NHIS Website](https://www.cdc.gov/nchs/nhis/index.htm)
 - **Format:** SAS, SPSS, Stata, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Behavioral Risk Factor Surveillance System (BRFSS)**
 
 - **Provider:** Centers for Disease Control and Prevention
@@ -43,11 +43,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [BRFSS Website](https://www.cdc.gov/brfss/)
 - **Format:** SAS, ASCII
 - **License:** Public domain
-:::
+</div>
 
 ### Medical & Clinical Data
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Medical Expenditure Panel Survey (MEPS)**
 
 - **Provider:** Agency for Healthcare Research and Quality (AHRQ)
@@ -56,7 +56,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [MEPS Website](https://www.meps.ahrq.gov/)
 - **Format:** SAS, Stata, SPSS, ASCII
 - **License:** Public domain
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 
 ### Census & Demographics
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **U.S. Census Bureau Data**
 
 - **Provider:** U.S. Census Bureau
@@ -74,9 +74,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **API:** Available via [Census API](https://www.census.gov/data/developers.html)
 - **Format:** Multiple formats available
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **American Community Survey (ACS)**
 
 - **Provider:** U.S. Census Bureau
@@ -85,11 +85,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [ACS Data Portal](https://www.census.gov/programs-surveys/acs/data.html)
 - **Format:** CSV, API
 - **License:** Public domain
-:::
+</div>
 
 ### Social Surveys
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **General Social Survey (GSS)**
 
 - **Provider:** NORC at the University of Chicago
@@ -98,13 +98,13 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [GSS Data Explorer](https://gssdataexplorer.norc.org/)
 - **Format:** Stata, SPSS, SAS, R, Excel
 - **License:** Free for research/educational use
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 ## Education Data
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **National Center for Education Statistics (NCES)**
 
 - **Provider:** U.S. Department of Education
@@ -113,9 +113,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [NCES Website](https://nces.ed.gov/)
 - **Format:** Multiple formats
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Integrated Postsecondary Education Data System (IPEDS)**
 
 - **Provider:** NCES
@@ -124,9 +124,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [IPEDS Data Center](https://nces.ed.gov/ipeds/datacenter/)
 - **Format:** CSV, Access, Excel
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Civil Rights Data Collection**
 
 - **Provider:** U.S. Department of Education Office for Civil Rights
@@ -135,9 +135,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Civil Rights Data Collection](https://civilrightsdata.ed.gov/data)
 - **Format:** Excel, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Urban Institute Education Data Explorer**
 
 - **Provider:** Urban Institute
@@ -147,9 +147,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **API:** Available
 - **Format:** CSV, API
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **NCES Education Demographic and Geographic Estimates (EDGE)**
 
 - **Provider:** National Center for Education Statistics
@@ -158,9 +158,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [EDGE Program](https://nces.ed.gov/programs/edge/)
 - **Format:** Shapefiles, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Monitoring the Future**
 
 - **Provider:** University of Michigan Institute for Social Research (via ICPSR)
@@ -169,7 +169,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [ICPSR MTF Studies](https://www.icpsr.umich.edu/web/ICPSR/series/35)
 - **Format:** SAS, SPSS, Stata, R, delimited
 - **License:** Registration required
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 
 ### Gun Violence Data
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Gun Violence Archive**
 
 - **Provider:** Gun Violence Archive
@@ -186,9 +186,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Gun Violence Archive](https://www.gunviolencearchive.org/)
 - **Format:** Online database, CSV (by request)
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **National Violent Death Reporting System (NVDRS)**
 
 - **Provider:** Centers for Disease Control and Prevention
@@ -197,9 +197,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [NVDRS Website](https://www.cdc.gov/violenceprevention/datasources/nvdrs/index.html)
 - **Format:** Restricted-use data files available through application
 - **License:** Restricted access
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Firearm Injury Surveillance**
 
 - **Provider:** Centers for Disease Control and Prevention
@@ -208,9 +208,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [CDC WISQARS](https://www.cdc.gov/injury/wisqars/)
 - **Format:** Online query system
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Mother Jones Gun Violence Data**
 
 - **Provider:** Mother Jones
@@ -219,9 +219,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Mother Jones Database](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/)
 - **Format:** Excel, Google Sheets
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Mass Shooter Database**
 
 - **Provider:** The Violence Project
@@ -230,9 +230,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [The Violence Project](https://www.theviolenceproject.org/)
 - **Format:** Online database
 - **License:** Available for research use
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **School Shooting Data**
 
 - **Provider:** K-12 School Shooting Database
@@ -241,9 +241,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [K-12 SSDB](https://k12ssdb.org/)
 - **Format:** Excel, CSV
 - **License:** Free for research use
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Violent Deaths at School & Shootings**
 
 - **Provider:** National Center for Education Statistics
@@ -252,9 +252,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [NCES Indicators](https://nces.ed.gov/)
 - **Format:** Excel, PDF
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **School Campus Database (CSCD)**
 
 - **Provider:** National Center for Education Statistics
@@ -263,9 +263,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [NCES School Locations](https://nces.ed.gov/programs/edge/Geographic/SchoolLocations)
 - **Format:** Shapefiles, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Los Angeles Times Homicide Report**
 
 - **Provider:** Los Angeles Times
@@ -274,9 +274,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [LA Times Homicide Report](https://homicide.latimes.com/)
 - **Format:** Interactive database
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Chicago ShotSpotter Data**
 
 - **Provider:** City of Chicago Data Portal
@@ -285,9 +285,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Chicago Data Portal](https://data.cityofchicago.org/)
 - **Format:** CSV, JSON, API
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Medical Examiner Case Archive**
 
 - **Provider:** Various County Medical Examiners
@@ -296,9 +296,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** Varies by jurisdiction
 - **Format:** Varies
 - **License:** Varies; often requires data use agreement
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **PA Child Fatality Reports**
 
 - **Provider:** Pennsylvania Department of Human Services
@@ -307,11 +307,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [PA DHS Website](https://www.dhs.pa.gov/)
 - **Format:** PDF reports
 - **License:** Public domain
-:::
+</div>
 
 ### Crime & Justice
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Uniform Crime Reporting (UCR) Program**
 
 - **Provider:** Federal Bureau of Investigation
@@ -320,9 +320,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/)
 - **Format:** CSV, Excel, API
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **National Crime Victimization Survey (NCVS)**
 
 - **Provider:** Bureau of Justice Statistics
@@ -331,9 +331,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [NCVS Data](https://www.bjs.gov/index.cfm?ty=dcdetail&iid=245)
 - **Format:** SAS, SPSS, Stata, ASCII
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Texas Death Row Information**
 
 - **Provider:** Texas Department of Criminal Justice
@@ -342,9 +342,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [TDCJ Death Row Data](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
 - **Format:** HTML tables
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Philadelphia Gun Violence Mapping**
 
 - **Provider:** Philadelphia City Controller's Office (Christy Brady, CPA)
@@ -353,9 +353,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Gun Violence Map](https://controller.phila.gov/philadelphia-reports/mapping-gun-violence/)
 - **Format:** Interactive web map
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Everytown Gun Violence Research**
 
 - **Provider:** Everytown Research & Policy
@@ -364,13 +364,13 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Everytown Research](https://everytownresearch.org/)
 - **Format:** Reports, datasets, interactive tools
 - **License:** Varies
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 ## Economic & Labor Data
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Bureau of Labor Statistics (BLS) Data**
 
 - **Provider:** U.S. Department of Labor
@@ -380,9 +380,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **API:** [BLS API](https://www.bls.gov/developers/)
 - **Format:** Excel, CSV, JSON, PDF
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Panel Study of Income Dynamics (PSID)**
 
 - **Provider:** University of Michigan
@@ -391,9 +391,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [PSID Website](https://psidonline.isr.umich.edu/)
 - **Format:** Stata, SAS, SPSS, ASCII
 - **License:** Free registration required
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Longitudinal Household & Employer Dynamics Data (LODES)**
 
 - **Provider:** U.S. Census Bureau
@@ -402,13 +402,13 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [LEHD LODES](https://lehd.ces.census.gov/data/)
 - **Format:** CSV
 - **License:** Public domain
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 ## International & Comparative Data
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **World Bank Open Data**
 
 - **Provider:** The World Bank
@@ -418,9 +418,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **API:** Available
 - **Format:** CSV, Excel, XML, JSON
 - **License:** Creative Commons Attribution 4.0
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **OECD Data**
 
 - **Provider:** Organisation for Economic Co-operation and Development
@@ -429,7 +429,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [OECD.Stat](https://stats.oecd.org/)
 - **Format:** CSV, Excel, SDMX
 - **License:** Varies by dataset
-:::
+</div>
 
 ------------------------------------------------------------------------
 
@@ -437,7 +437,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 
 ### Environmental Quality & Hazards
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **EPA Environmental Dataset Gateway**
 
 - **Provider:** U.S. Environmental Protection Agency
@@ -446,9 +446,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [EPA Data](https://edg.epa.gov/)
 - **Format:** Various
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **USGS Earth Explorer**
 
 - **Provider:** U.S. Geological Survey
@@ -457,9 +457,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Earth Explorer](https://earthexplorer.usgs.gov/)
 - **Format:** GeoTIFF, JPEG, various GIS formats
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **OpenTopography Data**
 
 - **Provider:** OpenTopography
@@ -468,9 +468,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [OpenTopography](https://opentopography.org/)
 - **Format:** Various GIS formats
 - **License:** Varies by dataset
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Digital Elevation Model Data**
 
 - **Provider:** USGS, NASA, and other providers
@@ -479,9 +479,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** Various sources including USGS Earth Explorer
 - **Format:** GeoTIFF, ASCII, various GIS formats
 - **License:** Typically public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **HUD Environmental Health Hazards Index**
 
 - **Provider:** U.S. Department of Housing and Urban Development
@@ -490,9 +490,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [HUD Data](https://www.huduser.gov/)
 - **Format:** Various
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **EPA EJScreen: Environmental Justice Mapping Tool**
 
 - **Provider:** U.S. Environmental Protection Agency
@@ -501,11 +501,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [EJScreen](https://www.epa.gov/ejscreen)
 - **Format:** Online tool, downloadable data
 - **License:** Public domain
-:::
+</div>
 
 ### Built Environment & Accessibility
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **EPA National Walkability Index**
 
 - **Provider:** U.S. Environmental Protection Agency
@@ -514,9 +514,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [National Walkability Index](https://www.epa.gov/smartgrowth/smart-location-mapping)
 - **Format:** Geodatabase, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **EPA Smart Location Database**
 
 - **Provider:** U.S. Environmental Protection Agency
@@ -525,9 +525,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping)
 - **Format:** Geodatabase, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **EPA Access to Jobs and Workers Via Transit**
 
 - **Provider:** U.S. Environmental Protection Agency
@@ -536,9 +536,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [EPA Transit Access Data](https://www.epa.gov/smartgrowth/smart-location-mapping)
 - **Format:** Geodatabase, CSV
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **OpenStreetMap Data**
 
 - **Provider:** OpenStreetMap Foundation
@@ -547,9 +547,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [OpenStreetMap](https://www.openstreetmap.org/)
 - **Format:** XML, PBF, various GIS formats
 - **License:** Open Database License (ODbL)
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Zoning Data**
 
 - **Provider:** Various municipal and county planning departments
@@ -558,9 +558,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** Varies by jurisdiction
 - **Format:** Shapefiles, geodatabase
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **SafeGraph Data**
 
 - **Provider:** SafeGraph
@@ -569,9 +569,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [SafeGraph](https://www.safegraph.com/)
 - **Format:** CSV, Parquet
 - **License:** Requires data agreement; free for academic research
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Foursquare Venues**
 
 - **Provider:** Foursquare
@@ -580,11 +580,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Foursquare API](https://developer.foursquare.com/)
 - **Format:** JSON via API
 - **License:** Requires API key
-:::
+</div>
 
 ### Social & Health Vulnerability
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **CDC Social Vulnerability Index (SVI)**
 
 - **Provider:** Centers for Disease Control and Prevention
@@ -593,9 +593,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [SVI Data Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
 - **Format:** CSV, geodatabase, shapefiles
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Neighborhood Atlas Area Deprivation Index (ADI)**
 
 - **Provider:** University of Wisconsin School of Medicine and Public Health
@@ -604,9 +604,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Neighborhood Atlas](https://www.neighborhoodatlas.medicine.wisc.edu/)
 - **Format:** CSV, online mapping tool
 - **License:** Free for research use
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Healthy Places Index**
 
 - **Provider:** Public Health Alliance of Southern California
@@ -615,9 +615,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Healthy Places Index](https://www.healthyplacesindex.org/)
 - **Format:** Interactive map, CSV
 - **License:** Free for public use
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Urbanization Index**
 
 - **Provider:** Various sources including Census Bureau
@@ -626,11 +626,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** Varies by source
 - **Format:** Various
 - **License:** Typically public domain
-:::
+</div>
 
 ### Food Access & Nutrition
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **USDA Food Desert Data**
 
 - **Provider:** U.S. Department of Agriculture Economic Research Service
@@ -639,9 +639,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
 - **Format:** Excel, CSV, GIS files
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **SNAP Retailer Database**
 
 - **Provider:** U.S. Department of Agriculture Food and Nutrition Service
@@ -650,11 +650,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [SNAP Retailer Locator](https://www.fns.usda.gov/snap/retailer-locator)
 - **Format:** CSV, API
 - **License:** Public domain
-:::
+</div>
 
 ### Parks, Green Space & Environmental Justice
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Trust for Public Land ParkServe**
 
 - **Provider:** Trust for Public Land
@@ -663,9 +663,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [ParkServe](https://www.tpl.org/parkserve)
 - **Format:** Interactive map, API
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **American Forests Tree Equity Score**
 
 - **Provider:** American Forests
@@ -674,9 +674,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Tree Equity Score](https://www.treeequityscore.org/)
 - **Format:** Interactive map, downloadable data
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **National Tree Equity Score**
 
 - **Provider:** American Forests
@@ -685,11 +685,11 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Tree Equity Score](https://www.treeequityscore.org/)
 - **Format:** Interactive map, CSV
 - **License:** Varies
-:::
+</div>
 
 ### Housing & Neighborhood Change
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **University of Richmond Mapping Inequality**
 
 - **Provider:** Digital Scholarship Lab, University of Richmond
@@ -698,9 +698,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
 - **Format:** Interactive maps, downloadable shapefiles
 - **License:** CC BY-NC-SA 4.0
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Redlining Data**
 
 - **Provider:** Various sources including University of Richmond
@@ -709,9 +709,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** Various sources
 - **Format:** Shapefiles, GeoJSON
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Gentrification & Displacement Data**
 
 - **Provider:** Urban Displacement Project, Federal Reserve Banks, academic researchers
@@ -720,9 +720,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Urban Displacement Project](https://www.urbandisplacement.org/)
 - **Format:** Interactive maps, CSV, shapefiles
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Housing Affordability Index**
 
 - **Provider:** National Association of Realtors, HUD, various sources
@@ -731,9 +731,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** Various sources
 - **Format:** Excel, CSV
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Housing & Mortgage Act Disclosure Data (HMDA)**
 
 - **Provider:** Consumer Financial Protection Bureau
@@ -742,9 +742,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [FFIEC HMDA Data](https://ffiec.cfpb.gov/data-browser/)
 - **Format:** CSV, API
 - **License:** Public domain
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Center for Neighborhood Technology Housing + Transportation Index**
 
 - **Provider:** Center for Neighborhood Technology
@@ -753,9 +753,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [H+T Index](https://htaindex.cnt.org/)
 - **Format:** CSV, interactive maps
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Transit Center Transit-Oriented Development Database (TED)**
 
 - **Provider:** Transit Center
@@ -764,9 +764,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [TED Database](https://tod.transitcenter.org/)
 - **Format:** Interactive web tool
 - **License:** Varies
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Google Open Buildings Dataset**
 
 - **Provider:** Google Research
@@ -775,13 +775,13 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Open Buildings](https://sites.research.google/open-buildings/)
 - **Format:** GeoJSON, CSV
 - **License:** CC BY 4.0
-:::
+</div>
 
 ------------------------------------------------------------------------
 
 ## Data Repositories & Archives
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Inter-university Consortium for Political and Social Research (ICPSR)**
 
 - **Provider:** University of Michigan
@@ -789,9 +789,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [ICPSR Website](https://www.icpsr.umich.edu/)
 - **Format:** Multiple formats
 - **License:** Varies; institutional membership may be required
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Harvard Dataverse**
 
 - **Provider:** Harvard University
@@ -799,9 +799,9 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [Dataverse](https://dataverse.harvard.edu/)
 - **Format:** Various
 - **License:** Varies by dataset
-:::
+</div>
 
-::: data-source
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 **Open Science Framework (OSF)**
 
 - **Provider:** Center for Open Science
@@ -809,7 +809,7 @@ Links are checked regularly, but availability may change. Please contact me if y
 - **Access:** [OSF.io](https://osf.io/)
 - **Format:** Various
 - **License:** Varies by project
-:::
+</div>
 
 ------------------------------------------------------------------------
 
