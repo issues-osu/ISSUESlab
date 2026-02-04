@@ -25,6 +25,7 @@ sections:
         - **[Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence](https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/)**
         - **Congratulations to Amy Watson-Grace for receiving the prestigious Presidential Fellowship**
         - **Congratulations to Olivia McLucas for being awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
+        - **Congratulations to Hexin Yang and Taylor Harrington who have recently become PhD candidates**
     design:
       columns: '1'
 
