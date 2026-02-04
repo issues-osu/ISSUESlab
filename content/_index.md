@@ -36,6 +36,8 @@ sections:
     content:
       title: Media Engagement
       text: |
+        Our work on gun violence was featured on David Reidman's podcast. Riedman is the creator of the [School Shooting Database](https://k12ssdb.org/) and widely used dataset to examine school shootings.
+
         <div style="display:flex;justify-content:center;align-items:center;">
           <div class="substack-post-embed">
             <p lang="en">Ep 29. Gun violence exposure on walkable routes to and from school by David Riedman, PhD</p>
