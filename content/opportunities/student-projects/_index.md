@@ -28,7 +28,7 @@ Undergraduate research assistants complete a structured 16-week curriculum that 
 
 ## Weekly Schedule and Deliverables
 
-### Week 1 – Aug 27
+### Week 1 – Jan 13
 
 - **Topic:** Competency Quiz, Lab Introduction, & Personal Profile  
 - **Deliverables:**  
@@ -36,88 +36,90 @@ Undergraduate research assistants complete a structured 16-week curriculum that 
   - 1-page reflection on quiz results and goals for the semester  
   - Fill out [**personal profile template**](template.txt) for the lab website  
 
-### Week 2 – Sept 3
+### Week 2 – Jan 20
 
 - **Topic:** Lab Orientation & Project Familiarization  
 - **Deliverable:** One-page overview of the project you are interested in joining, including the research questions it addresses and how it connects to law, policy, or public health.  
 
-### Week 3 – Sept 10
+### Week 3 – Jan 27
 
 - **Topic:** Project Selection  
 - **Deliverable:** 1-page project interest statement; confirm project assignment  
 
-### Week 4 – Sept 17
+### Week 4 – Feb 3
 
 - **Topic:** Research Tools Setup  
 - **Deliverable:** Screenshot of Zotero, RStudio, GitHub, QGIS installs; run lab R script  
 
-### Week 5 – Sept 24
+### Week 5 – Feb 10
 
 - **Topic:** Literature Review Skills + Policy Engagement  
 - **Deliverables:**  
   - Annotated bibliography of 3 articles in Zotero + PDF copy  
   - Brief reflection (1–2 paragraphs) connecting your project interests to the upcoming policy briefing  
-- **Special Event:** Policy briefing with Rep. Dingell’s Office on domestic violence and changes to Medicaid/social safety net  
+- **Special Event:** Policy briefing with Rep. Dingell's Office on domestic violence and changes to Medicaid/social safety net  
 
-### Week 6 – Oct 1
+### Week 6 – Feb 17
 
 - **Topic:** Data Familiarization  
 - **Deliverable:** Write-up of a dataset of interest (1–2 pages) describing the source, variables, and potential applications for research.  
 
-### Week 7 – Oct 8
+### Week 7 – Feb 24
 
 - **Topic:** Coding and Reproducibility + Medicaid & Opioid Policy Project  
 - **Deliverables:**  
   - Reproducible R script with comments  
   - Policy brief/memo on how changes in Medicaid policy may impact opioid use and treatment access, drawing on the CareLink Georgia project context  
 
-### Week 8 – Oct 15
+### Week 8 – Mar 3
 
 - **Topic:** Research Writing Skills  
 - **Deliverable:** Draft 1–2 page project summary (background, methods, findings)  
 
-### Week 9 – Oct 22
+### Week 9 – Mar 10
 
 - **Topic:** Policy & Practice Connections  
 - **Deliverable:** 1-page reflection linking project to law, policy, or practice  
+- **Special Event:** **IPR Seminar Series - Dr. Barboza-Salerno presents on Abortion Accessibility & Maternal Health (Mar 10, 12:30-1:30 PM)**
 
-### Week 10 – Oct 29
+### Week 10 – Mar 17
+
+- **Topic:** Spring Break - No Meeting  
+
+### Week 11 – Mar 24
 
 - **Topic:** Data Visualization  
 - **Deliverable:** One figure, map, or table with caption  
 
-### Week 11 – Nov 5
+### Week 12 – Mar 31
 
 - **Topic:** Mid-Semester Lightning Talks  
 - **Deliverables:**  
   - 5-minute oral presentation (2–3 slides)  
-- **Special Events:**  
-  - **APHA Annual Meeting (Nov 2–5, Cincinnati, OH)**  
-  - **Meeting with Congress on Health and Housing (Nov 5, Washington, DC)**  
 
-### Week 12 – Nov 12
+### Week 13 – Apr 7
 
 - **Topic:** Advanced Skill Development  
 - **Deliverable:** Evidence of advanced task (e.g., advanced map, regression, coded law data)  
-- **Special Event:** **Women in Statistics & Data Science (WSDS, Nov 12–14, Seattle, WA)**  
+- **Special Event:** **Ohio Recovery Housing Conference (Apr 15, 1:00-2:15 PM)**
 
-### Week 13 – Nov 19
+### Week 14 – Apr 14
 
 - **Topic:** Draft Final Product  
 - **Deliverable:** Draft poster, policy brief, or paper section (review with project lead)  
+- **Special Event:** **SDSS 2026 - AI & LLM Applications (Apr 29, 3:45-5:15 PM CT, Milwaukee, WI)**
 
-### Week 14 – Nov 26
+### Week 15 – Apr 21
 
 - **Topic:** Mentorship & Peer Feedback  
 - **Deliverable:** 1-page feedback on peer draft  
-- **Note:** No live meeting (Thanksgiving)  
 
-### Week 15 – Dec 3
+### Week 16 – Apr 28
 
 - **Topic:** Final Presentations  
 - **Deliverable:** 10-minute final presentation (poster, slides, or brief)  
 
-### Week 16 – Dec 10
+### Week 17 – May 2
 
 - **Topic:** Reflection & Wrap-Up  
 - **Deliverables:**  
@@ -130,32 +132,31 @@ Undergraduate research assistants complete a structured 16-week curriculum that 
 
 | **Week** | **Date** | **Topic** | **Deliverable(s)** |
 |----------|----------|------------|---------------------|
-| 1 | Aug 27 | Competency Quiz & Profile | Baseline quiz + 1-page reflection + personal profile template |
-| 2 | Sept 3 | Lab Orientation & Project Familiarization | One-page overview of the project you are interested in joining |
-| 3 | Sept 10 | Project Selection | Project interest statement; confirm project assignment |
-| 4 | Sept 17 | Research Tools Setup | Proof of installs; run lab R script |
-| 5 | Sept 24 | Literature Review + Policy Engagement | Annotated bibliography (3 articles); reflection on project interests <br> **Policy briefing with Rep. Dingell’s Office (domestic violence & Medicaid/social safety net)** |
-| 6 | Oct 1 | Data Familiarization | Write-up of a dataset of interest (1–2 pages) |
-| 7 | Oct 8 | Coding & Reproducibility + Medicaid & Opioid Policy | Reproducible R script with comments; policy brief/memo on Medicaid changes and opioid treatment (CareLink Georgia) |
-| 8 | Oct 15 | Research Writing | Draft 1–2 page project summary |
-| 9 | Oct 22 | Policy & Practice Links | 1-page reflection |
-| 10 | Oct 29 | Data Visualization | One figure/map/table with caption |
-| 11 | Nov 5 | Mid-Semester Lightning Talks | 5-min talk with slides <br> **APHA (Nov 2–5, Cincinnati, OH)**; **Meeting with Congress on Health and Housing (Nov 5, Washington, DC)** |
-| 12 | Nov 12 | Advanced Skills | Evidence of advanced task <br> **WSDS (Nov 12–14, Seattle, WA)** |
-| 13 | Nov 19 | Draft Final Product | Draft poster, policy brief, or paper section |
-| 14 | Nov 26 | Peer Feedback & Mentorship | 1-page feedback on peer draft <br> *No live meeting* |
-| 15 | Dec 3 | Final Presentations | 10-min presentation |
-| 16 | Dec 10 | Reflection & Wrap-Up | Final written product + 1–2 page reflection essay |
+| 1 | Jan 13 | Competency Quiz & Profile | Baseline quiz + 1-page reflection + personal profile template |
+| 2 | Jan 20 | Lab Orientation & Project Familiarization | One-page overview of the project you are interested in joining |
+| 3 | Jan 27 | Project Selection | Project interest statement; confirm project assignment |
+| 4 | Feb 3 | Research Tools Setup | Proof of installs; run lab R script |
+| 5 | Feb 10 | Literature Review + Policy Engagement | Annotated bibliography (3 articles); reflection on project interests <br> **Policy briefing with Rep. Dingell's Office (domestic violence & Medicaid/social safety net)** |
+| 6 | Feb 17 | Data Familiarization | Write-up of a dataset of interest (1–2 pages) |
+| 7 | Feb 24 | Coding & Reproducibility + Medicaid & Opioid Policy | Reproducible R script with comments; policy brief/memo on Medicaid changes and opioid treatment (CareLink Georgia) |
+| 8 | Mar 3 | Research Writing | Draft 1–2 page project summary |
+| 9 | Mar 10 | Policy & Practice Links | 1-page reflection <br> **IPR Seminar Series - Dr. Barboza-Salerno (Mar 10, 12:30-1:30 PM)** |
+| 10 | Mar 17 | Spring Break | No meeting |
+| 11 | Mar 24 | Data Visualization | One figure/map/table with caption |
+| 12 | Mar 31 | Mid-Semester Lightning Talks | 5-min talk with slides |
+| 13 | Apr 7 | Advanced Skills | Evidence of advanced task <br> **Ohio Recovery Housing Conference (Apr 15, 1:00-2:15 PM)** |
+| 14 | Apr 14 | Draft Final Product | Draft poster, policy brief, or paper section <br> **SDSS 2026 - AI & LLM Applications (Apr 29, 3:45-5:15 PM CT, Milwaukee, WI)** |
+| 15 | Apr 21 | Peer Feedback & Mentorship | 1-page feedback on peer draft |
+| 16 | Apr 28 | Final Presentations | 10-min presentation |
+| 17 | May 2 | Reflection & Wrap-Up | Final written product + 1–2 page reflection essay |
 
 ---
 
 ## Professional Engagements
 
-- **APHA Annual Meeting**: Nov 2–5, 2025 (**Cincinnati, OH**)  
-- **Meeting with Congress on Health and Housing**: Nov 5, 2025 (**Washington, DC**)  
-- **Women in Statistics & Data Science (WSDS)**: Nov 12–14, 2025 (**Seattle, WA**)  
-- **HICE (Hawaii International Conference on Education)**: Jan 8–11, 2026 (Honolulu, HI)  
-- **SSWR (Society for Social Work and Research)**: Jan 14–18, 2026 (Washington, DC)  
+- **IPR Seminar Series**: March 10, 2026 (**Columbus, OH**)  
+- **Ohio Recovery Housing Conference**: April 15, 2026 (**Ohio**)  
+- **SDSS (Symposium on Data Science & Statistics)**: April 28 - May 1, 2026 (**Milwaukee, WI**)  
 
 ## Current Projects
 
