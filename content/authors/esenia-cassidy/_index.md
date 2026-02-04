@@ -29,7 +29,7 @@ education:
     year: 2022
   - course: BA in Psychology
     institution: The New School for Social Research
-    year: 2020
+    year: 2019
 
 user_groups:
 - People
