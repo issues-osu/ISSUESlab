@@ -66,10 +66,6 @@ date: 2025-04-25
   
 - **Barboza-Salerno, G.** (2025). Craniofacial Injuries in IPV-Related Physical Abuse. *ISSUESLAB*.
 
-  <h2>Manuscripts in Preparation</h2>
-  
-- Linking Neighborhood Contexts to the Social Determinants of Child Health Using Latent Class Analysis and Geographical Information Systems (65% completed)
-
   <h2>Related Resources</h2>
   
 - [View all publications](/publication/)

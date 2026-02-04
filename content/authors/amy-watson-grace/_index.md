@@ -13,7 +13,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Methodologist 
+role: PhD Candidate, Methodologist 
 
 # Organizations/Affiliations #FILL THIS IN
 
@@ -85,16 +85,17 @@ Their work focuses on disparities in access to clinical and educational services
 They bring skills in R, hierarchical modeling, codebook/template thematic analysis, REDCap, scientific writing, and administration/interpretation of behavioral and other clinical measures and contribute to projects such as Craniofacial injuries in victims of intimate partner violence treated in United States Emergency Departments, 2018 – 2022; Minor infractions, major consequences: A multilevel analysis of school discipline disparities affecting Native American students attending New Mexico public schools; and A descriptive analysis of suicide trends by race/ethnicity, sex, and age categories in Santa Clara, California from 2018-2023.  
 
 ### Certifications and Licensure
+
 * AOTA advanced pediatric board certification, 2020  
 * USC Chan Ayres Sensory Integration certification, 2020  
-* Ohio Department of Education, 2006 - present 
-* NBCOT certification, 1998 - present 
+* Ohio Department of Education, 2006 - present
+* NBCOT certification, 1998 - present
 * Ohio OT, PT, AT Board, 1998 - present
 
 ### Awards and honours
+
 * Best Oral Presentation, Ohio State University HRS Research Day, 2024, 2025  
-* HRS Travel Award, Ohio State University, 2025 
+* HRS Travel Award, Ohio State University, 2025
 * Rector Fellowship, Ohio State University, 2024
 * College of Medicine, Office of Diversity & Inclusion Travel Award, Ohio State University, 2024
 * College of Medicine Graduate Fellowship, Ohio State University, 2022
- 

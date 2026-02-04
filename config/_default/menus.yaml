@@ -9,9 +9,9 @@ main:
   - name: Research Areas
     url: '/research'
     weight: 20
-  - name: 'Maternal & Child Health'
+  - name: Interpersonal Violence
     parent: Research Areas
-    url: '/research/reproductive-justice'
+    url: '/research/violence'
     weight: 21
   - name: Education
     parent: Research Areas
@@ -25,10 +25,11 @@ main:
     parent: Research Areas
     url: '/research/overdose'
     weight: 24
-  - name: Interpersonal Violence
+  - name: 'Maternal & Child Health'
     parent: Research Areas
-    url: '/research/violence'
+    url: '/research/reproductive-justice'
     weight: 25
+ 
  
   - name: 'Law & Policy'
     url: '/advocacy'

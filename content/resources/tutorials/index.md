@@ -48,6 +48,48 @@ Learn how to use the Free Law Project's CourtListener API to search, download, a
 
 ---
 
+## Coding Resources
+
+Explore our code examples and workflows for spatial analysis and mapping:
+
+---
+
+### [Example 1: Mapping the Social Determinants of Health](/resources/code/sdoh/)
+
+**Mapping Food & Housing Insecurity with CDC PLACES**
+
+Learn how to download CDC PLACES data via Socrata API, join to census tracts, and create choropleth maps. This example covers:
+
+- Querying CDC PLACES data using Socrata API
+- Downloading census tract geometries with tigris
+- Joining spatial and attribute data
+- Mean-imputation for missing values
+- Creating maps and exporting GeoJSON
+
+**Topics**: CDC PLACES, social determinants of health, food insecurity, housing insecurity, R, GIS
+
+[View Example →](/resources/code/sdoh/)
+
+---
+
+### [Example 2: Mapping Spatial Accessibility to Opioid Treatment Centers](/resources/code/spatial_access/)
+
+**Analyzing Access to Substance Use Treatment**
+
+Learn how to calculate spatial accessibility to opioid treatment centers using network analysis. This example demonstrates:
+
+- Geocoding treatment facility locations
+- Building transportation networks
+- Calculating travel times and service areas
+- Identifying treatment deserts
+- Visualizing accessibility patterns
+
+**Topics**: Spatial accessibility, opioid treatment, network analysis, healthcare access, R, GIS
+
+[View Example →](/resources/code/spatial_access/)
+
+---
+
 ## Additional Resources
 
 - [Datasets](/resources/datasets/) - Curated list of public datasets for social science research

@@ -48,12 +48,6 @@ date: 2025-04-25
   
 - **Hawaii International Conference on Education (HICE), January 2026**: [Geospatial Analysis of School Safety and Student Outcomes](/event/hice-2026/)
 
-  <h2>Current Projects</h2>
-  
-### Manuscripts in Preparation
-  
-- Multimodal Transit Networks, Accessibility to Behavioral Health Centers, and Suicide Attempts in San Francisco: Rapid Realistic Network Routing and Spatial Error (40% completed)
-
   <h2>Related Resources</h2>
   
 - [View all publications](/publication/)

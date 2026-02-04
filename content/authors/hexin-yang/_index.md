@@ -13,7 +13,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate, Methodologist
 
 organizations:
 - name: The Ohio State University — College of Social Work

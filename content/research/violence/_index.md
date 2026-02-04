@@ -64,14 +64,6 @@ date: 2025-04-25
   
 - **Barboza-Salerno, G.** (2023). [APSAC Research-to-Practice Brief on Connecting Child Maltreatment Risk with Crime and Neighborhood](https://apsac.org/wp-content/uploads/2023/05/Bayesian-spatio-temporal-FINAL-.pdf).
 
-  <h2>Current Projects</h2>
-  
-### Manuscripts in Preparation
-  
-- Risk factors for persistent fatal firearm-involved homicide clusters in Chicago 2015–2023: A spatial statistical analysis of redlining, reverse redlining, green space, and socioeconomic factors (90% completed)
-  
-- Where Are ACEs Worse? Context-Specific Item Functioning and the Role of Neighborhood Context in Child Wellbeing (100% completed)
-
   <h2>Related Resources</h2>
   
 - [View all publications](/publication/)

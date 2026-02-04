@@ -46,16 +46,6 @@ date: 2025-04-25
   
 - **Zhang, Y.**, Johnson-Motoyama, M., Yoon, S., **Barboza-Salerno, G.** Patterns of family harsh parenting and the effects of cumulative risks. *Submitted to Child & Family Social Work*.
 
-  <h2>Current Projects</h2>
-  
-### Manuscripts in Preparation
-  
-- **Where Are ACEs Worse? Context-Specific Item Functioning and the Role of Neighborhood Context in Child Wellbeing** (100% completed)
-  
-- **How a Revised Adverse Childhood Experiences Framework Better Captures the Lived Experiences of Vulnerable Groups** (70% completed)
-  
-- **Linking Neighborhood Contexts to the Social Determinants of Child Health Using Latent Class Analysis and Geographical Information Systems** (65% completed)
-
   <h2>Related Resources</h2>
   
 - [View all publications](/publication/)
