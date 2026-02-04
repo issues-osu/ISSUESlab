@@ -22,7 +22,7 @@ publication_short: In *ISPCAN*
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: /uploads/mlcan.pdf
+url_pdf: /ISSUESlab/uploads/mlcan.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

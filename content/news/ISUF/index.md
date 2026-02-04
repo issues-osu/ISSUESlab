@@ -7,7 +7,7 @@ event_url: https://www.isuf2025.org/
 authors: [Barboza, Gia; Duhaney, Sharefa]
 tags: [computational spatial networks, segmentation, built environment, child abuse and neglect]
 
-url_pdf: /uploads/ISUF2025.pdf
+url_pdf: /ISSUESlab/uploads/ISUF2025.pdf
 
 ---
 
