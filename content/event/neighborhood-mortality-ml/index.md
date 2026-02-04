@@ -18,7 +18,6 @@ image:
   focal_point: "Smart"
 ---
 
-![Cook County Neighborhood Typology](featured.png)
 
 ## Abstract
 
