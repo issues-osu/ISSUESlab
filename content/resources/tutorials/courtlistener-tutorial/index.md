@@ -30,7 +30,6 @@ Click **Select Jurisdiction → State**. Clear all, then select:
 
 This gives you a quick check on the expected volume so you can validate the code's output below.
 
-> [!NOTE]
 > The site reported 36 cases from Ohio when this tutorial was written. Note that the exact number may change over time as new opinions are added or metadata is corrected.
 
 ---
@@ -141,7 +140,6 @@ For Ohio, this produced ~35 unique case names versus 36 displayed on the site. I
 
 ![Dataframe View in R](courtlistener_dataframe_view.png)
 
-> [!TIP]
 > Minor discrepancies happen because search hits can include multiple opinions or siblings per matter, and because the index is updated over time.
 
 ---
@@ -172,7 +170,6 @@ download_case_text <- function(case_url, output_dir) {
 
 ![Downloaded Case Files](courtlistener_console_output.png)
 
-> [!IMPORTANT]
 > Remember to be considerate of rate limits and to include a User Agent string with your contact information.
 
 ---

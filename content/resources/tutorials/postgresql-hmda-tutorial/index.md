@@ -14,7 +14,6 @@ If you're interested in patterns of lending discrimination, the HMDA dataset is 
 
 Each record includes the census tract (effectively a neighborhood) of the loan origination, which allows researchers to situate applicants within their geographic context. This spatial identifier can be linked to other data sources (e.g., Census or ACS data), enabling robust analyses of racial disparities in lending, neighborhood-level disinvestment, and broader patterns of residential inequality.
 
-> [!NOTE]
 > I highly recommend the book titled "The Color of Law" by Richard Rothstein for anyone interested in understanding the deep-rooted history of discriminatory housing practices in the United States. The book compellingly explains how federal, state, and local policies — across multiple domains — intentionally created and reinforced de jure segregation. Chicago, which remains one of the most highly segregated urban areas in the country, is prominently featured.
 
 ## Why PostgreSQL?
@@ -51,7 +50,6 @@ The dataset is freely available to the public. To download it follow these steps
 
 ![How to Download HMDA Data](hmda_download_2024.png)
 
-> [!TIP]
 > Multiple years are available on the FFIEC website. You can download historical data to examine lending trends over time.
 
 ---
@@ -197,7 +195,6 @@ This tells PostgreSQL to:
 - Use the header row to match columns
 - Treat empty strings as `NULL`
 
-> [!IMPORTANT]
 > This must be entered as a single line. You will get a notification that the data were successfully imported.
 
 ---
