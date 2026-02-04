@@ -16,6 +16,7 @@ design:
   show_meta: false
 ---
 
+- **Tutorials**: [Step-by-step guides for data analysis]({{< relref "tutorials" >}})
 - **Computing Resources**: [Click here for required software]({{< relref "resources_comp.md" >}})
 - **Learning Resources**: [Click here for Learning examples]({{< relref "resources_learn.md" >}})
 - **Coding Resources**:
