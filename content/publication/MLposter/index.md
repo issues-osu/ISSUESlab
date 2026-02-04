@@ -10,7 +10,7 @@ tags: ["computational spatial networks", "segmentation", "built environment", "c
 date: "2024-08-01T00:00:00Z"
 doi: ""
 
-publication_types: ["paper-conference"]
+publication_types: ["1"]
 
 publication: "In *ISPCAN 2024*"
 publication_short: "In *ISPCAN*"
