@@ -1,8 +1,8 @@
-# ISSUES Lab Undergraduate Research Experience – Fall 2025
+# ISSUES Lab Undergraduate Research Experience – Spring 2026
 
 **Lab Directors:** Drs. Gia Elise Barboza-Salerno & Karla Shockley  
 **Meeting Time:** Wednesdays, 1:00 – 2:00 PM (Zoom)  
-**Semester Dates:** August 26, 2025 – December 11, 2025  
+**Semester Dates:** January 13, 2026 – May 2, 2026  
 **Evaluation:** Pass/Fail (based on participation, assignments, and project engagement)  
 
 ---
@@ -159,19 +159,19 @@ Undergraduate research assistants complete a structured 16-week curriculum that 
 
 ## Current Projects
 
-- **Abortion/Reproductive Health**:  
+- **[Abortion/Reproductive Health](/ISSUESlab/research/reproductive-justice/)**:  
   This project examines the impacts of abortion restrictions and reproductive health policies on maternal and child well-being. We use spatial and policy analysis to study how access to reproductive care varies across neighborhoods and populations, with a focus on structural inequities and social safety net protections.  
 
-- **Treatment/Prevention for Substance Use Disorder**:  
+- **[Treatment/Prevention for Substance Use Disorder](/ISSUESlab/research/overdose/)**:  
   In collaboration with community partners such as CareLink Georgia, this project evaluates how Medicaid and other policy changes affect access to treatment and prevention for opioid and other substance use disorders. Analyses integrate health service data, policy environments, and neighborhood-level conditions to identify structural barriers and opportunities for equitable care.  
 
 - **Recovery Housing**:  
   This study investigates the role of recovery housing in supporting individuals with substance use disorder, particularly in underserved and high-risk communities. We assess housing availability, policy frameworks, and long-term outcomes to inform prevention and treatment policy.  
 
-- **Violence-Related Harm**:  
+- **[Violence-Related Harm](/ISSUESlab/research/violence/)**:  
   This project applies spatial epidemiology, machine learning, and Bayesian modeling to study the distribution and determinants of firearm injury, child maltreatment, intimate partner violence, and suicide risk. Our work emphasizes structural inequities, environmental exposures, and legal contexts as drivers of violence-related harm across neighborhoods.  
 
-- **School Discipline**:  
+- **[School Discipline](/ISSUESlab/research/education/)**:  
   We study patterns of school exclusion, including suspensions, expulsions, and referrals, and their intersections with race, disability, and neighborhood disadvantage. Using administrative data and spatial analysis, this project evaluates how discipline practices shape student outcomes and contribute to broader inequities.  
 
 - **Housing and Houselessness**:  

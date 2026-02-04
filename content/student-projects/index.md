@@ -1,8 +1,8 @@
-# ISSUES Lab Undergraduate Research Experience – Fall 2025
+# ISSUES Lab Undergraduate Research Experience – Spring 2026
 
 **Lab Directors:** Drs. Gia Elise Barboza-Salerno & Karla Shockley  
 **Meeting Time:** Wednesdays, 1:00 – 2:00 PM (Zoom)  
-**Semester Dates:** August 26, 2025 – December 11, 2025  
+**Semester Dates:** January 13, 2026 – May 2, 2026  
 **Evaluation:** Pass/Fail (based on participation, assignments, and project engagement)  
 
 ---
@@ -14,6 +14,28 @@ The **ISSUES Lab (Investigating Spatial Structures in Urban Environments)** tran
 The lab is structured around a **three-tiered mentoring model**. Faculty provide direct mentorship and professional development to graduate students and senior researchers (Tier 1); graduate students and advanced lab members mentor undergraduates through project guidance, methods training, and peer collaboration (Tier 2); and undergraduates extend mentorship to newer students or interns, reinforcing their own skills while cultivating leadership (Tier 3). This cascade structure ensures that every member both receives and provides mentorship, building a supportive pipeline for scholarly growth and community impact.  
 
 Undergraduate research assistants complete a structured 16-week curriculum that begins with a competency assessment and personal profile, transitions to project involvement, and culminates in research products and presentations. Students also engage with professional meetings where the lab is presenting (e.g., APHA, WSDS, SSWR, HICE) to connect their work to the broader research community.  
+
+---
+
+## Current Projects
+
+- **[Abortion/Reproductive Health](/ISSUESlab/research/reproductive-justice/)**:  
+  This project examines the impacts of abortion restrictions and reproductive health policies on maternal and child well-being. We use spatial and policy analysis to study how access to reproductive care varies across neighborhoods and populations, with a focus on structural inequities and social safety net protections.  
+
+- **[Treatment/Prevention for Substance Use Disorder](/ISSUESlab/research/overdose/)**:  
+  In collaboration with community partners such as CareLink Georgia, this project evaluates how Medicaid and other policy changes affect access to treatment and prevention for opioid and other substance use disorders. Analyses integrate health service data, policy environments, and neighborhood-level conditions to identify structural barriers and opportunities for equitable care.  
+
+- **Recovery Housing**:  
+  This study investigates the role of recovery housing in supporting individuals with substance use disorder, particularly in underserved and high-risk communities. We assess housing availability, policy frameworks, and long-term outcomes to inform prevention and treatment policy.  
+
+- **[Violence-Related Harm](/ISSUESlab/research/violence/)**:  
+  This project applies spatial epidemiology, machine learning, and Bayesian modeling to study the distribution and determinants of firearm injury, child maltreatment, intimate partner violence, and suicide risk. Our work emphasizes structural inequities, environmental exposures, and legal contexts as drivers of violence-related harm across neighborhoods.  
+
+- **[School Discipline](/ISSUESlab/research/education/)**:  
+  We study patterns of school exclusion, including suspensions, expulsions, and referrals, and their intersections with race, disability, and neighborhood disadvantage. Using administrative data and spatial analysis, this project evaluates how discipline practices shape student outcomes and contribute to broader inequities.  
+
+- **Housing and Houselessness**:  
+  This project investigates how housing instability and houselessness are shaped by lending practices, neighborhood disinvestment, and policy responses. By combining mortgage lending data, census indicators, and policy analysis, we aim to identify structural pathways that contribute to housing precarity and its public health consequences.
 
 ---
 
