@@ -41,14 +41,11 @@ education:
     institution: Dublin Coffman High School
     year: 2025
 
-# Social/Academic Networking    
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mclucas.4@buckeyemail.osu.edu'
-- icon: linkedin
-  icon_pack: fab
-  link:  
+  link: 'mailto:mclucas.4@buckeyemail.osu.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +57,7 @@ email: ""
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Undergraduates
 ---
 Olivia McLucas is a research assistant in the ISSUES Lab.  Their work focuses on law and policy within underrepresented groups. They are interested in applying big data to violence-related harm  prevention as it pertains to minoritized groups within the criminal-legal system.
 

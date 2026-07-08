@@ -14,16 +14,19 @@ sections:
         <div style="text-align: left;">
           <img src="media/issues_banner_new.png" alt="ISSUES Banner" style="max-width: 100%; height: auto;">
           <br>
-          <h1 style="margin-top: 20px; font-size: 2.5rem; line-height: 1.2;">Investigating Spatial Structures in Urban Environments (ISSUES)</h1>
-          <h1 style="font-size: 2.5rem; line-height: 1.2;">The Ohio State University</h1>
+          <h1 style="margin-top: 20px; font-size: 2.5rem; line-height: 1.2; font-weight: 700;">Investigating Spatial Structures in Urban Environments (ISSUES)</h1>
+          <p style="font-size: 1.25rem; font-weight: 500; color: #666; margin-top: 10px; margin-bottom: 5px;">Translating structural inequality into social and legal policy</p>
+          <p style="font-size: 1.25rem; font-weight: 500; color: #666; margin-top: 0;">The Ohio State University</p>
         </div>
 
         ## In the News
 
+        - **[New Publication: Racial and Ethnic Disparities in Non-Fatal Self-Inflicted Firearm Injuries](/publication/racial-disparities-nonfatal-firearm-injuries/)** published in the *Journal of Community Health* (June 2026).
         - **[Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence](https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/)**
-        - **Congratulations to Amy Watson-Grace for receiving the prestigious Presidential Fellowship**
+        - **Congratulations to Dr. Amy Watson-Grace for receiving the prestigious Presidential Fellowship**
         - **Congratulations to Olivia McLucas for being awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
         - **Congratulations to Hexin Yang and Taylor Harrington who have recently become PhD candidates**
+        - **Welcome to our new Graduate Research Assistants joining the ISSUES Lab!**
     design:
       columns: '1'
 
@@ -104,7 +107,9 @@ sections:
       title: People
       text: We are a group of multidisciplinary scholars from diverse backgrounds. We are united around our passion for improving the lives of children and families. The full list of our members is available [here](/people).
       user_groups:
-        - People
+        - Faculty
+        - Graduate Students
+        - Undergraduates
       sort_by: Params.last_name
       sort_ascending: true
     design:

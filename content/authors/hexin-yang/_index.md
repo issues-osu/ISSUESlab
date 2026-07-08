@@ -65,7 +65,7 @@ email: "yang.6983@buckeyemail.osu.edu"
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Graduate Students
 ---
 Hexin Yang is a research associate in the ISSUES Lab. Her work focuses on student well-being in school settings. She is particularly interested in school and near-school violence prevention, the school learning climate, and school-age children’s well-being across motivational, academic, and psychosocial domains.
 

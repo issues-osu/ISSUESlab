@@ -11,6 +11,6 @@ organizations:
   url: ""
 bio: "Undergraduate Research Assistant in Political Science and City Planning."
 user_groups:
-- People
+- Alumni
 ---
 Rayna Booker is an Undergraduate Research Assistant studying Political Science and City Planning.

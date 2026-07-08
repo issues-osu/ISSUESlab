@@ -101,7 +101,7 @@ social:
 email: "barboza-salerno.1@osu.edu"
 
 user_groups:
-- People
+- Faculty
 ---
 
 Dr. Gia Elise Barboza-Salerno is an Assistant Professor whose work bridges social work, public health, law, and statistics. Their research examines how neighborhood conditions and environmental exposures shape violence-related harm across the life course—including child maltreatment, intimate partner violence, and gun violence—with a focus on equity and structural accountability. Methodologically, their work integrates Bayesian spatial and spatiotemporal modeling, geospatial machine learning, and remote sensing to translate complex data into actionable prevention and policy.

@@ -31,8 +31,10 @@ education:
     institution: The New School for Social Research
     year: 2019
 
+bio: "Esenia Cassidy is a PhD student and Graduate School Fellow exploring the therapeutic potential of psychedelics."
+
 user_groups:
-- People
+- Graduate Students
 ---
 
 Esenia Cassidy is a Graduate School Fellow at the [Center for Psychedelic Drug Research and Education](https://cpdre.osu.edu) at The Ohio State University. Esenia actively contributes to the CPDRE's mission of exploring the therapeutic potential of psychedelics, particularly in relation to questions of gender identity, attachment, trauma, and end-of-life care.

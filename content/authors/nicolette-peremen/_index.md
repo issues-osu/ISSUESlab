@@ -30,25 +30,17 @@ interests:
 - Mental Health Among [LGBTQ+] Teenagers
 - Drug Misuse and Abuse
 
-# Education #FILL THIS IN [Bachelor's Degree, Public Health] and [The Ohio State University]
-
 education:
   courses:
-  - course: Bachelor's Degree, Public Health
-    institution: The Ohio State University
-    year: Junior
-  - course: Bachelor's Degree, Public Health
-    institution: The Ohio State University
-    year: [Junior]
+  - course: "B.S. in Public Health (in progress)"
+    institution: "The Ohio State University"
+    year: 2027
 
 # Social/Academic Networking    
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:your.email@example.com'
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/nicolette-peremen-654a58341
+  link: https://www.linkedin.com/in/nicolette-peremen-654a58341
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,7 +53,7 @@ email: ""
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Undergraduates
 ---
 Nicolette Peremen is an Undergraduate Research Assistant and Writer in the ISSUES Lab.  
 

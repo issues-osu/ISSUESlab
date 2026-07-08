@@ -41,6 +41,8 @@ date: 2025-04-25
 - **Barboza-Salerno, G.**, Shockley McCarthy, K., Harrington, T. & Watson-Grace, A. (2025). Emotional and physical symptoms following intimate partner violence victimization in the United States: Implications for law and public health policy. *International Journal of Environmental & Public Health Research*. [https://doi.org/10.3390/ijerph22121829](https://doi.org/10.3390/ijerph22121829)
 
 ### Firearm Violence
+
+- **Barboza-Salerno, G.**, McCarthy, M., Watson-Grace, A., Harrington, T., De Atalaya Almeida Rocha, B., Alhajjaj, Z., Warren, K. & Shockley McCarthy, K. (2026). [Racial and Ethnic Disparities in Non-Fatal Self-Inflicted Firearm Injuries Among Adults in the United States, 2000–2021](/publication/racial-disparities-nonfatal-firearm-injuries/). *Journal of Community Health*.
   
 - **Barboza-Salerno, G.**, Liebhard, B. & Duhaney, S. (2025). Historical and Current Housing Discrimination and Firearm-Related Fatalities: A Bayesian Spatial Analysis. *Injury Epidemiology*. [https://doi.org/10.1186/s40621-025-00579-9](https://doi.org/10.1186/s40621-025-00579-9)
   
@@ -50,11 +52,11 @@ date: 2025-04-25
 
   <h2>Manuscripts Under Review</h2>
   
-- **Barboza-Salerno, G.**, Harrington, T., Yang, H., & Shockley McCarthy K. Utilizing Artificial Intelligence and Geospatial Analysis to Examine the Urban Built Environment, Social Vulnerability, and Child Neglect in Los Angeles. *Revise and Resubmit from Child Abuse and Neglect*.
+- **Barboza-Salerno, G.**, Harrington, T., Yang, H., & Shockley McCarthy K. [Utilizing Artificial Intelligence and Geospatial Analysis to Examine the Urban Built Environment, Social Vulnerability, and Child Neglect in Los Angeles](/publication/ai-geoanalysis-child-neglect-la/). *Revise and Resubmit from Child Abuse and Neglect*.
   
-- **Barboza-Salerno, G.**, Yang, H., Harrington, T. & Ramesh, B. Development and Spatial Validation of a Random Forest Prediction Model for Firearm-Related Injury Risk in Chicago Census Tracts. *Revise and Resubmit from Applied Spatial Analysis and Policy*.
+- **Barboza-Salerno, G.**, Yang, H., Harrington, T. & Ramesh, B. [Development and Spatial Validation of a Random Forest Prediction Model for Firearm-Related Injury Risk in Chicago Census Tracts](/publication/random-forest-firearm-injury-chicago/). *Revise and Resubmit from Applied Spatial Analysis and Policy*.
   
-- **Barboza-Salerno, G.**, & Harrington, T. Street-View Measures of Urban Greenness, Area-Level Deprivation, and the Risk of Firearm-Related Homicide: A Matched Case-Control Study. *Revise and Resubmit from Urban Forestry and Urban Greening*.
+- **Barboza-Salerno, G.**, & Harrington, T. [Street-View Measures of Urban Greenness, Area-Level Deprivation, and the Risk of Firearm-Related Homicide: A Matched Case-Control Study](/publication/greenview/). *Revise and Resubmit from Urban Forestry and Urban Greening*.
 
   <h2>Policy Briefs & Reports</h2>
   

@@ -1,7 +1,7 @@
 ---
 # Display name
-name: "Karla Shockley"
-title: "Karla Shockley"
+name: "Karla Shockley McCarthy"
+title: "Dr. Karla Shockley McCarthy"
 
 # Username (this should match the folder name)
 authors:
@@ -56,16 +56,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:your.email@example.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'mailto:karla.shockleymccarthy@osumc.edu'
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=TqxAtcsAAAAJ&view_op=list_works&sortby=pubdate
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/karla-shockley-mccarthy/
@@ -77,11 +71,11 @@ social:
 #   link: files/cv.pdf
 
 # Email for Gravatar (optional)  #FILL THIS IN
-email: ""
+email: "karla.shockleymccarthy@osumc.edu"
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Faculty
 ---
 Dr. Karla Shockley, PhD, LMSW, TRCC, FSW, is a Principal Investigator and Senior Research Consultant at the Ohio Colleges of Medicine Government Resource Center, where she leads applied health services and population health research. Her work integrates collaborative team-based design and implementation of mixed methods studies with independent contributions in survey development, data analysis, and dissemination across qualitative and quantitative domains. She focuses on translating complex data into actionable insights that inform public health policy and practice. Dr. Shockley's research also emphasizes trauma-responsive care and systems—with a particular focus on family violence and brain injury, occupational well-being, and systems equity. She applies a transdisciplinary lens, drawing from social work, education, and geospatial science, to examine how structural and environmental conditions shape outcomes for children, families, and frontline professionals.
 

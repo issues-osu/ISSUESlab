@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ISSUES | The Ohio State University # Website name
-baseURL: 'https://issues-osu/issues' # Website URL
+baseURL: 'https://issues-osu.github.io/ISSUESlab/' # Website URL
 
 ############################
 ## LANGUAGE

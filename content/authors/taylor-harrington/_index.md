@@ -42,7 +42,6 @@ education:
     institution: The State University of New York at Oswego
     year: 2021
 
-# Social/Academic Networking (professional links only)
 social:
 - icon: envelope
   icon_pack: fas
@@ -53,9 +52,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dcVgqWoAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/taylor-harrington8/
@@ -65,7 +61,7 @@ email: "harrington.448@buckeyemail.osu.edu"
 
 # Organizational groups for People widget
 user_groups:
-- People
+- Graduate Students
 ---
 Taylor Harrington is a PhD Student/Research Assistant in the ISSUES Lab. Her work focuses on environmental exposures impacting substance use, mental health, and violence, with a focus on equity to inform policy changes. She is interested in substance misuse prevention, spatial epidemiology, and violence prevention. She brings skills in R, GIS, and longitudinal methods, including Growth Curve Models and Multi-Level Modeling. She has contributed to projects such as “Redlining, reinvestment, and racial segregation: A Bayesian spatial analysis of mortgage lending trajectories and firearm-related violence” and “The land cover paradox: Characteristics of blue- and green spaces within and beyond high-risk suicide clusters”.
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Abdulgafar-Olorede"
+name: "Abdulgafar Olorede"
 title: "Abdulgafar Olorede"
 
 authors:
@@ -21,7 +21,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts) #FILL THIS IN ONE SENTENCE
-bio: Abdulgafar Abidemi Olorede is an incoming Ph.D. student at The Ohio State University, College of Social Work (Autumn 2026 cohort). He holds a Master’s degree in Social Work from the University of Benin, Nigeria, (2023) and a Bachelor’s degree in Social Work from the University of Ilorin, Nigeria (2019) Prior to his admission, he served as a lecturer and field practicum supervisor in the Department of Social Work at Osun State University, Nigeria, where he mentored students and coordinated experiential field training.
+bio: "Abdulgafar Abidemi Olorede is an incoming Ph.D. student at The Ohio State University, College of Social Work (Autumn 2026 cohort). He holds a Master’s degree in Social Work from the University of Benin, Nigeria (2023) and a Bachelor’s degree in Social Work from the University of Ilorin, Nigeria (2019)."
 
 # Research interests #FILL THIS IN
 interests:
@@ -32,26 +32,25 @@ interests:
 - Mental Health
 - Community Development
 
-# Education #FILL THIS IN [Degree, Major] and [University]
-
+# Education [Degree, Major] and [University]
 education:
   courses:
-  - Social Work: [M.SC, Social Work]
-    institution: [University of Bennin Nigeria]
-    year: [2023]
-  - Social Work: [B.sc, Social Work]
-    institution: [University of Ilorin, Nigeria]
-    year: [2019]
+  - course: "M.Sc. in Social Work"
+    institution: "University of Benin, Nigeria"
+    year: 2023
+  - course: "B.Sc. in Social Work"
+    institution: "University of Ilorin, Nigeria"
+    year: 2019
 
-# Social/Academic Networking   #FILL THIS IN but ONLY THE LINK TO YOUR PROFESSIONAL WEBSITE
+# Social/Academic Networking but ONLY THE LINK TO YOUR PROFESSIONAL WEBSITE
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:olorede.1@buckeyemail.osu.edu'
-- icon: X
-  icon_pack: Fab
+- icon: twitter
+  icon_pack: fab
   link: https://x.com/olorede_gafar
-- icon: Google-scholar
+- icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=NfFWhtAAAAAJ
 - icon: github
@@ -59,10 +58,7 @@ social:
   link: https://github.com/Olorede
 - icon: linkedin
   icon_pack: fab
-  link: https:www.linkedin.com/in/olorede-abdulgafar-abidemi-789267154
-- icon: Researchgate
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Abdulgafar-Olorede
+  link: https://www.linkedin.com/in/olorede-abdulgafar-abidemi-789267154
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,7 +71,7 @@ email: olorede.1@buckeyemail.osu.edu
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Graduate Students
 ---
 
 Abdulgafar Abidemi Olorede is an incoming Ph.D. student at The Ohio State University, College of Social Work (Autumn 2026 cohort).

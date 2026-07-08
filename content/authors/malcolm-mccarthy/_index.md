@@ -4,7 +4,7 @@ name: "Malcolm McCarthy"
 title: "Malcolm McCarthy"
 
 authors:
-- malcolm-mcCarthy 
+- malcolm-mccarthy 
 
 weight: 41
 
@@ -29,16 +29,12 @@ interests:
 - Geospatial indicators of economic prosperity
 - Visual language cognition in signing populations
 
-# Education #FILL THIS IN [Bachelors of Science, Psychology] and [The Ohio State University]
-
+# Education
 education:
   courses:
-  - course: Abnormal Psychology, Psychology
-    institution: The Ohio State University
-    year: 2022
-  - course: Elemanty GIS, GIS
-    institution: The Ohio State University
-    year: 2025
+  - course: "B.S. in Psychology (in progress)"
+    institution: "The Ohio State University"
+    year: 2027
 
 # Social/Academic Networking   #FILL THIS IN but ONLY THE LINK TO YOUR PROFESSIONAL WEBSITE
 social:
@@ -57,7 +53,7 @@ email: ""
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Undergraduates
 ---
 Malcolm McCarthy is an Undergraduate Geospatial Analyst in the ISSUES Lab. His work focuses on mental health and socioeconomic predictors of wellbeing. He is interested in spatial epidemiology of depression, environmental correlates of substance abuse, and factors of suicide risk. 
 

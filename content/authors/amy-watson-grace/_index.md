@@ -1,7 +1,7 @@
 ---
 # Display name
-name: "Amy Watson-Grace"
-title: "Amy Watson-Grace"
+name: "Dr. Amy Watson-Grace"
+title: "Dr. Amy Watson-Grace"
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts) #FILL THIS IN ONE SENTENCE
-bio: "Amy Watson-Grace is a PhD candidate and occupational therapist with advanced pediatric board certification and extensive clinical and leadership experience."
+bio: "Dr. Amy Watson-Grace is a PhD candidate and occupational therapist with advanced pediatric board certification and extensive clinical and leadership experience."
 
 # Research interests #FILL THIS IN
 interests:
@@ -54,13 +54,7 @@ social:
   link: 'mailto:amy.watson-grace@osumc.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/@AmyWGraceOT
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=Amy Watson-Grace
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://twitter.com/AmyWGraceOT
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/amywatsongrace/
@@ -76,9 +70,9 @@ email: "Amy.Watson-Grace@osumc.edu"
 
 # Organizational groups for People widget  #IGNORE THIS
 user_groups:
-- People
+- Graduate Students
 ---
-Amy Watson-Grace is a PhD candidate in the ISSUES Lab.  
+Dr. Amy Watson-Grace is a PhD candidate in the ISSUES Lab.  
 
 Their work focuses on disparities in access to clinical and educational services for marginalized populations across the lifespan.. They are interested in mixed methods, advanced statistical methods, marginalized populations, inequities in clinical and educational experiences, and special education policy.  
 

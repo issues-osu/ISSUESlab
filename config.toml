@@ -1,17 +1,24 @@
 baseURL = "https://issues-osu.github.io/ISSUESlab/"
-title = "My Hugo Site"
+title = "ISSUES Lab — The Ohio State University"
 languageCode = "en-us"
 paginate = 10
 theme = "hugo-blox-builder"
 google_analytics = ""  # leave blank or add your GA4 ID e.g. "G-XXXXXXX"
+
+# CRITICAL: Allow raw HTML in markdown blocks (e.g. leaflethydro, icons, customized layouts)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Enable modules if using Hugo Modules (required for Blox themes)
 [module]
   replacements = "github.com/HugoBlox/hugo-blox-builder -> themes/hugo-blox-builder"
 
 # Params required by some partials (like SEO & analytics)
 [params]
-  description = "This is a demo site"
-  author = "Your Name"
+  description = "The ISSUES Lab at The Ohio State University applies advanced spatial, statistical, and machine learning methods to maternal and child health, environmental justice, interpersonal violence, education, and substance use."
+  author = "ISSUES Lab — The Ohio State University"
 
 [params.assets]
   favicon = "favicon.png"
@@ -20,14 +27,6 @@ google_analytics = ""  # leave blank or add your GA4 ID e.g. "G-XXXXXXX"
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
 
-# Optional menus if theme expects them
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+# Main menu configuration is handled in config/_default/menus.yaml
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+
