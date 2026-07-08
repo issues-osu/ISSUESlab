@@ -21,7 +21,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:weir.henriikka@osu.edu"
+  link: "mailto:hweir@uccs.edu"
 user_groups:
 - Faculty
 ---
