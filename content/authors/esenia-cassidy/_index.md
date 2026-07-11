@@ -5,7 +5,7 @@ weight: 30
 authors:
 - esenia-cassidy
 superuser: false
-role: "PhD Student, Social Work"
+role: "PhD Student, Graduate Research Assistant"
 organizations:
 - name: "The Ohio State University"
   url: "https://csw.osu.edu"
@@ -13,35 +13,38 @@ organizations:
   url: "https://cpdre.osu.edu"
 
 interests:
-- Psychedelics
-- Attachment
-- Gender
-- Trauma
-- End of Life
+- Psychedelic use and mental health
+- Aging and end of life care
+- Attachment and trauma
+- Gender identity and LGBTQIA+ experiences
 
 education:
   courses:
-  - course: PhD in Social Work
-    institution: The Ohio State University
-    year: 2028
   - course: MA in Psychology
     institution: The New School for Social Research
     year: 2022
-  - course: BA in Psychology
-    institution: The New School for Social Research
-    year: 2019
 
-bio: "Esenia Cassidy is a PhD student and Graduate School Fellow exploring the therapeutic potential of psychedelics."
+bio: "Esenia Cassidy is a PhD Student at The Ohio State University’s College of Social Work whose research is focused on interactions between attachment, trauma, gender identity, mental health, end-of-life care, and use of psychedelics. Beyond CSW/OSU, Esenia is a co-founder of The Psychedelic Humanities Lab at The New School for Social Research (NSSR) and a project lead at the SexTech Lab (NSSR) and the Granqvist Attachment & Psychedelics Lab (Stockholm University)."
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:Cassidy.300@osu.edu"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/esenia-k-cassidy/"
+- icon: google-scholar
+  icon_pack: ai
+  link: "https://scholar.google.com/citations?user=yQBPpT0AAAAJ&hl=en"
+
+email: "Cassidy.300@osu.edu"
 
 user_groups:
 - Graduate Students
 ---
 
-Esenia Cassidy is a Graduate School Fellow at the [Center for Psychedelic Drug Research and Education](https://cpdre.osu.edu) at The Ohio State University. Esenia actively contributes to the CPDRE's mission of exploring the therapeutic potential of psychedelics, particularly in relation to questions of gender identity, attachment, trauma, and end-of-life care.
+Esenia Cassidy is a PhD Student at The Ohio State University’s College of Social Work whose research is focused on interactions between attachment, trauma, gender identity, mental health, end-of-life care, and use of psychedelics. Beyond CSW/OSU, Esenia is a co-founder of The Psychedelic Humanities Lab at The New School for Social Research (NSSR) and a project lead at the SexTech Lab (NSSR) and the Granqvist Attachment & Psychedelics Lab (Stockholm University).
 
-A PhD student at the [College of Social Work](https://csw.osu.edu) (OSU), Esenia's interdisciplinary approach is rooted in commitment to addressing complex societal issues through diverse innovative research and clinical practice.
-
-Beyond CPDRE/OSU, Esenia is a co-founder of [The Psychedelic Humanities Lab](https://www.newschool.edu/nssr/) at The New School for Social Research (NSSR) and a project lead at the SexTech Lab (NSSR) and the [Granqvist Attachment & Psychedelics Lab](https://www.su.se/english/) (Stockholm University). Esenia earned a master's degree in psychology with a concentration in substance misuse counseling from NSSR.
 
 ## Awards, Honors, and Grants
 

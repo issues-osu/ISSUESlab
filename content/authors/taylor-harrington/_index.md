@@ -13,7 +13,7 @@ weight: 20
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate, Methodologist
 
 # Organizations/Affiliations
 organizations:
@@ -21,13 +21,14 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Taylor Harrington is a third-year public health doctoral student whose research investigates substance use, mental health, and violence through an equity-focused lens to inform policy change."
+bio: "Taylor Harrington, MS, is a PhD candidate in Public Health at The Ohio State University. To investigate how multi-level factors shape health behaviors and outcomes, she integrates advanced computational and geospatial methods, including machine learning (e.g., computer vision, random forests, structured topic modeling, text mining) and geospatial modeling (e.g., Bayesian spatial modeling, remote sensing). Through this work, she aims to generate actionable evidence to inform equitable health policy and community-level interventions."
 
 # Research interests
 interests:
 - Substance Use
-- Mental Health
 - Violence Prevention
+- Mental Health
+- Computational & Geospatial Methods
 
 # Education
 education:
@@ -36,7 +37,7 @@ education:
     institution: The Ohio State University — College of Public Health
     year: 2027
   - course: MS in Psychology
-    institution: Mercy College
+    institution: Mercy University
     year: 2023
   - course: BA in Psychology
     institution: The State University of New York at Oswego
@@ -51,7 +52,10 @@ social:
   link: https://x.com/448Harrington
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=dcVgqWoAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=dcVgqWoAAAAJ&view_op=list_works&gmla=AKzYXQ3Ohuz_r03ZEy7slqQoStAOuk21LWRZXBTx_zbBi8dQJ1js09-7w1HtmluCWQ--ealDB1hg0sF7k71rd_ZS
+- icon: github
+  icon_pack: fab
+  link: https://github.com/tharrin
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/taylor-harrington8/
@@ -63,8 +67,11 @@ email: "harrington.448@buckeyemail.osu.edu"
 user_groups:
 - Graduate Students
 ---
-Taylor Harrington is a PhD Student/Research Assistant in the ISSUES Lab. Her work focuses on environmental exposures impacting substance use, mental health, and violence, with a focus on equity to inform policy changes. She is interested in substance misuse prevention, spatial epidemiology, and violence prevention. She brings skills in R, GIS, and longitudinal methods, including Growth Curve Models and Multi-Level Modeling. She has contributed to projects such as “Redlining, reinvestment, and racial segregation: A Bayesian spatial analysis of mortgage lending trajectories and firearm-related violence” and “The land cover paradox: Characteristics of blue- and green spaces within and beyond high-risk suicide clusters”.
+Taylor Harrington, MS, is a PhD candidate in Public Health at The Ohio State University. Her research uses social determinants of health frameworks to understand the complex, multilevel drivers of health disparities. Her work focuses on the intersection of substance use, intimate partner violence, and mental health as key contributors to health risks and outcomes. 
+
+To investigate how these factors shape health behaviors and outcomes, she integrates advanced computational and geospatial methods, including machine learning (e.g., computer vision, random forests, structured topic modeling, text mining) and geospatial modeling (e.g., Bayesian spatial modeling, remote sensing). Through this work, she aims to generate actionable evidence to inform equitable health policy and community-level interventions.
 
 ### Awards and honors
 
-* Master’s in Psychology Student Excellence Award, Mercy College, 2023
+* Master’s in Psychology Student Excellence Award, Mercy University, 2023
+

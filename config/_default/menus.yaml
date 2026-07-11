@@ -53,7 +53,7 @@ main:
     url: '/policy-briefs/'
     weight: 23
 
-  - name: Shared Goals & Values
+  - name: Lab Members
     identifier: community
     url: '/community/'
     weight: 30
@@ -78,15 +78,35 @@ main:
     url: '/works-in-progress/'
     weight: 40
 
-  - name: Manuscripts
+  - name: Research
     parent: works_in_progress
-    url: '/works-in-progress/manuscripts/'
+    url: '/works-in-progress/'
     weight: 41
 
-  - name: Presentations
+  - name: "  • Manuscripts in Progress"
+    parent: works_in_progress
+    url: '/works-in-progress/manuscripts/'
+    weight: 42
+
+  - name: "  • Presentations"
     parent: works_in_progress
     url: '/works-in-progress/presentations/'
-    weight: 42
+    weight: 43
+
+  - name: Teaching
+    parent: works_in_progress
+    url: '#'
+    weight: 44
+
+  - name: Community
+    parent: works_in_progress
+    url: '#'
+    weight: 45
+
+  - name: "  • Consulting"
+    parent: works_in_progress
+    url: '#'
+    weight: 46
 
   - name: Resources
     identifier: resources
@@ -107,6 +127,10 @@ main:
     parent: resources
     url: '/resources/tutorials/'
     weight: 53
+
+  - name: Blog
+    url: 'https://bigdataforsocialjustice.medium.com/'
+    weight: 55
 
   - name: Contact
     url: '#contact'

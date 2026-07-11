@@ -1,7 +1,7 @@
 ---
 # Display name
-name: "Abdulgafar Olorede"
-title: "Abdulgafar Olorede"
+name: "Olorede Abdulgafar A."
+title: "Olorede Abdulgafar A."
 
 authors:
 - abdulgafar-olorede 
@@ -12,7 +12,7 @@ weight: 31
 superuser: false
 
 # Role/position
-role: Incoming PhD Student
+role: Graduate Research Assistant
 
 # Organizations/Affiliations #FILL THIS IN
 
@@ -21,16 +21,13 @@ organizations:
   url: https://www.osu.edu/
 
 # Short bio (displayed in user profile at end of posts) #FILL THIS IN ONE SENTENCE
-bio: "Abdulgafar Abidemi Olorede is an incoming Ph.D. student at The Ohio State University, College of Social Work (Autumn 2026 cohort). He holds a Master’s degree in Social Work from the University of Benin, Nigeria (2023) and a Bachelor’s degree in Social Work from the University of Ilorin, Nigeria (2019)."
+bio: "My motivation is to advance human rights, social justice, and equity, particularly for vulnerable children and families in underserved and culturally diverse communities locally and internationally. Abdulgafar aims to influence child welfare policy and practice in Nigeria and contribute to the global discourse on social welfare policy and social work practice, driving meaningful impact at both local and international levels."
 
 # Research interests #FILL THIS IN
 interests:
 - Social Welfare
-- Child Maltreatment
-- Child Abuse
-- Substance use and Drug Abuse
-- Mental Health
-- Community Development
+- Child Maltreatment and Abuse
+- Substance Use and Drug Abuse
 
 # Education [Degree, Major] and [University]
 education:
@@ -47,18 +44,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:olorede.1@buckeyemail.osu.edu'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:abdulgafar.olorede@uniosun.edu.ng'
 - icon: twitter
   icon_pack: fab
-  link: https://x.com/olorede_gafar
+  link: https://tr.ee/UKbY4NEbYE
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=NfFWhtAAAAAJ
+  link: https://scholar.google.com/citations?user=NfFWhtAAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/Olorede
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/olorede-abdulgafar-abidemi-789267154
+  link: https://tr.ee/e_05iuu4OE
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,15 +74,7 @@ user_groups:
 - Graduate Students
 ---
 
-Abdulgafar Abidemi Olorede is an incoming Ph.D. student at The Ohio State University, College of Social Work (Autumn 2026 cohort).
-
-He holds a Master’s degree in Social Work from the University of Benin, Nigeria, (2023) and a Bachelor’s degree in Social Work from the University of Ilorin, Nigeria (2019) Prior to his admission, he served as a lecturer and field practicum supervisor in the Department of Social Work at Osun State University, Nigeria, where he mentored students and coordinated experiential field training.
-
-Abdulgafar has contributed to scholarly literature across diverse areas of social work and social development. His publications include works on recidivism and security challenges, food insecurity amid global crises, conceptual frameworks in child welfare systems, exclusive breastfeeding practices, community development participation, COVID-19 policing and public compliance, and the roles and constraints of social workers in healthcare and alternative health-seeking behaviors. These contributions reflect his commitment to advancing research and evidence-based solutions to pressing social challenges in Nigeria and beyond.
-His research interests focus on child welfare, child abuse and maltreatment, and substance use prevention and treatment.
-
-Abdulgafar is passionate about advancing human rights, social justice, and equity, particularly for vulnerable children and families in underserved and culturally diverse communities.
-Through his doctoral studies, he aims to influence child welfare policy and practice in Nigeria and contribute to the global discourse on education, policy, and social work practice, driving meaningful impact at both local and international levels.
+My motivation is to advance human rights, social justice, and equity, particularly for vulnerable children and families in underserved and culturally diverse communities locally and internationally. Abdulgafar aims to influence child welfare policy and practice in Nigeria and contribute to the global discourse on social welfare policy and social work practice, driving meaningful impact at both local and international levels.
 
 ### Certifications
 
