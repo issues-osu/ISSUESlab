@@ -88,7 +88,10 @@ They bring skills in R, hierarchical modeling, codebook/template thematic analys
 
 ### Awards and honours
 
-* Best Oral Presentation, Ohio State University HRS Research Day, 2024, 2025  
+* Ohio State University Presidential Fellowship, 2026
+* Best Oral Presentation, Ohio State University Hayes Forum, 2026
+* Ray Travel Award, 2026
+* Best Oral Presentation, Ohio State University HRS Research Day, 2024, 2025
 * HRS Travel Award, Ohio State University, 2025
 * Rector Fellowship, Ohio State University, 2024
 * College of Medicine, Office of Diversity & Inclusion Travel Award, Ohio State University, 2024

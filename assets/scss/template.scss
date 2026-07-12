@@ -24,3 +24,33 @@
 .home-section {
   padding: 2rem 0 !important;
 }
+
+// Constrain card thumbnail images (.article-banner) to fit their container
+.card-simple {
+  overflow: hidden;
+}
+
+.img-hover-zoom {
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+.img-hover-zoom img,
+img.article-banner {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+  object-fit: cover;
+}
+
+// Constrain inline images inside article/post body content
+.article-style img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+}

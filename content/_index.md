@@ -18,15 +18,6 @@ sections:
           <p style="font-size: 1.25rem; font-weight: 500; color: #666; margin-top: 10px; margin-bottom: 5px;">Translating structural inequality into social and legal policy</p>
           <p style="font-size: 1.25rem; font-weight: 500; color: #666; margin-top: 0;">The Ohio State University</p>
         </div>
-
-        ## In the News
-
-        - **[New Publication: Racial and Ethnic Disparities in Non-Fatal Self-Inflicted Firearm Injuries](/publication/racial-disparities-nonfatal-firearm-injuries/)** published in the *Journal of Community Health* (June 2026).
-        - **[Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence](https://csw.osu.edu/blog/2026/01/06/dr-barboza-salerno-addresses-grand-challenge-to-prevent-gun-violence/)**
-        - **Congratulations to Dr. Amy Watson-Grace for receiving the prestigious Presidential Fellowship**
-        - **Congratulations to Olivia McLucas for being awarded a scholarship to study statistics from the Colleges of Arts and Sciences**
-        - **Congratulations to Hexin Yang and Taylor Harrington who have recently become PhD candidates**
-        - **Welcome to our new Graduate Research Assistants joining the ISSUES Lab!**
     design:
       columns: '1'
 
@@ -44,21 +35,17 @@ sections:
     design:
       columns: '2'
 
-  - block: markdown
+  - block: collection
     content:
-      title: Media Engagement
-      text: |
-        Our work on gun violence was featured on David Reidman's podcast. Riedman is the creator of the [School Shooting Database](https://k12ssdb.org/) and widely used dataset to examine school shootings.
-
-        <div style="display:flex;justify-content:center;align-items:center;">
-          <div class="substack-post-embed">
-            <p lang="en">Ep 29. Gun violence exposure on walkable routes to and from school by David Riedman, PhD</p>
-            <p>Using data from acoustic-detection sensors, a new study found alarming spatial patterns of gun-violence exposure along walkable routes to and from schools in Englewood, Chicago.</p>
-            <a data-post-link href="https://k12ssdb.substack.com/p/ep-29-gun-violence-exposure-on-walkable">Read on Substack</a>
-          </div>
-        </div>
-        <script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+      title: In the News
+      subtitle:
+      count: 10
+      filters:
+        exclude_featured: false
+      order: desc
+      page_type: news
     design:
+      view: compact
       columns: '2'
 
   - block: collection
@@ -84,7 +71,7 @@ sections:
       filters:
         exclude_featured: false
       order: desc
-      page_type: news
+      page_type: presentations
     design:
       view: card
       columns: '2'

@@ -3,35 +3,25 @@ main:
     url: '/'
     weight: 1
 
-  - name: Research Areas
-    identifier: research_areas
-    url: '/research/'
-    weight: 10
+  - name: About Us
+    identifier: about_us
+    url: '/about/'
+    weight: 5
 
-  - name: Violence Across the Lifespan
-    parent: research_areas
-    url: '/research/violence/'
-    weight: 11
+  - name: History
+    parent: about_us
+    url: '#'
+    weight: 6
 
-  - name: Adverse Childhood Experiences
-    parent: research_areas
-    url: '/research/aces/'
-    weight: 12
+  - name: Our Work
+    parent: about_us
+    url: '/our-work/'
+    weight: 7
 
-  - name: Drug Use, Overdose & Policy
-    parent: research_areas
-    url: '/research/overdose/'
-    weight: 13
-
-  - name: Education & Youth Safety
-    parent: research_areas
-    url: '/research/education/'
-    weight: 14
-
-  - name: Maternal & Child Health
-    parent: research_areas
-    url: '/research/reproductive-justice/'
-    weight: 15
+  - name: Shared Goals & Values
+    parent: about_us
+    url: '#'
+    weight: 8
 
   - name: Research
     identifier: research
@@ -57,6 +47,10 @@ main:
     identifier: community
     url: '/community/'
     weight: 30
+
+  - name: News
+    url: '/news/'
+    weight: 35
 
   - name: Faculty
     parent: community
@@ -129,7 +123,7 @@ main:
     weight: 53
 
   - name: Blog
-    url: 'https://bigdataforsocialjustice.medium.com/'
+    url: '/post/'
     weight: 55
 
   - name: Contact
