@@ -31,7 +31,7 @@ sections:
 
         Our work spans environmental justice, housing justice, child and family well-being, injury and violence prevention, mental health, and climate-related health inequities. We translate complex spatial data into actionable evidence for policymakers, public health practitioners, attorneys, judges, and community organizations, developing data-driven strategies that promote healthier, safer, and more equitable communities.
 
-        We are a multidisciplinary team of scholar/activists from diverse disciplines with a shared research goal of strengthening families by highlighting their assets while addressing barriers to health. Each individual has a bio page that can be accessed [here](/people).
+        We are a multidisciplinary team of scholar/activists from diverse disciplines with a shared research goal of strengthening families by highlighting their assets while addressing barriers to health. Each individual has a bio page that can be accessed [here](/ISSUESlab/people/).
 
         We are proudly based at the <a href="https://csw.osu.edu">Colleges of Social Work and Public Health</a> at the <a href="https://cph.osu.edu">The Ohio State University</a>, a leading global university in the state of Ohio, USA.
     design:

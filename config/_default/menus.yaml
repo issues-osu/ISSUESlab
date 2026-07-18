@@ -44,28 +44,12 @@ main:
     weight: 23
 
   - name: Lab Members
-    identifier: community
-    url: '/community/'
+    url: '/people/'
     weight: 30
 
   - name: News
     url: '/news/'
     weight: 35
-
-  - name: Faculty
-    parent: community
-    url: '/community/faculty/'
-    weight: 31
-
-  - name: Graduate Students
-    parent: community
-    url: '/community/graduate/'
-    weight: 32
-
-  - name: Undergraduates
-    parent: community
-    url: '/community/undergraduates/'
-    weight: 33
 
   - name: Works in Progress
     identifier: works_in_progress
