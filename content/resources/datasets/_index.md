@@ -1,7 +1,7 @@
 ---
 title: "Data Sources"
 subtitle: "Curated Resources for Research and Analysis"
-date: 2026-02-03
+date: 2026-07-18
 toc: true
 toc-depth: 3
 toc-title: "Contents"
@@ -9,12 +9,107 @@ toc-title: "Contents"
 
 ## Overview
 
-This page provides a comprehensive collection of data sources used in my research and teaching. Resources are organized by topic area and include both freely available and restricted-access datasets.
+This page provides a comprehensive collection of data sources used in our research and teaching. Resources are organized by topic area and include both freely available and restricted-access datasets.
 
 <div class="alert alert-note" style="background-color: #eef4f9; border-left: 5px solid #007bff; padding: 15px; margin-bottom: 20px;">
-<strong>Last Updated:</strong> 2026-02-03
+<strong>Last Updated:</strong> 2026-07-18
 
-Links are checked regularly, but availability may change. Please contact me if you find broken links.</div>
+Links are checked regularly, but availability may change. Please contact us if you find broken links.</div>
+
+------------------------------------------------------------------------
+
+## 🔬 Featured ISSUES Lab Datasets
+
+These datasets are actively used in ISSUES Lab research projects. They span public health, neighborhood conditions, social connectedness, housing, and traumatic brain injury.
+
+---
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🏥 National Hospital Ambulatory Medical Care Survey (NHAMCS) — Emergency Department Module, 2021</strong>
+
+<ul>
+<li><strong>Provider:</strong> National Center for Health Statistics (NCHS), CDC</li>
+<li><strong>Description:</strong> Annual survey of visits to hospital emergency and outpatient departments across the U.S. The 2021 ED module captures patient demographics, diagnoses, procedures, medications, and visit characteristics. Used in ISSUES Lab research on violence-related injury, IPV, and emergency care disparities.</li>
+<li><strong>Time Period:</strong> 2021 (annual series available 1992–present)</li>
+<li><strong>Format:</strong> SPSS (.sps), CSV</li>
+<li><strong>Access:</strong> <a href="https://www.cdc.gov/nchs/ahcd/index.htm">CDC NHAMCS Website</a></li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🩺 National Health Interview Survey (NHIS) — 2022 Adult & Child Files</strong>
+
+<ul>
+<li><strong>Provider:</strong> National Center for Health Statistics (NCHS), CDC</li>
+<li><strong>Description:</strong> Flagship annual household health survey covering health status, access to care, and health behaviors for U.S. adults and children. The 2022 release includes separate adult and child sample files with pair-weight files for family-level analysis. Used in ISSUES Lab research on child and family well-being and health disparities.</li>
+<li><strong>Time Period:</strong> 2022 (annual series available 1957–present)</li>
+<li><strong>Format:</strong> CSV (adult, child, pair-weight files)</li>
+<li><strong>Access:</strong> <a href="https://www.cdc.gov/nchs/nhis/index.htm">CDC NHIS Website</a></li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🤝 Reconstructed Social Capital Atlas Dataset (Census Tract Level)</strong>
+
+<ul>
+<li><strong>Provider:</strong> David Zhu (Virginia Commonwealth University), hosted on OSF</li>
+<li><strong>Description:</strong> Census-tract level social capital dataset reconstructed from multiple administrative and survey sources. Captures dimensions of social connectedness, civic participation, and community cohesion. Includes combined CSV, R scripts for construction, and full documentation. Used in ISSUES Lab research on neighborhood resilience, climate adaptive capacity, and family well-being.</li>
+<li><strong>Time Period:</strong> 2026 (constructed from multiple source years)</li>
+<li><strong>Format:</strong> CSV, XLSX</li>
+<li><strong>DOI:</strong> <a href="https://doi.org/10.17605/OSF.IO/H7URM">10.17605/OSF.IO/H7URM</a></li>
+<li><strong>Access:</strong> <a href="https://osf.io/9fwvd">OSF Repository</a></li>
+<li><strong>License:</strong> Open access</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🏘️ Gentrification Dataset (GENTDATA), 1970–2019</strong>
+
+<ul>
+<li><strong>Provider:</strong> Research data repository (DataVerse)</li>
+<li><strong>Description:</strong> Longitudinal dataset measuring neighborhood gentrification across U.S. census tracts from 1970 to 2019. Includes composite gentrification indices, housing value changes, demographic shift indicators, and income transitions. Available in multiple formats. Used in ISSUES Lab research on housing displacement, neighborhood change, and health inequities.</li>
+<li><strong>Time Period:</strong> 1970–2019</li>
+<li><strong>Format:</strong> CSV, Stata (.dta), R (.rds), SPSS (.sav), SAS (.xpt)</li>
+<li><strong>Codebook:</strong> Gentrification 1970–2019 Codebook (available with dataset)</li>
+<li><strong>Access:</strong> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NLKZPA">Harvard Dataverse</a></li>
+<li><strong>License:</strong> CC0 / Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🗺️ National Zoning and Land Use Database (NZLUD)</strong>
+
+<ul>
+<li><strong>Provider:</strong> Urban-Brookings Tax Policy Center / Research consortium</li>
+<li><strong>Description:</strong> Comprehensive national database of local zoning and land use regulations across U.S. jurisdictions. Captures allowable land uses, density restrictions, minimum lot sizes, parking requirements, and affordability provisions. Used in ISSUES Lab research on housing accessibility, environmental justice, and neighborhood built environment.</li>
+<li><strong>Format:</strong> Shapefile / GeoJSON (spatial), CSV (tabular)</li>
+<li><strong>Access:</strong> <a href="https://github.com/mtmleczko/nzlud">NZLUD GitHub Repository</a></li>
+<li><strong>License:</strong> Open access</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🏠 Zillow Home Value Index (ZHVI) — Single-Family & Condo, Smoothed & Seasonally Adjusted</strong>
+
+<ul>
+<li><strong>Provider:</strong> Zillow Research</li>
+<li><strong>Description:</strong> Monthly smoothed, seasonally-adjusted home value estimates at the ZIP code level for single-family residences and condominiums, covering the middle tier (33rd–67th percentile) of the housing market. Used in ISSUES Lab research on housing affordability, neighborhood economic conditions, and displacement risk.</li>
+<li><strong>Time Period:</strong> Monthly series (available from early 2000s to present)</li>
+<li><strong>Format:</strong> CSV</li>
+<li><strong>Access:</strong> <a href="https://www.zillow.com/research/data/">Zillow Research Data</a></li>
+<li><strong>License:</strong> Free for non-commercial research use</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🧠 Traumatic Brain Injury Model Systems (TBIMS) National Database</strong>
+
+<ul>
+<li><strong>Provider:</strong> TBIMS National Data and Statistical Center (TBINDSC), Craig Hospital</li>
+<li><strong>Description:</strong> One of the largest longitudinal TBI datasets in the world, containing information on over 20,000 individuals with moderate-to-severe TBI. Covers pre-injury characteristics, acute hospitalization, inpatient rehabilitation, and long-term follow-up outcomes up to 30 years post-injury. Includes functional status, cognitive outcomes, community participation, quality of life, and employment. A de-identified public use file is available for download. Used in ISSUES Lab research on TBI, IPV-related brain injury, and long-term health consequences of violence.</li>
+<li><strong>Time Period:</strong> 1988–present (longitudinal)</li>
+<li><strong>Format:</strong> SAS, SPSS, CSV (public use file)</li>
+<li><strong>Access:</strong> <a href="https://www.tbindsc.org">TBINDSC Website (tbindsc.org)</a> — Complete a short data request form to receive download link</li>
+<li><strong>Data Dictionary:</strong> Available at <a href="https://www.tbindsc.org">tbindsc.org</a></li>
+<li><strong>Contact:</strong> tbimsdata@craighospital.org</li>
+<li><strong>License:</strong> Public use file freely available; restricted data requires formal request</li>
+</ul></div>
 
 ------------------------------------------------------------------------
 
