@@ -6,7 +6,7 @@ weight: 10
 
 ## Our Mission
 
-The ISSUES Lab is a research group that applies advanced statistical and spatial analysis to understand neighborhood conditions and translate data into actionable insights that inform public health policies and legal strategies aimed at building healthier communities. 
+The ISSUES Lab is a transdisciplinary research group that applies advanced spatial statistics, geospatial artificial intelligence (GeoAI), and machine learning to understand how neighborhood environments shape health, safety, and social well-being. By integrating large-scale administrative, environmental, health, and geospatial datasets, we generate evidence that informs public health policy, legal decision-making, and community interventions.
 
 Our mission is to do applied work that impacts social policy by leveraging data and recent advances in spatial and statistical analysis. We are particularly interested in the intersection of the social and physical environment and its impact on child and adolescent well-being broadly defined. This includes adverse childhood experiences, child abuse and neglect, and other experiences of trauma.
 
@@ -16,7 +16,9 @@ Our mission is to do applied work that impacts social policy by leveraging data 
 
 We are a multidisciplinary team of scholar-activists from diverse backgrounds with a shared research goal of strengthening families by highlighting their assets while addressing barriers to health. We are united around our passion for improving the lives of children and families.
 
-Our work is driven by advances in machine learning, geospatial science, and the growing availability of big data. We focus on applying these tools to investigate how environmental exposures—such as neighborhood disinvestment, surveillance, and built environment risks—contribute to harm and system involvement. Our goal is to translate data into legal, policy, and practice solutions that promote the health and well-being of children, adolescents, and families.
+Our research is grounded in the recognition that where people live fundamentally influences health and opportunity. We investigate how structural and environmental conditions—including neighborhood deprivation, environmental hazards, housing instability, land use, transportation access, climate-related risks, surveillance, and the built environment—contribute to health disparities and involvement with child welfare, healthcare, and the justice system. Using advanced analytical approaches, including Bayesian spatial modeling, multilevel modeling, spatial epidemiology, geospatial machine learning, and foundation models for satellite imagery, we identify geographic patterns of risk and resilience across communities.
+
+Our work spans environmental justice, housing justice, child and family well-being, injury and violence prevention, mental health, and climate-related health inequities. We translate complex spatial data into actionable evidence for policymakers, public health practitioners, attorneys, judges, and community organizations, developing data-driven strategies that promote healthier, safer, and more equitable communities.
 
 ---
 
