@@ -36,8 +36,4 @@ tags:
 research_areas:
   - "violence-related-harm"
 ---
-### Plain-Language Summary
 
-This study investigates the lasting emotional and physical symptoms experienced by survivors of intimate partner violence (IPV) in the United States. Analyzing national survey data from 2009 to 2023, the researchers examined whether sustaining a serious physical injury (such as broken bones, gunshot wounds, internal injuries, or loss of consciousness) is associated with subsequent health symptoms.
-
-The findings reveal that IPV survivors who sustain serious injuries have significantly higher odds of experiencing both emotional symptoms (such as feeling vulnerable, unsafe, or distrustful) and physical symptoms (including headaches, chronic fatigue, and muscle tension). This highlights the compounding burden of physical injury on overall well-being and emphasizes the critical need for integrated medical, legal, and mental health interventions to support survivors.
