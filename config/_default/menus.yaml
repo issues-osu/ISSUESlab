@@ -20,7 +20,7 @@ main:
 
   - name: Shared Goals & Values
     parent: about_us
-    url: '#'
+    url: '/community/'
     weight: 8
 
   - name: Research
