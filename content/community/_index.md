@@ -78,10 +78,6 @@ When we collaborate on a project:
 - Conversations about authorship should occur early and continue throughout the project as contributions evolve.
 - Before submission, the first author should ensure that all collaborators understand and agree with the proposed authorship order whenever possible.
 
-When disagreements arise, we encourage collaborators to discuss them directly, respectfully, and professionally. These conversations are an important part of becoming independent researchers.
-
-Because many lab members collaborate across multiple projects, routine authorship discussions should remain among the project team rather than involving the lab director. This helps maintain fairness and avoids placing one person in the position of deciding among collaborators. If a serious ethical concern arises, we will address it together.
-
 When someone develops an original research idea, that person leads the project. They establish the vision, coordinate the work, and make authorship decisions after thoughtful discussion with collaborators. These expectations apply equally to everyone in the lab.
 
 ---
@@ -108,7 +104,7 @@ One expectation, however, is shared by everyone: **participation**.
 
 We ask each member to attend lab meetings whenever possible, communicate when conflicts arise, remain engaged in collaborative activities, and contribute positively to the community.
 
-If someone accepts a funded or formal position but is consistently unable to participate in meetings or fulfill agreed-upon responsibilities, we should openly discuss whether that role continues to be the best fit for both the individual and the lab.
+
 
 ---
 
