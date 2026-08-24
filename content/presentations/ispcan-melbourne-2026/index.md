@@ -70,7 +70,7 @@ The pipeline applies:
 - **GPT-4o-mini** for LLM-based structured field extraction
 - **Structured Topic Modeling (STM)** with incident year or judicial ruling as a prevalence covariate
 - **BART zero-shot classification** as an independent supervised-style validation check
-- **FREX word scoring** (frequency Ã— exclusivity) for topic labeling
+- **FREX word scoring** (frequency Ã exclusivity) for topic labeling
 
 ## Lab Members
 
