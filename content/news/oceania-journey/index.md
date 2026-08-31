@@ -7,10 +7,8 @@ tags: ["ISPCAN", "Conference", "Melbourne", "Australia", "Oceania", "Travel"]
 summary: "Dr. Gia Barboza-Salerno shares her journey through Oceania and her experience presenting at the 2026 ISPCAN World Congress on Child Abuse and Neglect in Melbourne, Australia."
 ---
 
-Dr. Gia Barboza-Salerno recently traveled through Oceania and presented at the **2026 ISPCAN World Congress on Child Abuse and Neglect** in Melbourne, Australia (August 24–26, 2026). Explore her full journey — including stops along the way, conference highlights, and reflections on the trip — in the interactive feature below.
+Dr. Gia Barboza-Salerno recently traveled through Oceania and presented at the **2026 ISPCAN World Congress on Child Abuse and Neglect** in Melbourne, Australia (August 24–26, 2026).
 
-{{< rawhtml >}}
-<iframe src="https://issues.shinyapps.io/oceania-journey/" width="100%" height="800px" style="border:none; border-radius:8px;"></iframe>
-{{< /rawhtml >}}
+Explore her full journey, including stops along the way, conference highlights, and reflections on the trip in the interactive feature below.
 
-You can also **[open the full interactive journey here](https://issues.shinyapps.io/oceania-journey/)**.
+**[View Gia's Journey through Oceania](https://issues.shinyapps.io/oceania-journey/)**
