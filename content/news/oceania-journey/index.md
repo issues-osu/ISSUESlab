@@ -9,6 +9,6 @@ summary: "Dr. Gia Barboza-Salerno shares her journey through Oceania and her exp
 
 Dr. Gia Barboza-Salerno recently traveled through Oceania and presented at the **2026 ISPCAN World Congress on Child Abuse and Neglect** in Melbourne, Australia (August 24–26, 2026).
 
-Explore her full journey, including stops along the way, conference highlights, and reflections on the trip in the interactive feature below.
+Explore their full journey, including stops along the way, conference highlights, and reflections on the trip in the interactive feature below.
 
 **[View Gia's Journey through Oceania](https://issues.shinyapps.io/oceania-journey/)**
