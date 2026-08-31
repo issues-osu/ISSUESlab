@@ -29,8 +29,7 @@ social:
   icon_pack: fab
   link: "https://www.linkedin.com/in/jemima-grace-46233b18a"
 email: "jemimagrace2732@gmail.com"
-user_groups:
-- Graduate Students
+user_groups: []
 ---
 
 Motivated by commitment to children’s wellbeing and healthy aging, Grace is interested in understanding the social, environmental, behavioral, and public health factors that shape the health outcomes. She is passionate about designing evidence-based interventions that are simple, cost effective and accessible to communities in resource-limited settings.
