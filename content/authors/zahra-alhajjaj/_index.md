@@ -4,7 +4,7 @@ title: "Zahra Alhajjaj"
 authors:
 - zahra-alhajjaj
 superuser: false
-role: "PhD Candidate, Graduate Research Associate"
+role: "PhD Candidate, Graduate Research Assistant"
 organizations:
 - name: "The Ohio State University, College of Nursing"
   url: "https://nursing.osu.edu/"
