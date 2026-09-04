@@ -111,6 +111,32 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 <li><strong>License:</strong> Public use file freely available; restricted data requires formal request</li>
 </ul></div>
 
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>🌟 Human Flourishing Geographic Index (USA, 2013–2023)</strong>
+
+<ul>
+<li><strong>Provider:</strong> Harvard Dataverse</li>
+<li><strong>Description:</strong> County-level dataset measuring human flourishing across the United States from 2013 to 2023. Captures multidimensional aspects of well-being including happiness, health, meaning, character, close social relationships, and financial security at the county level. Designed for research on place-based determinants of human thriving and inequality in well-being across U.S. communities.</li>
+<li><strong>Time Period:</strong> 2013–2023</li>
+<li><strong>Geographic Unit:</strong> County (USA)</li>
+<li><strong>Format:</strong> Available via Harvard Dataverse</li>
+<li><strong>DOI / Access:</strong> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T39JBY">Harvard Dataverse — doi:10.7910/DVN/T39JBY</a></li>
+<li><strong>Citation:</strong> Barboza-Salerno, G. E. (2026). The Human Flourishing Geographic Index: A County-Level Dataset for the United States, 2013–2023. <em>Scientific Data</em>. <a href="https://www.nature.com/articles/s41597-026-07803-1">https://doi.org/10.1038/s41597-026-07803-1</a></li>
+<li><strong>License:</strong> Open access</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #eef6ee; border-left: 4px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>⚖️ Structural Racism and Discrimination Index (SRDI)</strong>
+
+<ul>
+<li><strong>Provider:</strong> University of Connecticut — Structural Racism and Discrimination Index Project</li>
+<li><strong>Description:</strong> A composite, multidimensional index measuring structural racism and discrimination across U.S. geographies. Operationalizes structural racism through indicators spanning health, education, criminal justice, housing, employment, and political representation to capture systemic racial inequities embedded in social institutions. Intended for research on the upstream drivers of racial health disparities and neighborhood-level inequality.</li>
+<li><strong>Geographic Unit:</strong> U.S. counties and states</li>
+<li><strong>Format:</strong> Available via the project website</li>
+<li><strong>Access:</strong> <a href="https://structuralracism.research.uconn.edu/">Structural Racism and Discrimination Index — University of Connecticut</a></li>
+<li><strong>License:</strong> Open access for research use</li>
+</ul></div>
+
 ------------------------------------------------------------------------
 
 ## Health & Public Health Data
