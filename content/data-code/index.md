@@ -22,7 +22,6 @@ We publish most of our code and data openly through [our Github account](https:/
 | ------------------| ------------------------------ |
 | Short description: | Spatial Accessibility to Abortion Facilities in Ohio, Kentucky, and West Virginia. |
 | Lead developer: | Barboza |
-| Further reading: | Please read the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023) published in the ISPRS Journal of Photogrammetry and Remote Sensing |
 | Download: | [Github repo](https://github.com/issues-osu) |
 
 Check out our [tutorial on spatial accessibility](/ISSUESlab/) for more details.
