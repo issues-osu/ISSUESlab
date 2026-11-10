@@ -4,9 +4,10 @@ date: 2026-04-11
 draft: false
 featured: true
 authors:
-  - allie-watson-grace
-  - hannah-yang
+  - amy-watson-grace
+  - hexin-yang
   - gia-barboza-salerno
+  - karla-shockley-mccarthy
 tags:
   - education
   - discipline
@@ -33,7 +34,7 @@ Exclusionary discipline disproportionately affects youth of color, but Indigenou
 
 This research highlights critical disparities in school discipline practices and calls for systemic reform to ensure equitable treatment of Indigenous students in New Mexico public schools.
 
-**Authors**: Allie Watson-Grace, Hannah Yang, and Dr. Gia Barboza-Salerno
+**Authors**: Dr. Amy Watson-Grace, Hexin Yang, Dr. Gia Barboza-Salerno, and Dr. Karla Shockley McCarthy
 
 ---
 

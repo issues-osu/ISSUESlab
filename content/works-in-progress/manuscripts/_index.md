@@ -21,3 +21,9 @@ The following manuscripts are currently undergoing peer review or revision at ac
 *   [**Development and Spatial Validation of a Random Forest Prediction Model for Firearm-Related Injury Risk in Chicago Census Tracts**](/publication/random-forest-firearm-injury-chicago/)  
     *Gia Elise Barboza-Salerno, Hexin Yang, Taylor Harrington, Balaji Ramesh*  
     **Status:** Under Revision (Revise & Resubmit) at *Applied Spatial Analysis and Policy*
+
+### Education & Youth Equity
+
+*   [**Minor Infractions, Major Consequences: A Multilevel Analysis of School Discipline Disparities Affecting Native American Students Attending New Mexico Public Schools**](/publication/native-discipline-aera-open/)  
+    *Amy Watson-Grace, Hexin Yang, Gia Elise Barboza-Salerno, Karla Shockley McCarthy*  
+    **Status:** Submitted / Under Review at *AERA Open*

@@ -1116,16 +1116,14 @@ import pandas as pd
 
 When using these data sources, please follow appropriate citation practices:
 
-::: callout-important
+<div class="alert alert-note" style="background-color: #eef4f9; border-left: 5px solid #007bff; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>General Citation Format</strong>
 
-### General Citation Format
+<p style="margin-top: 8px; margin-bottom: 8px;">Author/Organization. (Year). <em>Dataset Title</em> [Data file]. Retrieved from URL</p>
 
-Author/Organization. (Year). *Dataset Title* \[Data file\]. Retrieved from URL
-
-**Example:**
-
-National Center for Health Statistics. (2023). *National Health Interview Survey, 2022* \[Data file\]. Retrieved from <https://www.cdc.gov/nchs/nhis/>
-:::
+<p style="margin-bottom: 0;"><strong>Example:</strong><br>
+National Center for Health Statistics. (2023). <em>National Health Interview Survey, 2022</em> [Data file]. Retrieved from <a href="https://www.cdc.gov/nchs/nhis/">https://www.cdc.gov/nchs/nhis/</a></p>
+</div>
 
 ------------------------------------------------------------------------
 
@@ -1138,11 +1136,10 @@ National Center for Health Statistics. (2023). *National Health Interview Survey
 
 ------------------------------------------------------------------------
 
-::: callout-tip
+<div class="alert alert-tip" style="background-color: #eef6ee; border-left: 5px solid #28a745; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>💡 Suggest a Data Source</strong>
 
-### Suggest a Data Source
-
-Know of a valuable data source not listed here? Please [submit a suggestion](mailto:barboza-salerno.1@osu.edu?subject=Data%20Source%20Suggestion).
-:::
+<p style="margin-top: 8px; margin-bottom: 0;">Know of a valuable data source not listed here? Please <a href="mailto:barboza-salerno.1@osu.edu?subject=Data%20Source%20Suggestion">submit a suggestion</a>.</p>
+</div>
 
 ------------------------------------------------------------------------

@@ -38,7 +38,7 @@ date: 2025-04-25
 
   <h2>Manuscripts Under Review</h2>
   
-- **Watson-Grace, A.**, Yang, H., & **Barboza-Salerno, G.** Harsher punishments, lesser infractions: Disciplinary injustice for Native American students in New Mexico public schools. *Submitted to AERA Open*.
+- **Watson-Grace, A.**, Yang, H., **Barboza-Salerno, G.**, & Shockley McCarthy, K. Minor Infractions, Major Consequences: A Multilevel Analysis of School Discipline Disparities Affecting Native American Students Attending New Mexico Public Schools. *AERA Open*.
 
   <h2>Policy Briefs & Reports</h2>
   

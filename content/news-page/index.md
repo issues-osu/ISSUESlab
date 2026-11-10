@@ -6,6 +6,30 @@ weight: 25
 
 ## Recent Highlights
 
+### Congratulations to Amy Watson-Grace, Hexin Yang, Gia Barboza-Salerno, and Karla Shockley McCarthy on Their Manuscript in *AERA Open*
+
+Congratulations to Dr. Amy Watson-Grace, Hexin Yang, Dr. Gia Elise Barboza-Salerno, and Dr. Karla Shockley McCarthy on their manuscript entitled *"Minor Infractions, Major Consequences: A Multilevel Analysis of School Discipline Disparities Affecting Native American Students Attending New Mexico Public Schools"* in *AERA Open*!
+
+[Read more →](/news/aera-open-native-discipline/)
+
+---
+
+### Congratulations to Taylor Harrington and Malcolm McCarthy for Presenting at APHA 2026 in San Antonio, Texas
+
+Congratulations to Taylor Harrington and Malcolm McCarthy for presenting their research at the 2026 American Public Health Association (APHA) Annual Meeting in San Antonio, Texas!
+
+[View photos and presentation details →](/news/apha-2026-presentations/)
+
+---
+
+### Dr. Gia Barboza-Salerno Provides Expert Testimony on Structural Mitigation in Ashtabula County Resentencing Trial
+
+Dr. Gia Barboza-Salerno's expert witness testimony on structural mitigation in Ashtabula County—examining how neighborhood-level unemployment, educational inequities, and cumulative systemic failures shape developmental trajectories—was featured in the *Star Beacon*.
+
+[Read the full coverage →](/news/ashtabula-structural-mitigation-testimony/)
+
+---
+
 ### Dr. Barboza-Salerno Addresses Grand Challenge to Prevent Gun Violence
 
 Dr. Gia Barboza-Salerno was featured by the College of Social Work for her work addressing the Grand Challenge to Prevent Gun Violence. Her research applies geospatial analysis and machine learning to understand the spatial distribution of firearm-related harm and inform prevention strategies.
