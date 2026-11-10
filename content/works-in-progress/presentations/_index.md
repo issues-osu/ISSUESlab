@@ -21,7 +21,7 @@ Click on any presentation title below to view the study details, authors, and ab
     *APHA Annual Meeting, San Antonio, Texas (November 2026)*
 
 *   [**Improving surveillance of IPV-related head and neck injuries using AI-enhanced ED narratives**](../../event/apha-2026-presentation-3/)  
-    *Karla Shockley McCarthy & Gia Elise Barboza-Salerno*  
+    *Karla Shockley McCarthy, Gia Elise Barboza-Salerno, & Malcolm McCarthy*  
     *APHA Annual Meeting, San Antonio, Texas (November 2026)*
 
 *   [**Extreme heat and suicide risk among older adults: A longitudinal time series analysis in an urban U.S. setting**](../../event/apha-2026-presentation-4/)  

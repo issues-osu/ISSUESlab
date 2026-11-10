@@ -44,8 +44,14 @@ We are proud to congratulate **Taylor Harrington** and **Malcolm McCarthy** on t
   *Session:* Climate, Culture, and Life-Course Contexts in Mental Health (Mental Health)  
   Using ecological longitudinal time-series modeling of suicide mortality among adults aged 65 and older in Chicago (2016–2024), this research shows that each 1°C increase above the extreme heat threshold is associated with an estimated 20% increase in suicide risk at a two-day lag, underscoring the intersection of climate change, neighborhood deprivation, and aging mental health.
 
+- **Karla Shockley McCarthy**, *Gia Elise Barboza-Salerno, & **Malcolm McCarthy***  
+  [**Improving surveillance of IPV-related head and neck injuries using AI-enhanced ED narratives**](/event/apha-2026-presentation-3/)  
+  *Session:* Injury Epidemiology, Trauma Systems, and Health Care Utilization Posters (Injury Control and Emergency Health Services)  
+  Applying large language models (LLMs) and Latent Dirichlet Allocation (LDA) topic modeling to emergency department clinical narratives from NEISS, this study identifies distinct behavioral and environmental pathways to IPV-related head and neck trauma not captured by standard surveillance codes.
+
 - **Gia Elise Barboza-Salerno**, *Karla Shockley McCarthy, **Malcolm McCarthy**, & Dr. Amy Watson-Grace*  
   [**Disability-related depression inequities are driven by accessibility deficits: Evidence from crowdsourced sidewalk data and machine learning**](/event/apha-2026-presentation-1/)  
   *Session:* Mobility, Transit, and Built Environments for Disabled People (Disability)
 
 Congratulations to Taylor and Malcolm for representing the ISSUES Lab and advancing spatial public health scholarship in San Antonio!
+

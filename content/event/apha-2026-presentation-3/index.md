@@ -12,6 +12,7 @@ publishDate: "2026-07-08T00:00:00Z"
 authors:
   - "karla-shockley-mccarthy"
   - "gia-barboza-salerno"
+  - "malcolm-mccarthy"
 tags: ["APHA 2026", "IPV", "AI", "Emergency Department", "Injury Surveillance"]
 featured: false
 url_code: ""
