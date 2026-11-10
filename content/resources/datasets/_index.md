@@ -1,7 +1,7 @@
 ---
 title: "Data Sources"
 subtitle: "Curated Resources for Research and Analysis"
-date: 2026-07-18
+date: 2026-11-10
 toc: true
 toc-depth: 3
 toc-title: "Contents"
@@ -12,7 +12,7 @@ toc-title: "Contents"
 This page provides a comprehensive collection of data sources used in our research and teaching. Resources are organized by topic area and include both freely available and restricted-access datasets.
 
 <div class="alert alert-note" style="background-color: #eef4f9; border-left: 5px solid #007bff; padding: 15px; margin-bottom: 20px;">
-<strong>Last Updated:</strong> 2026-07-18
+<strong>Last Updated:</strong> 2026-11-10
 
 Links are checked regularly, but availability may change. Please contact us if you find broken links.</div>
 
@@ -255,13 +255,13 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 </ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Civil Rights Data Collection</strong>
+<strong>Civil Rights Data Collection (U.S. Dept. of Education)</strong>
 
 <ul>
 <li><strong>Provider:</strong> U.S. Department of Education Office for Civil Rights</li>
-<li><strong>Description:</strong> School-level data on enrollment, discipline, access to courses, and civil rights issues</li>
+<li><strong>Description:</strong> Discipline, access to courses, restraint, harassment, enrollment, and other civil rights indicators for every public school</li>
 <li><strong>Time Period:</strong> 1968-present (biennial since 2009)</li>
-<li><strong>Access:</strong> [Civil Rights Data Collection](https://civilrightsdata.ed.gov/data)</li>
+<li><strong>Access:</strong> <a href="https://civilrightsdata.ed.gov/">civilrightsdata.ed.gov</a></li>
 <li><strong>Format:</strong> Excel, CSV</li>
 <li><strong>License:</strong> Public domain</li>
 </ul></div>
@@ -271,11 +271,11 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 
 <ul>
 <li><strong>Provider:</strong> Urban Institute</li>
-<li><strong>Description:</strong> School and district-level data on enrollment, disability, race/ethnicity, income, discipline</li>
+<li><strong>Description:</strong> Harmonized federal education data for schools, districts, and colleges (enrollment, disability, race/ethnicity, income, discipline, and finance)</li>
 <li><strong>Time Period:</strong> Varies</li>
-<li><strong>Access:</strong> [Education Data Portal](https://educationdata.urban.org/)</li>
+<li><strong>Access:</strong> <a href="https://educationdata.urban.org/">educationdata.urban.org</a></li>
 <li><strong>API:</strong> Available</li>
-<li><strong>Format:</strong> CSV, API</li>
+<li><strong>Format:</strong> CSV, API, R/Stata packages</li>
 <li><strong>License:</strong> Public domain</li>
 </ul></div>
 
@@ -616,6 +616,18 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 </ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Google Earth Engine (NDVI, VIIRS, NAIP)</strong>
+
+<ul>
+<li><strong>Provider:</strong> Google</li>
+<li><strong>Description:</strong> Planetary-scale platform for satellite and geospatial analysis providing vegetation indices (NDVI), nighttime lights (VIIRS), high-resolution aerial imagery (NAIP), land cover, and climate datasets</li>
+<li><strong>Time Period:</strong> Historical to present</li>
+<li><strong>Access:</strong> <a href="https://earthengine.google.com/">earthengine.google.com</a></li>
+<li><strong>Format:</strong> GeoTIFF, Cloud-hosted Earth Engine Catalog, Python/JavaScript API</li>
+<li><strong>License:</strong> Free for research, education, and nonprofit use</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 <strong>OpenTopography Data</strong>
 
 <ul>
@@ -652,27 +664,51 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 </ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<strong>EPA EJScreen: Environmental Justice Mapping Tool</strong>
+<strong>CDC/ATSDR Environmental Justice Index (EJI)</strong>
 
 <ul>
-<li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
-<li><strong>Description:</strong> Environmental and demographic indicators including particulate matter, ozone, air toxins, traffic proximity, and hazardous waste</li>
-<li><strong>Time Period:</strong> Updated annually</li>
-<li><strong>Access:</strong> [EJScreen](https://www.epa.gov/ejscreen)</li>
-<li><strong>Format:</strong> Online tool, downloadable data</li>
+<li><strong>Provider:</strong> Centers for Disease Control and Prevention (CDC) / Agency for Toxic Substances and Disease Registry (ATSDR)</li>
+<li><strong>Description:</strong> Cumulative environmental, social, and health burden at the census tract level across the United States</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> <a href="https://www.atsdr.cdc.gov/place-health/php/eji/">atsdr.cdc.gov/place-health/php/eji</a></li>
+<li><strong>Format:</strong> Interactive map, CSV, Geodatabase, Shapefiles</li>
+<li><strong>License:</strong> Public domain</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>EJScreen and CEJST (Archived)</strong>
+
+<ul>
+<li><strong>Provider:</strong> U.S. Environmental Protection Agency / Council on Environmental Quality (Community Archival Mirror)</li>
+<li><strong>Description:</strong> Environmental justice screening data combining environmental exposures (particulate matter, ozone, air toxics, traffic proximity, hazardous waste) and socioeconomic/climate burden indicators from EPA EJScreen and the Climate and Economic Justice Screening Tool (CEJST)</li>
+<li><strong>Time Period:</strong> Historical & archived releases</li>
+<li><strong>Access:</strong> <a href="https://screening-tools.com/">screening-tools.com</a> (Archived tools & data) | <a href="https://www.epa.gov/ejscreen">EPA EJScreen</a></li>
+<li><strong>Format:</strong> Online mapping tools, downloadable CSV and GIS data</li>
 <li><strong>License:</strong> Public domain</li>
 </ul></div>
 
 ### Built Environment & Accessibility
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>TransitCenter Equity Dashboard</strong>
+
+<ul>
+<li><strong>Provider:</strong> TransitCenter</li>
+<li><strong>Description:</strong> Access to jobs, parks, hospitals, groceries, and other opportunities by public transit and driving across major U.S. metropolitan areas</li>
+<li><strong>Time Period:</strong> Updated periodically</li>
+<li><strong>Access:</strong> <a href="https://dashboard.transitcenter.org/">dashboard.transitcenter.org</a></li>
+<li><strong>Format:</strong> Interactive dashboard, downloadable CSV/spatial data</li>
+<li><strong>License:</strong> Open access</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 <strong>EPA National Walkability Index</strong>
 
 <ul>
 <li><strong>Provider:</strong> U.S. Environmental Protection Agency</li>
-<li><strong>Description:</strong> Street intersection density and walkability metrics for neighborhoods</li>
+<li><strong>Description:</strong> Relative walkability of every census block group in the United States based on street intersection density, transit proximity, and land-use mix</li>
 <li><strong>Time Period:</strong> Updated periodically</li>
-<li><strong>Access:</strong> [National Walkability Index](https://www.epa.gov/smartgrowth/smart-location-mapping)</li>
+<li><strong>Access:</strong> <a href="https://www.epa.gov/smartgrowth/smart-location-mapping">epa.gov/smartgrowth/smart-location-mapping</a></li>
 <li><strong>Format:</strong> Geodatabase, CSV</li>
 <li><strong>License:</strong> Public domain</li>
 </ul></div>
@@ -749,7 +785,55 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 <li><strong>License:</strong> Requires API key</li>
 </ul></div>
 
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Project Sidewalk (University of Washington)</strong>
+
+<ul>
+<li><strong>Provider:</strong> Makeability Lab, University of Washington</li>
+<li><strong>Description:</strong> Sidewalk accessibility problems (curb ramps, surface problems, obstacles, missing sidewalks), crowdsourced and AI-assisted from street-level imagery</li>
+<li><strong>Time Period:</strong> Continuously updated</li>
+<li><strong>Access:</strong> <a href="https://projectsidewalk.io/">projectsidewalk.io</a></li>
+<li><strong>Format:</strong> Interactive map, GeoJSON, CSV, API</li>
+<li><strong>License:</strong> Open access / CC0</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>MIT Treepedia</strong>
+
+<ul>
+<li><strong>Provider:</strong> MIT Senseable City Lab</li>
+<li><strong>Description:</strong> Street-level greenery (Green View Index) measured from Google Street View panoramas across global cities</li>
+<li><strong>Time Period:</strong> Varies by city</li>
+<li><strong>Access:</strong> <a href="https://senseable.mit.edu/treepedia">senseable.mit.edu/treepedia</a></li>
+<li><strong>Format:</strong> Interactive maps, open-source Python library, spatial data</li>
+<li><strong>License:</strong> Open access for research use</li>
+</ul></div>
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>MIT Place Pulse 2.0</strong>
+
+<ul>
+<li><strong>Provider:</strong> MIT Media Lab (Macro Connections / Collective Learning)</li>
+<li><strong>Description:</strong> Crowdsourced and deep-learning dataset measuring how safe, lively, wealthy, or depressing urban streets look to people using street-level imagery</li>
+<li><strong>Time Period:</strong> Historical benchmark dataset</li>
+<li><strong>Access:</strong> <a href="https://pulse.media.mit.edu/">pulse.media.mit.edu</a></li>
+<li><strong>Format:</strong> CSV, image metadata, pairwise comparisons</li>
+<li><strong>License:</strong> Open access for research use</li>
+</ul></div>
+
 ### Social & Health Vulnerability
+
+<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
+<strong>Child Opportunity Index 3.0 (Brandeis)</strong>
+
+<ul>
+<li><strong>Provider:</strong> diversitydatakids.org, Brandeis University Heller School for Social Policy and Management</li>
+<li><strong>Description:</strong> Neighborhood opportunity across education, health and environment, and social and economic domains for nearly every U.S. census tract</li>
+<li><strong>Time Period:</strong> 2012–2021 (COI 3.0 longitudinal series)</li>
+<li><strong>Access:</strong> <a href="https://www.diversitydatakids.org/">diversitydatakids.org</a></li>
+<li><strong>Format:</strong> CSV, Stata, R, interactive maps, API</li>
+<li><strong>License:</strong> Free for research and public use</li>
+</ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
 <strong>CDC Social Vulnerability Index (SVI)</strong>
@@ -832,10 +916,10 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 
 <ul>
 <li><strong>Provider:</strong> Trust for Public Land</li>
-<li><strong>Description:</strong> Park access and equity data including 10-minute walk access to parks</li>
+<li><strong>Description:</strong> Park access and equity data tracking who lives within a 10-minute walk of a park across U.S. cities and communities</li>
 <li><strong>Time Period:</strong> Updated regularly</li>
-<li><strong>Access:</strong> [ParkServe](https://www.tpl.org/parkserve)</li>
-<li><strong>Format:</strong> Interactive map, API</li>
+<li><strong>Access:</strong> <a href="https://www.tpl.org/parkserve">tpl.org/parkserve</a></li>
+<li><strong>Format:</strong> Interactive map, Shapefiles, Geodatabase, CSV</li>
 <li><strong>License:</strong> Varies</li>
 </ul></div>
 
@@ -844,36 +928,24 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 
 <ul>
 <li><strong>Provider:</strong> American Forests</li>
-<li><strong>Description:</strong> Tree equity scores, heat extremity, and heat disparity metrics</li>
+<li><strong>Description:</strong> Measures whether tree canopy reaches those who need it most, combining tree canopy cover with income, employment, race, age, and urban heat disparity metrics</li>
 <li><strong>Time Period:</strong> Current</li>
-<li><strong>Access:</strong> [Tree Equity Score](https://www.treeequityscore.org/)</li>
-<li><strong>Format:</strong> Interactive map, downloadable data</li>
-<li><strong>License:</strong> Varies</li>
-</ul></div>
-
-<div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<strong>National Tree Equity Score</strong>
-
-<ul>
-<li><strong>Provider:</strong> American Forests</li>
-<li><strong>Description:</strong> National-level tree canopy and equity analysis</li>
-<li><strong>Time Period:</strong> Current</li>
-<li><strong>Access:</strong> [Tree Equity Score](https://www.treeequityscore.org/)</li>
-<li><strong>Format:</strong> Interactive map, CSV</li>
+<li><strong>Access:</strong> <a href="https://www.treeequityscore.org/">treeequityscore.org</a></li>
+<li><strong>Format:</strong> Interactive map, downloadable Shapefiles, GeoPackage, CSV</li>
 <li><strong>License:</strong> Varies</li>
 </ul></div>
 
 ### Housing & Neighborhood Change
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<strong>University of Richmond Mapping Inequality</strong>
+<strong>Mapping Inequality (University of Richmond)</strong>
 
 <ul>
 <li><strong>Provider:</strong> Digital Scholarship Lab, University of Richmond</li>
-<li><strong>Description:</strong> HOLC redlining maps and neighborhood grades for U.S. cities</li>
+<li><strong>Description:</strong> 1930s Home Owners' Loan Corporation (HOLC) redlining maps and area description files for U.S. cities</li>
 <li><strong>Time Period:</strong> 1930s-1940s</li>
-<li><strong>Access:</strong> [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)</li>
-<li><strong>Format:</strong> Interactive maps, downloadable shapefiles</li>
+<li><strong>Access:</strong> <a href="https://dsl.richmond.edu/panorama/redlining/">dsl.richmond.edu/panorama/redlining</a></li>
+<li><strong>Format:</strong> Interactive maps, downloadable Shapefiles, GeoJSON</li>
 <li><strong>License:</strong> CC BY-NC-SA 4.0</li>
 </ul></div>
 
@@ -926,13 +998,13 @@ These datasets are actively used in ISSUES Lab research projects. They span publ
 </ul></div>
 
 <div class="data-source" style="background-color: #f8f9fa; border-left: 4px solid #0056b3; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Center for Neighborhood Technology Housing + Transportation Index</strong>
+<strong>CNT Housing + Transportation (H+T) Affordability Index</strong>
 
 <ul>
-<li><strong>Provider:</strong> Center for Neighborhood Technology</li>
-<li><strong>Description:</strong> Comprehensive housing and transportation cost data by neighborhood</li>
+<li><strong>Provider:</strong> Center for Neighborhood Technology (CNT)</li>
+<li><strong>Description:</strong> Combined housing and transportation costs by neighborhood across the United States</li>
 <li><strong>Time Period:</strong> Updated periodically</li>
-<li><strong>Access:</strong> [H+T Index](https://htaindex.cnt.org/)</li>
+<li><strong>Access:</strong> <a href="https://htaindex.cnt.org/">htaindex.cnt.org</a></li>
 <li><strong>Format:</strong> CSV, interactive maps</li>
 <li><strong>License:</strong> Varies</li>
 </ul></div>
